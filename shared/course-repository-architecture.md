@@ -243,73 +243,23 @@ Before treating a missing or changing repository as an incident:
 
 Do not rely on an old screenshot, copied command, or previous term's repository state when the live course repository provides newer information.
 
-## Returning to an Existing Assignment or Project
+## Repository Lifecycle and Recovery
 
-A student normally creates a personal repository from the template **once for that course activity**.
+Students normally create each assignment or project repository once and then continue using that repository for the activity. Missing, damaged, previous-term, or reset local copies require different recovery workflows.
 
-If the student later uses another supported computer or a reset CVD:
+For the canonical procedures for:
 
-- do not create another personal repository merely because the local folder is missing;
-- clone the student's existing private GitHub repository into the new environment.
+- returning to existing work;
+- moving to another environment or a reset CVD;
+- restoring a local clone from GitHub;
+- starting over from the current course template;
+- identifying the exact repository during troubleshooting; and
+- handling repositories for repeat-course attempts,
 
-If the local copy is damaged but the GitHub copy is good, preserve or rename the local copy before cloning the existing private repository again.
-
-See [GitHub Workflow](github-workflow.md) for the common recovery model.
-
-## Starting Over
-
-Starting over from a course template is different from recloning the student's existing repository.
-
-A restart from the template normally means:
-
-1. preserve or rename the student's existing local repository;
-2. preserve or rename the student's existing private GitHub repository;
-3. create a new private repository from the **current** GC-STEM course template; and
-4. clone the new private repository.
-
-Use the activity repository's current **Reset** or **Start Over** instructions when they exist.
+see [GitHub Workflow](github-workflow.md).
 
 > [!CAUTION]
-> Do not delete a student's only copy of work as a troubleshooting shortcut.
-
-## Repeat Students
-
-A student repeating part or all of IT 140 should use repositories created from the **current course templates** for the new course attempt rather than using an old assignment or project repository as the active working repository.
-
-This ensures that the student receives the current:
-
-- repository structure;
-- instructions;
-- starter files;
-- configuration;
-- tests; and
-- support resources.
-
-Previous repositories may be retained for reference or backup, subject to applicable course and academic-integrity requirements, but they should not replace the current template for the new attempt.
-
-## Identifying the Repository During Troubleshooting
-
-Before troubleshooting a repository problem, collect enough information to identify the exact copy.
-
-Useful checks include:
-
-```text
-Repository name:
-GitHub owner or organization:
-GitHub repository URL:
-Local repository path:
-```
-
-From the local repository root, these commands are often useful:
-
-```bash
-git status
-git remote -v
-```
-
-`git remote -v` helps identify which GitHub repository the local clone is connected to.
-
-A normal student assignment clone should point to the student's GitHub account, not directly to `GC-STEM`.
+> Before changing, deleting, renaming, recreating, or recloning a repository, identify which copy is involved and preserve the student's work.
 
 ## Common Architecture Mistakes
 
