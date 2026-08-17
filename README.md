@@ -75,18 +75,43 @@ it140-support/
 │   ├── support-boundaries.md
 │   └── escalation-model.md
 ├── faculty/
-│   └── README.md
+│   ├── README.md
+│   ├── start-of-term.md
+│   ├── setup-and-familiarization.md
+│   ├── supporting-students.md
+│   ├── assignments-and-grading.md
+│   ├── github-and-repositories.md
+│   ├── technical-issues-and-escalation.md
+│   └── common-scenarios.md
 ├── lss/
-│   └── README.md
+│   ├── README.md
+│   ├── orientation-and-familiarization.md
+│   ├── workshops-and-office-hours.md
+│   ├── learning-support-and-integrity.md
+│   ├── github-and-course-tools.md
+│   ├── resource-development.md
+│   ├── referrals-and-escalation.md
+│   └── common-scenarios.md
 ├── advisors/
-│   └── README.md
+│   ├── README.md
+│   ├── course-expectations.md
+│   ├── technology-context.md
+│   ├── student-concerns.md
+│   ├── referrals-and-routing.md
+│   └── common-scenarios.md
 ├── service-desk/
-│   └── README.md
+│   ├── README.md
+│   ├── triage.md
+│   ├── environment-troubleshooting.md
+│   ├── github-repository-troubleshooting.md
+│   ├── verification-and-logs.md
+│   ├── safe-remediation.md
+│   └── escalation.md
 └── assets/
     └── images/
 ```
 
-The initial structure is intentionally small. Additional role-specific pages should be added only when a role's procedures are large enough to justify separate files.
+Role-specific sections intentionally differ in size. A Service Desk runbook requires more technical procedures than an advisor guide; the repository does not force artificial symmetry across roles.
 
 ## Shared Documentation
 
@@ -165,17 +190,21 @@ Internal escalation routing, restricted administrative procedures, or security-s
 
 ## Development Status
 
-This support repository is being developed incrementally.
+The initial support architecture and all four role-specific sections are now developed:
 
-The current first round establishes:
+- shared canonical support documentation;
+- IT Service Desk triage and escalation runbook;
+- faculty support guide;
+- LSS support guide; and
+- Academic Advisor support guide.
 
-- the repository architecture;
-- the audience and scope;
-- the shared-documentation model;
-- the top-level navigation;
-- placeholder outlines for the shared and role-specific guides.
+The next repository-wide phase should focus on:
 
-Future rounds will develop the shared documentation first, followed by the Service Desk, faculty, LSS, and advisor guides.
+- cache-busted rendered review of the completed role sections;
+- navigation and duplication checks across roles;
+- completing screenshot assets;
+- filling approved internal-routing/workflow placeholders; and
+- ongoing maintenance as the IT 140 course environment evolves.
 
 ## Repository Metadata
 
@@ -183,4 +212,4 @@ Future rounds will develop the shared documentation first, followed by the Servi
 - **Repository Name**: IT 140 Support
 - **Primary Audience**: SNHU faculty, Learning Support Specialists (LSS), academic advisors, and IT Service Desk personnel
 - **Repository Purpose**: Provide canonical shared course-support information and role-specific support procedures for IT 140
-- **Development Status**: Draft / Active Development
+- **Development Status**: Active Development / Integration Review
