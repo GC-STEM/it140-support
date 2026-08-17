@@ -1,13 +1,82 @@
 # IT 140 LSS Support Guide
 
+This guide is the starting point for **Learning Support Specialists (LSS)** who support IT 140 students through Academic Support.
+
+LSS are part-time Academic Support employees who primarily support IT 140 through:
+
+- **IT 140 Python Workshops** — optional one-to-many sessions with instruction followed by student Q&A;
+- **IT Basic Office Hours** — optional one-to-many sessions driven by student questions; and
+- development of programming and student-support resources for the
+  [SNHU Academic Resource Center](https://snhuacademicresourcecenter.screenstepslive.com/m/138398).
+
+> [!IMPORTANT]
+> Start here. You do **not** need to read the `shared/` directory first. LSS pages link directly to the shared course facts needed for each support task.
+
+## LSS Pages
+
+| Page | Use It For |
+| --- | --- |
+| [Orientation and Course Familiarization](orientation-and-familiarization.md) | Reorient to the current IT 140 course, repositories, tools, and support model |
+| [Python Workshops and IT Basic Office Hours](workshops-and-office-hours.md) | Plan and facilitate one-to-many learning support |
+| [Learning Support and Academic Integrity](learning-support-and-integrity.md) | Help students reason, debug, and learn without replacing graded work |
+| [GitHub and Course Tools](github-and-course-tools.md) | Support GitHub/repository/tool use at the learning-support level and recognize technical failures |
+| [Academic Resource Center Development](resource-development.md) | Create or update reusable LSS learning resources without duplicating course technical documentation |
+| [Referrals and Escalation](referrals-and-escalation.md) | Route faculty, technical, advising, and course-resource issues |
+| [Common LSS Scenarios](common-scenarios.md) | Quick guidance for recurring student questions |
+
+## Quick Routing
+
+| Student Need | LSS Action |
+| --- | --- |
+| Needs help understanding Python, pseudocode, flowcharts, testing, or debugging | Provide learning support appropriate to the student's current course work |
+| Student code runs but gives the wrong result | Help the student reason through and test their own code |
+| Asks what an assignment requires or whether work meets the rubric | Refer to the current D2L Brightspace Guidelines and Rubric and faculty |
+| Asks about a grade or instructor feedback | Refer to faculty |
+| CVD, local course IDE, account, authentication, installation, or Verify failure | Route to the IT Service Desk |
+| GitHub works but the student does not understand the repository workflow | LSS may explain the workflow using the current activity README |
+| GitHub account, `gh`, clone, remote, or repository recovery is technically failing | Route to the IT Service Desk |
+| Public GC-STEM course content appears broken or inconsistent | Preserve the evidence and use the course technical escalation path |
+| Academic planning or program question | Refer to an Academic Advisor |
+
+See [Support Boundaries](../shared/support-boundaries.md) for the canonical support-role model.
+
+## The LSS Role in IT 140
+
+LSS help students **develop understanding and problem-solving skills**.
+
+The shared support model identifies appropriate LSS support such as:
+
+- explaining course-level programming concepts;
+- helping students interpret error messages;
+- helping students reason through their own logic;
+- teaching debugging and testing approaches;
+- helping students use course development tools at a learning-support level; and
+- helping students locate relevant course resources.
+
+The student should remain the author and decision-maker for graded work.
+
+See [LSS Boundary](../shared/support-boundaries.md#lss-boundary) and
+[Academic Integrity Boundary](../shared/support-boundaries.md#academic-integrity-boundary).
+
+## Current Sources of Truth
+
+Use the source that matches the question.
+
+| Question | Source |
+| --- | --- |
+| What does the graded activity require? | D2L Brightspace Guidelines and Rubric |
+| What concept is the student currently learning? | Current D2L course content and zyBooks |
+| How should the activity repository be used? | The current activity repository `README.md` |
+| What is the current course/repository status? | [IT 140 Course Status](https://github.com/GC-STEM/it140/wiki/Course-Status) |
+| How should the course IDE be configured? | [Module One Setup Tasks](https://github.com/GC-STEM/it140-m1-setup-tasks) |
+| What reusable programming resources are available? | [SNHU Academic Resource Center](https://snhuacademicresourcecenter.screenstepslive.com/m/138398) |
+| Who should handle a particular problem? | [Support Boundaries](../shared/support-boundaries.md) |
+| What technical evidence should be preserved? | [Escalation Model](../shared/escalation-model.md) |
+
 > [!NOTE]
-> **Status:** Outline placeholder. This guide will be developed after the shared documentation, Service Desk runbook, and faculty guide.
+> The Academic Resource Center contains programming resources that may apply across courses and tools. Before recommending an article for IT 140, confirm that its concepts and any tool-specific instructions match the **current** IT 140 course environment and activity.
 
-This guide is for **Learning Support Specialists (LSS)** who assist IT 140 students.
-
-LSS should be able to begin here without reading the `shared/` directory first. Each completed procedure will link directly to the relevant shared reference.
-
-## Shared References
+## Shared References Used by LSS Guides
 
 - [IT 140 Course Overview](../shared/course-overview.md)
 - [Course Repository Architecture](../shared/course-repository-architecture.md)
@@ -17,19 +86,4 @@ LSS should be able to begin here without reading the `shared/` directory first. 
 - [Support Boundaries](../shared/support-boundaries.md)
 - [Escalation Model](../shared/escalation-model.md)
 
-## Planned Content
-
-- LSS orientation to IT 140
-- Course concepts and module progression relevant to learning support
-- Using the supported course IDE during student support
-- Understanding course and student repositories
-- Appropriate assistance with Python, pseudocode, flowcharts, and debugging
-- Academic-integrity boundaries
-- Helping students discover solutions without providing graded-assignment solutions
-- Repository collaborator access when appropriate
-- Recognizing technical environment problems
-- When to refer a student to faculty
-- When to refer a student to the IT Service Desk
-- Common LSS support scenarios
-
-<!-- screenshot placeholder; show the relevant student repository areas an LSS may inspect when assisting a student -->
+Return to the [IT 140 Support home page](../README.md).

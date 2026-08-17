@@ -3,9 +3,7 @@
 All notable documentation and structural changes to the IT 140 Support repository should be recorded in this file.
 
 ## Unreleased
-
 ### Added
-
 - Initial `it140-support` repository architecture.
 - Top-level repository purpose, scope, support principles, and role-based navigation.
 - Shared-documentation directory and placeholder outlines.
@@ -15,6 +13,7 @@ All notable documentation and structural changes to the IT 140 Support repositor
 - Hidden screenshot-placeholder convention for documentation under development.
 - Developed the IT Service Desk triage and escalation runbook with role-specific procedures for triage, supported environments, GitHub/repositories, verification/logs, safe remediation, and escalation.
 - Developed the faculty support guide with start-of-term reorientation, faculty setup/familiarization, student support, assignment/grading, repository, escalation, and common-scenario guidance for adjunct faculty.
+- Developed the LSS support guide with role orientation, Python Workshop and IT Basic Office Hours guidance, learning-support and academic-integrity practices, course-tool/repository guidance, Academic Resource Center development, referral/escalation, and common-scenario guidance.
 
 ### Changed
 
