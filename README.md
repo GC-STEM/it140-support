@@ -64,7 +64,6 @@ For graded assignments and projects:
 ```text
 it140-support/
 ├── README.md
-├── CHANGELOG.md
 ├── shared/
 │   ├── README.md
 │   ├── course-overview.md
@@ -172,7 +171,7 @@ When updating documentation:
 - avoid copying the revised fact into multiple role guides;
 - update procedures when the supported course workflow changes;
 - use pull requests for review when practical;
-- record material documentation changes in [CHANGELOG.md](CHANGELOG.md).
+- record material documentation changes in [CHANGELOG.md](./.github/CHANGELOG.md).
 
 ## Security, Privacy, and Academic Integrity
 
