@@ -32,7 +32,7 @@ Role-specific documentation:
 ## Choose Your Role
 
 | Role | Start Here | Primary Focus |
-|---|---|---|
+| --- | --- | --- |
 | Faculty | [Faculty Support Guide](faculty/README.md) | Teaching, student support, course workflow, assignment support, and escalation |
 | Learning Support Specialists (LSS) | [LSS Support Guide](lss/README.md) | Student learning support, appropriate code assistance, course tools, and escalation |
 | Academic Advisors | [Advisor Support Guide](advisors/README.md) | Course expectations, common student concerns, technology context, and referrals |
@@ -51,7 +51,7 @@ For graded assignments and projects:
 ## IT 140 Course Repositories
 
 | Purpose | Repository |
-|---|---|
+| --- | --- |
 | Main course hub and course IDE automation | [GC-STEM/it140](https://github.com/GC-STEM/it140) |
 | Module One setup tasks | [GC-STEM/it140-m1-setup-tasks](https://github.com/GC-STEM/it140-m1-setup-tasks) |
 | Module Two assignment | [GC-STEM/it140-m2-assignment](https://github.com/GC-STEM/it140-m2-assignment) |
@@ -93,7 +93,7 @@ The initial structure is intentionally small. Additional role-specific pages sho
 The `shared/` directory contains information that applies to more than one support role.
 
 | Shared Resource | Purpose |
-|---|---|
+| --- | --- |
 | [Shared Documentation Index](shared/README.md) | Index of canonical shared information |
 | [Course Overview](shared/course-overview.md) | Course purpose, instructional context, and major technologies |
 | [Course Repository Architecture](shared/course-repository-architecture.md) | Purpose and relationship of the IT 140 GitHub repositories |

@@ -60,8 +60,8 @@ The public **GC-STEM IT 140 course repositories** provide course development-env
 
 The GitHub repositories currently support:
 
-| Course Stage | GitHub-Supported Work |
-|---|---|
+| **Course Stage** | **GitHub-Supported Work** |
+| --- | --- |
 | Module One | Course development-environment setup |
 | Module Two | Beginner Python program and IDE reflection |
 | Module Three | Program design using flowcharts and pseudocode |
@@ -189,7 +189,7 @@ Do not make broad changes to a student's development environment simply because 
 Use the source that matches the question being answered.
 
 | Question | Primary Source |
-|---|---|
+| --- | --- |
 | What does a graded activity require? | D2L Brightspace Guidelines and Rubric |
 | What must the student submit? | D2L Brightspace Guidelines and Rubric |
 | How is an activity graded? | D2L Brightspace rubric and instructor feedback |

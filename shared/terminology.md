@@ -7,7 +7,7 @@ Use these terms consistently when communicating with students and other supporte
 ## Course and Instructional Terms
 
 | Term | Meaning in IT 140 |
-|---|---|
+| --- | --- |
 | **IT 140** | *Introduction to Scripting*, the introductory Python programming course supported by these repositories. |
 | **D2L Brightspace** | The course learning-management system. It is the authoritative source for graded activity requirements, submissions, grading, deadlines, and instructor feedback. |
 | **zyBooks** | The interactive course textbook and programming-practice environment used for instructional content and labs. |
@@ -24,7 +24,7 @@ Use these terms consistently when communicating with students and other supporte
 ## Support Roles
 
 | Term | Meaning |
-|---|---|
+| --- | --- |
 | **Faculty** | Instructors responsible for course instruction, assignment interpretation, grading, instructor feedback, and other faculty responsibilities. |
 | **LSS** | **Learning Support Specialist**. The SNHU title used in this repository for personnel who provide learning support to students. |
 | **Academic Advisor** | Personnel who support academic planning, course expectations, and referral to appropriate resources. |
@@ -37,7 +37,7 @@ See [Support Boundaries](support-boundaries.md) for role-routing guidance.
 ## Development Environment Terms
 
 | Term | Meaning in IT 140 |
-|---|---|
+| --- | --- |
 | **IDE** | Integrated development environment. In general computing, this usually refers to software for writing and running code. |
 | **course IDE** | IT 140 uses this term broadly for the complete standardized collection of course development tools, settings, extensions, folders, and integrations—not only VS Code. |
 | **VS Code** | Visual Studio Code, the primary editor/interface used for IT 140 development work. |
@@ -62,7 +62,7 @@ See [Support Boundaries](support-boundaries.md) for role-routing guidance.
 ## Git and GitHub Terms
 
 | Term | Meaning |
-|---|---|
+| --- | --- |
 | **Git** | Version-control software that tracks changes to files and repository history. Git works locally. |
 | **GitHub** | A web-based service that hosts Git repositories and collaboration features. |
 | **GitHub CLI / `gh`** | The GitHub command-line tool used in IT 140 for authentication, repository creation, cloning, and other GitHub actions. |
@@ -96,7 +96,7 @@ IT 140 uses a five-stage automation lifecycle:
 > **Prepare → Install → Configure → Verify → Update**
 
 | Term | Meaning |
-|---|---|
+| --- | --- |
 | **Prepare** | Obtains or refreshes the IT 140 course automation package so the approved platform scripts are available. |
 | **Install** | Installs or repairs required system-level course software on supported local environments. |
 | **Configure** | Configures the current user's course folders, tools, settings, extensions, Git/GitHub integrations, and other course-managed user settings. |
@@ -114,7 +114,7 @@ IT 140 uses a five-stage automation lifecycle:
 ## Automation Result Language
 
 | Result | General Meaning |
-|---|---|
+| --- | --- |
 | **`PASS`** | The lifecycle phase completed successfully. |
 | **`FAIL`** | The lifecycle phase encountered a hard failure. Read the final summary and remediation instructions. |
 | **`PARTIAL`** | The phase completed only part of its intended work or requires an additional action before it can finish successfully. |
@@ -129,7 +129,7 @@ IT 140 uses a five-stage automation lifecycle:
 ## Common File Extensions
 
 | Extension | Typical Use in IT 140 |
-|---|---|
+| --- | --- |
 | `.py` | Python source code |
 | `.md` | Markdown documentation or student text work |
 | `.drawio` | Draw.io diagram or flowchart |

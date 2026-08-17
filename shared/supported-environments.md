@@ -21,7 +21,7 @@ Local setup is optional. A working local installation is not required to complet
 ## Current Supported-Environment Summary
 
 | Environment | Current Course Role | Key Support Notes |
-|---|---|---|
+| --- | --- | --- |
 | **Codio Virtual Desktop (CVD)** | Reference environment | Recommended baseline for course work, screenshots, demonstrations, troubleshooting reproduction, and course continuity |
 | **Windows 10 22H2 or Windows 11** | Supported local environment | Requires a supported Windows installation and the ability to authorize required software installation |
 | **macOS 14 Sonoma, macOS 15 Sequoia, or macOS 26 Tahoe on Apple silicon** | Supported local environment | Requires an Apple-silicon Mac and an Administrator account; Intel Macs are not supported by the current automation |
@@ -133,7 +133,7 @@ The supported IT 140 course IDE is designed around a common core toolset.
 ### Primary Tools
 
 | Tool | Course Purpose |
-|---|---|
+| --- | --- |
 | **Python 3.12** | Run and develop Python programs |
 | **Visual Studio Code (VS Code)** | Edit, run, test, debug, and organize course work |
 | **Git** | Track repository changes and history |
@@ -147,7 +147,7 @@ The supported IT 140 course IDE is designed around a common core toolset.
 The current course IDE includes support such as:
 
 | Extension / Feature | Purpose |
-|---|---|
+| --- | --- |
 | Python | Python language support |
 | Ruff | Python formatting and code-quality feedback |
 | Draw.io Integration | Flowcharts and diagrams |

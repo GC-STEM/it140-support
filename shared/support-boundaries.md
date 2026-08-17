@@ -77,7 +77,7 @@ These primarily belong to **academic advising** processes.
 ## Primary Support Routing Matrix
 
 | Problem | Primary Support Role | Notes |
-|---|---|---|
+| --- | --- | --- |
 | CVD access or launch problem | IT Service Desk | Escalate course-specific CVD behavior with evidence when normal access support does not resolve it |
 | Supported local course IDE fails to install/configure | IT Service Desk | Use current setup instructions and logs; CVD can provide continuity |
 | Verify reports `NOT COMPLIANT` or failures | IT Service Desk | Collect summary and log; escalate course-automation defects when appropriate |

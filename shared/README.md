@@ -12,7 +12,7 @@ Support personnel are **not expected to read these pages in order before helping
 ## Shared Resources
 
 | Resource | Use It To Understand |
-|---|---|
+| --- | --- |
 | [Course Overview](course-overview.md) | What IT 140 is, how students work, and which systems provide which kinds of course information |
 | [Course Repository Architecture](course-repository-architecture.md) | The purpose of each IT 140 repository and the difference between course templates, student GitHub repositories, and local clones |
 | [Terminology](terminology.md) | Common course, environment, GitHub, automation, and support terms |
