@@ -206,3 +206,5 @@ Never request authentication secrets as evidence.
 - **Compliant / required checks pass:** the environment is likely not the failing layer; return to [Triage](triage.md) and inspect the repository or student-code layer.
 - **Failure with documented remediation:** follow [Safe Remediation](safe-remediation.md), then rerun Verify.
 - **Repeatable failure after documented remediation:** follow [Escalation](escalation.md).
+
+Return to the [Service Desk Triage and Escalation Runbook](README.md).

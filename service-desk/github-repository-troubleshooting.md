@@ -140,3 +140,5 @@ If a current GC-STEM repository is missing, unavailable, or appears defective:
 4. Escalate through [Course Technical Maintenance Escalation](escalation.md#course-technical-maintenance-escalation).
 
 Do not create a workaround that permanently diverges the student's repository from the current course template unless course support directs it.
+
+Return to the [Service Desk Triage and Escalation Runbook](README.md).

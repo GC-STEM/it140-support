@@ -22,39 +22,20 @@ These actions are generally appropriate when they match the current course instr
 - preserve/rename a damaged local repository before recloning the student's existing private GitHub repository; and
 - move current work to the CVD when a local environment cannot be repaired promptly.
 
-## Follow the Lifecycle Boundary
+## Follow the Documented Lifecycle Stage
 
-The lifecycle stages have different responsibilities:
+The canonical definitions of **Prepare, Install, Configure, Verify, and Update** are in
+[Course Automation Terms](../shared/terminology.md#course-automation-terms).
 
-| Stage | Purpose |
-| --- | --- |
-| Prepare | Obtain/refresh course automation |
-| Install | Install/repair required system-level course software |
-| Configure | Apply current-user course settings and integrations |
-| Verify | Read-only assessment; does not repair the course IDE |
-| Update | Maintain approved course software/assets |
+For Service Desk remediation:
 
-Do not use one stage as a substitute for another because it sounds more powerful.
+- follow the lifecycle stage named by the current README, script summary, **Next step**, or **Remediation** text;
+- do not substitute a different lifecycle stage because it appears more powerful;
+- use Verify as a read-only diagnostic where the current supported platform documents it; and
+- stop rather than improvising manual package or configuration repairs when the course procedure does not authorize them.
 
-See [Course Automation](https://github.com/GC-STEM/it140/wiki/Course-Automation).
-
-## Respect Platform Privilege Rules
-
-### CVD
-
-Run normal lifecycle commands as the standard CVD user. Do not add `sudo` to Verify or other commands unless the current course instructions explicitly call for it.
-
-### Windows
-
-- Prepare — regular PowerShell
-- Install — Administrator PowerShell
-- Configure — regular PowerShell
-- Verify — regular PowerShell
-- Update — start regular; allow the script to request elevation if needed
-
-### macOS
-
-Run lifecycle scripts as the regular macOS Administrator user. Do not prepend `sudo`; allow the script to request authorization when required.
+For platform-specific privilege and support rules, use the current
+[Supported Environments](../shared/supported-environments.md) guidance and the live platform setup README.
 
 ## Repository-Safe Remediation
 
@@ -117,3 +98,5 @@ Stop and escalate when:
 - the issue is outside the Service Desk support boundary.
 
 Continue with [Escalation](escalation.md).
+
+Return to the [Service Desk Triage and Escalation Runbook](README.md).

@@ -15,48 +15,25 @@ Confirm that you have:
 - collected the relevant summary/log/support artifact; and
 - removed or protected private/security-sensitive information.
 
-## Service Desk Evidence Package
+## Build the Evidence Package
 
-Use the following structure in the ticket or handoff:
+Use the canonical [IT 140 Escalation Model](../shared/escalation-model.md#minimum-evidence-package)
+for the common handoff fields and evidence rules.
 
-```text
-IT 140 escalation
+For a **Service Desk** escalation, make sure the handoff also makes these points easy to identify:
 
-User role:
-Module/activity:
-Issue category:
+| Service Desk Addition | What to Record |
+| --- | --- |
+| Course continuity | Whether the student can continue in the CVD |
+| Technical layer | Access, environment, lifecycle automation, GitHub/repository, or another technical layer |
+| Current procedure | The exact README/guide section and action being followed |
+| Automation evidence | Final result, exit code, remediation/next-step text, and exact log/support-artifact path when applicable |
+| Work already attempted | Only the documented actions that were actually performed |
+| Requested action | What the receiving support role is being asked to do |
 
-Environment:
-Operating system/version:
-Supported or manual configuration:
+Do not duplicate large log excerpts in the ticket when an authorized attachment or sanitized support artifact is sufficient.
 
-Repository name (if applicable):
-GitHub owner (if applicable):
-Local path (if applicable):
-
-Guide/step:
-Action attempted:
-Expected result:
-Actual result:
-
-Lifecycle stage (if applicable):
-Final summary/result:
-Exit code:
-Log/support artifact path:
-
-Troubleshooting already attempted:
-CVD continuity available: Yes / No / Not applicable
-
-Attachments:
-- Relevant log or sanitized support artifact
-- Screenshot, if useful
-
-Private/security information removed or sent through an authorized channel: Yes
-```
-
-Omit fields that do not apply; do not guess missing values.
-
-<!-- screenshot placeholder; show a model Service Desk ticket with the IT 140 environment, failed step, exact summary, exit code, and attached sanitized support artifact fields visible -->
+<!-- screenshot placeholder; show a model Service Desk ticket with the IT 140 environment, failed step, exact summary, exit code, CVD continuity, and attached sanitized support artifact fields visible -->
 
 ## Route to Faculty
 
@@ -147,22 +124,14 @@ Use the course technical maintenance path when the problem is reproducible and c
 
 ## Public Versus Internal Evidence
 
-A public GitHub report may contain:
+Follow the shared [Public GitHub Issue Versus Internal Escalation](../shared/escalation-model.md#public-github-issue-versus-internal-escalation)
+and [Privacy and Security Review](../shared/escalation-model.md#privacy-and-security-review) rules.
 
-- public repository URL;
-- reproducible public command;
-- sanitized error/summary;
-- course script version;
-- non-sensitive platform information.
+For the Service Desk specifically:
 
-Keep these in authorized internal channels instead:
-
-- student-identifying information;
-- private repository content;
-- student source code unless specifically required and appropriately protected;
-- account identifiers not needed publicly;
-- credentials or authentication data;
-- confidential SNHU infrastructure/routing details.
+- account-specific, student-specific, managed-device, and university-system cases stay in authorized internal channels;
+- a public GitHub Issue is only for a reproducible defect in public course content that can be reported safely without protected information or graded student work; and
+- when in doubt, keep the case internal and escalate through the approved Service Desk path.
 
 ## Escalation Completion Criteria
 
@@ -174,3 +143,5 @@ A handoff is ready when the receiving role can determine:
 - the authoritative evidence;
 - whether the student has a course-continuity path; and
 - what action is requested from the receiving role.
+
+Return to the [Service Desk Triage and Escalation Runbook](README.md).

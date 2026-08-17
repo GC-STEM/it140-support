@@ -1,13 +1,79 @@
 # IT 140 Faculty Support Guide
 
+This guide is the starting point for **IT 140 faculty** who need to teach, support students, interpret course activities, and route technical problems.
+
+IT 140 faculty are part-time adjunct instructors who may teach one or two sections in a term and may not teach IT 140 every term. This guide therefore emphasizes **rapid reorientation to the current course environment** rather than assuming that a workflow, repository, or technical detail remembered from a previous term is still current.
+
+> [!IMPORTANT]
+> Start here each time you return to IT 140. You do **not** need to read the `shared/` directory first. Faculty procedures link directly to the shared reference needed at the point of use.
+
+## Start Here
+
+At the beginning of each IT 140 teaching assignment:
+
+1. Complete the [Start-of-Term Reorientation](start-of-term.md).
+2. Confirm you can access the current IT 140 course in D2L Brightspace.
+3. Check the live [IT 140 Course Status](https://github.com/GC-STEM/it140/wiki/Course-Status).
+4. Confirm that your faculty CVD access and course IDE are usable; see [Faculty Setup and Familiarization](setup-and-familiarization.md).
+5. Review the current repository README for each activity before supporting that activity.
+6. Use D2L Brightspace as the authoritative source for assignment requirements, submissions, grading, deadlines, and instructor feedback.
+
+## Faculty Pages
+
+| Page | Use It For |
+| --- | --- |
+| [Start-of-Term Reorientation](start-of-term.md) | Reestablish the current IT 140 workflow after a term away or before a new section |
+| [Faculty Setup and Familiarization](setup-and-familiarization.md) | Faculty GitHub/CVD setup, current course IDE familiarity, and optional local setup |
+| [Supporting Students](supporting-students.md) | Distinguishing technical, learning, assignment, and repository problems |
+| [Assignments and Grading](assignments-and-grading.md) | Brightspace authority, repository role, rubric alignment, and grading boundaries |
+| [GitHub and Student Repositories](github-and-repositories.md) | Private student repositories, local clones, collaborator access, and repository recovery boundaries |
+| [Technical Issues and Escalation](technical-issues-and-escalation.md) | Service Desk referrals, course defects, GitHub Issues, and evidence collection |
+| [Common Faculty Scenarios](common-scenarios.md) | Quick answers to recurring faculty support situations |
+
+## Quick Routing
+
+| Student Need | Faculty Action |
+| --- | --- |
+| What does the assignment require? | Use the current D2L Brightspace Guidelines and Rubric |
+| Grading, rubric, deadline, or instructor-feedback question | Faculty handles it |
+| Help understanding Python, pseudocode, flowcharts, testing, or debugging | Faculty may help; LSS is also an appropriate learning-support path |
+| CVD, local course IDE, account, installation, or authentication failure | Refer to the IT Service Desk after preserving the error/evidence |
+| Python runs, but the student's own code is wrong | Faculty/LSS learning-support path, not Service Desk |
+| Public GC-STEM README, starter file, script, test, or link appears defective | Check Course Status, reproduce safely, then use the course technical escalation path |
+| Academic planning or program question | Academic Advisor |
+
+See [Support Boundaries](../shared/support-boundaries.md) for the canonical role model.
+
+## Faculty Responsibilities in This Support Model
+
+Faculty are the authoritative course contact for:
+
+- interpreting the current assignment requirements;
+- grading and rubric application;
+- instructor feedback;
+- course deadlines and instructor-controlled processes;
+- instructional support appropriate to the course; and
+- deciding whether student work meets activity requirements.
+
+Faculty are **not expected to become desktop support technicians**. It is useful to understand the student environment well enough to classify a problem, but supported-environment failures should move to the technical support path when they require technical diagnosis.
+
+## Current Sources of Truth
+
+Use the source that matches the question:
+
+| Question | Source |
+| --- | --- |
+| Current graded requirements | D2L Brightspace Guidelines and Rubric |
+| Current course/repository availability | [IT 140 Course Status](https://github.com/GC-STEM/it140/wiki/Course-Status) |
+| Current activity workflow | The activity repository's top-level `README.md` |
+| Current setup procedure | [Module One Setup Tasks](https://github.com/GC-STEM/it140-m1-setup-tasks) |
+| Course/repository facts | [Shared IT 140 Support Documentation](../shared/README.md) |
+| Technical triage | [Service Desk Triage and Escalation Runbook](../service-desk/README.md) |
+
 > [!NOTE]
-> **Status:** Outline placeholder. This guide will be developed after the shared documentation and Service Desk runbook.
+> Do not rely on a saved screenshot, copied command, old local repository, or remembered workflow when the live course documentation provides a newer version.
 
-This guide will provide role-specific support information for IT 140 faculty.
-
-Faculty should be able to begin here without reading the `shared/` directory first. Each completed procedure will link directly to the relevant shared reference.
-
-## Shared References
+## Shared References Used by Faculty Guides
 
 - [IT 140 Course Overview](../shared/course-overview.md)
 - [Course Repository Architecture](../shared/course-repository-architecture.md)
@@ -17,20 +83,4 @@ Faculty should be able to begin here without reading the `shared/` directory fir
 - [Support Boundaries](../shared/support-boundaries.md)
 - [Escalation Model](../shared/escalation-model.md)
 
-## Planned Content
-
-- Faculty orientation to the IT 140 technical environment
-- Expected student course workflow
-- Faculty use of the CVD and course IDE
-- Course repository and student repository model
-- Supporting students with setup and repository questions
-- Distinguishing technical problems from programming problems
-- Assignment and project support boundaries
-- Reviewing student repositories when access is provided
-- Handling repeat students and current course templates
-- When to refer students to LSS
-- When to refer students to the IT Service Desk
-- When and how to escalate course-environment problems
-- Common faculty questions and scenarios
-
-<!-- screenshot placeholder; show the main IT 140 repository with the course repository links and Help and Support sections visible -->
+Return to the [IT 140 Support home page](../README.md).
