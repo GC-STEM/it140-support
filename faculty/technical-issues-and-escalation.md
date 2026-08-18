@@ -77,7 +77,7 @@ Do not post faculty-sensitive questions, student-specific matters, grading conce
 
 Use the current approved faculty-only SNHU communication/escalation channel.
 
-<!-- internal routing placeholder; add the current IT 140 Community of Practice, Dean, or other approved faculty-only routing path -->
+Specific channel names, contacts, or restricted routing details should be maintained in the appropriate SNHU internal system rather than this public repository.
 
 ## When to Use the IT Service Desk
 

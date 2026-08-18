@@ -64,6 +64,9 @@ For graded assignments and projects:
 ```text
 it140-support/
 ├── README.md
+├── .github/
+│   ├── CHANGELOG.md
+│   └── images/
 ├── shared/
 │   ├── README.md
 │   ├── course-overview.md
@@ -98,16 +101,14 @@ it140-support/
 │   ├── student-concerns.md
 │   ├── referrals-and-routing.md
 │   └── common-scenarios.md
-├── service-desk/
-│   ├── README.md
-│   ├── triage.md
-│   ├── environment-troubleshooting.md
-│   ├── github-repository-troubleshooting.md
-│   ├── verification-and-logs.md
-│   ├── safe-remediation.md
-│   └── escalation.md
-└── assets/
-    └── images/
+└── service-desk/
+    ├── README.md
+    ├── triage.md
+    ├── environment-troubleshooting.md
+    ├── github-repository-troubleshooting.md
+    ├── verification-and-logs.md
+    ├── safe-remediation.md
+    └── escalation.md
 ```
 
 Role-specific sections intentionally differ in size. A Service Desk runbook requires more technical procedures than an advisor guide; the repository does not force artificial symmetry across roles.
@@ -147,10 +148,10 @@ Support guidance in this repository should follow these principles:
 Screenshots and other support images should be stored in:
 
 ```text
-assets/images/
+.github/images/
 ```
 
-During documentation development, use hidden placeholders where a screenshot would materially improve a procedure.
+Hidden screenshot placeholders may be retained where a future sanitized screenshot would materially improve a procedure. The surrounding text should remain usable without the image, so a placeholder is a maintenance cue rather than a publication blocker.
 
 Example:
 
@@ -189,7 +190,7 @@ Internal escalation routing, restricted administrative procedures, or security-s
 
 ## Development Status
 
-The initial support architecture and all four role-specific sections are now developed:
+The core support architecture and all four role-specific sections are developed and have completed a cache-busted rendered integration review:
 
 - shared canonical support documentation;
 - IT Service Desk triage and escalation runbook;
@@ -197,13 +198,11 @@ The initial support architecture and all four role-specific sections are now dev
 - LSS support guide; and
 - Academic Advisor support guide.
 
-The next repository-wide phase should focus on:
+Ongoing maintenance should focus on:
 
-- cache-busted rendered review of the completed role sections;
-- navigation and duplication checks across roles;
-- completing screenshot assets;
-- filling approved internal-routing/workflow placeholders; and
-- ongoing maintenance as the IT 140 course environment evolves.
+- adding sanitized screenshots only where they materially improve a support procedure;
+- keeping restricted routing, queue, contact, and workflow details in the appropriate SNHU internal systems rather than this public repository; and
+- updating canonical course facts and linked role procedures as the IT 140 environment evolves.
 
 ## Repository Metadata
 
@@ -211,4 +210,4 @@ The next repository-wide phase should focus on:
 - **Repository Name**: IT 140 Support
 - **Primary Audience**: SNHU faculty, Learning Support Specialists (LSS), academic advisors, and IT Service Desk personnel
 - **Repository Purpose**: Provide canonical shared course-support information and role-specific support procedures for IT 140
-- **Development Status**: Active Development / Integration Review
+- **Development Status**: Operational Documentation / Ongoing Maintenance

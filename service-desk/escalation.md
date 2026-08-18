@@ -88,7 +88,7 @@ A public GitHub Issue can be appropriate for a reproducible defect in public cou
 - [Main IT 140 Issues](https://github.com/GC-STEM/it140/issues) — course-wide automation or repository issue
 - [Module One Setup Tasks Issues](https://github.com/GC-STEM/it140-m1-setup-tasks/issues) — setup instructions or platform-specific setup behavior
 
-<!-- internal routing placeholder; add approved SNHU internal queue/category/contact for IT 140 course technical maintenance when established -->
+When a public issue is not appropriate, use the current approved internal Service Desk/course-maintenance path. Queue, category, assignment-group, and contact details should be maintained in the appropriate SNHU internal support system rather than this public repository.
 
 ## University-System or Account Escalation
 
@@ -96,7 +96,7 @@ For SNHU account, Brightspace, Codio access, device-management, or other univers
 
 Do not move an account-specific case into a public GitHub Issue merely because IT 140 uses GitHub or Codio.
 
-<!-- internal routing placeholder; add approved ServiceNow categories/assignment groups for Brightspace, Codio, account, and managed-device cases -->
+ServiceNow categories, assignment groups, contacts, and other restricted routing details should be maintained in the approved internal support system rather than this public repository.
 
 ## GitHub Account/Service Escalation
 

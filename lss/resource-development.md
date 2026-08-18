@@ -108,7 +108,7 @@ The public article should link readers to current canonical course instructions 
 
 Use the current Academic Support process for drafting, review, accessibility, publication, and maintenance.
 
-<!-- internal workflow placeholder; add the current Academic Support/ScreenSteps authoring, review, accessibility, and publication procedure -->
+Specific authoring, review, accessibility, publication, contact, or routing details should be maintained in the appropriate SNHU internal system rather than this public repository.
 
 This repository should not invent or replace the internal publishing workflow.
 

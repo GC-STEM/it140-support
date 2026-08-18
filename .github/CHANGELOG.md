@@ -6,9 +6,9 @@ All notable documentation and structural changes to the IT 140 Support repositor
 ### Added
 - Initial `it140-support` repository architecture.
 - Top-level repository purpose, scope, support principles, and role-based navigation.
-- Shared-documentation directory and placeholder outlines.
+- Shared-documentation directory and initial outlines.
 - Role-specific directories for faculty, Learning Support Specialists (LSS), academic advisors, and IT Service Desk personnel.
-- `assets/images/` directory for screenshots and other support images.
+- `.github/images/` directory for screenshots and other support images.
 - Documentation convention requiring role-specific guides to link directly to relevant shared information.
 - Hidden screenshot-placeholder convention for documentation under development.
 - Developed the IT Service Desk triage and escalation runbook with role-specific procedures for triage, supported environments, GitHub/repositories, verification/logs, safe remediation, and escalation.
@@ -22,3 +22,8 @@ All notable documentation and structural changes to the IT 140 Support repositor
 - Refined Service Desk remediation and escalation pages so lifecycle definitions, platform facts, and the common evidence schema remain canonical in `shared/`, while Service Desk pages retain role-specific actions.
 - Added explicit return-to-runbook navigation to Service Desk procedure pages.
 - Updated the top-level repository structure and development status after completion of all four role-specific support sections.
+- Moved repository-maintenance artifacts under `.github/`, including `CHANGELOG.md` and the support-image directory.
+- Corrected the top-level repository tree and screenshot path to use `.github/images/`.
+- Completed a cache-busted rendered integration review of the shared and role-specific documentation after the August 17, 2026 GitHub service incident.
+- Replaced public internal-routing/workflow placeholders with durable guidance to use the current approved SNHU internal systems for restricted operational details.
+- Clarified that hidden screenshot placeholders are maintenance cues for future sanitized images and do not make the surrounding text incomplete.
