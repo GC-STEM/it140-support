@@ -37,7 +37,7 @@ Warnings may still be present with exit code `0`; review their recommended actio
 
 CVD Verify is read-only except for its transcript and an explicitly requested sanitized support directory.
 
-<!-- screenshot placeholder; show a complete successful CVD VERIFICATION SUMMARY with Result, Passed, Warnings, Failed, Log file, and Exit code visible -->
+![CVD Verify Success](../shared/images/verify_it140_fail.png)
 
 ## Windows Verify
 

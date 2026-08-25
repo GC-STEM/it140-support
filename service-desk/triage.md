@@ -58,7 +58,7 @@ For a missing public IT 140 GitHub resource, check the current
 
 If Brightspace or another university system is the failing layer, use the normal approved Service Desk process for that system.
 
-<!-- screenshot placeholder; show the Brightspace Start Here area with the Optional Codio Virtual Desktop link and Codio Learning Environment link visible -->
+![Brightspace Start Here with Optional Codio Virtual Desktop](../shared/images/d2l_ocvd_page.png)
 
 ## 2. Course Environment Does Not Launch or Is Not Usable
 

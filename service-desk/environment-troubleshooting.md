@@ -58,7 +58,7 @@ If the second Update run fails or repeatedly stops at the same download, stop an
 - Do not use Ubuntu **Shut Down** as the normal way to leave the CVD; closing the browser tab is sufficient.
 - A normal VM restart is different from **RESET VM**. A reset destroys the configured VM state.
 
-<!-- screenshot placeholder; show the CVD noVNC control bar with Full Screen, RESTART VM, and RESET VM locations clearly distinguished -->
+![CVD Restart, Reset, noVNC Controls](../shared/images/cvd_noVNC_restart_reset.png)
 
 ## Windows
 
