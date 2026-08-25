@@ -14,10 +14,10 @@ Use this page as the starting point. You do **not** need to read the shared docu
 Use this sequence for an IT 140 ticket:
 
 1. **Identify the user and activity.** Record the module/activity and what the user was trying to do.
-2. **Identify the environment.** CVD, Windows, macOS, Linux, or another/unsupported environment.
+2. **Identify the environment.** Codio Virtual Desktop (CVD), Windows, macOS, Linux, or another/unsupported environment.
 3. **Protect course continuity.** If a local environment is blocking coursework, confirm whether the student can continue in the CVD.
 4. **Classify the symptom.** Access, course IDE, lifecycle automation, GitHub/repository, Python execution, or student-created code.
-5. **Use the least invasive diagnostic.** For a configured CVD, Windows, or macOS course IDE, Verify is the preferred read-only environment check.
+5. **Use the least invasive diagnostic.** For a configured CVD, Windows, or macOS course IDE, having student run the `verify_it140.sh` (Windows: `verify_it140.ps1`; macOS: `verify_it140.zsh`) is the preferred read-only environment check.
 6. **Read the complete summary and remediation.** Do not infer a repair from one error line.
 7. **Apply only documented safe remediation.** Preserve student work and repository history.
 8. **Resolve or route.** Technical issues stay with the technical path; code/content issues go to faculty/LSS; academic-planning issues go to advising.
@@ -25,7 +25,7 @@ Use this sequence for an IT 140 ticket:
 
 See [Triage](triage.md) for the detailed decision flow.
 
-<!-- screenshot placeholder; show an IT 140 CVD Verification Summary with Result, Failed, Exit code, Remediation, and Log file visible -->
+![Verify IT 140 Fail](../shared/images/verify_it140_fail.png)
 
 ## Quick Symptom Routing
 
