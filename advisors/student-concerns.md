@@ -12,11 +12,30 @@ A simple sequence is:
 
 1. **What are you trying to do?**
 2. **What is stopping you?**
-3. **Is the problem with the course technology, understanding the programming, the assignment requirements, or something broader?**
-4. **Have you contacted the instructor or another support resource yet?**
+3. **Is the problem with the course technology, understanding the programming, the assignment requirements, workload/time, or something broader?**
+4. **Have you contacted the instructor or Academic Support yet?**
 5. **Can you continue working in the CVD while a local-computer issue is being resolved?**
 
 The goal is classification and connection, not technical diagnosis.
+
+For course terms and abbreviations, use the **[IT 140 Course Glossary](https://github.com/GC-STEM/it140-support/blob/main/shared/glossary.md)**.
+
+## Early Warning Signs
+
+Early difficulty does not prove that a student will be unsuccessful, but it is a useful reason to intervene sooner rather than later.
+
+Watch for patterns such as:
+
+- the student is already struggling substantially in Week 1;
+- missing zyBooks work;
+- consistently low zyBooks performance;
+- the student reports beginning nearly all weekly work on the weekend;
+- the student is spending far less than the expected course time and is falling behind;
+- the student is spending much more than the expected time but making little progress;
+- repeated confusion about how to access or use required course systems; or
+- continued difficulty without contacting the instructor or Academic Support.
+
+When these signs appear, help identify whether the underlying barrier is technical, learning-related, assignment-related, workload-related, or broader.
 
 ## "I'm Not a Computer Person"
 
@@ -30,7 +49,7 @@ A useful response is to distinguish:
 For programming learning:
 
 - encourage the student to contact their instructor;
-- point to LSS support;
+- point to Academic Support, including 24/7 Drop-In Tutoring and IT 140-focused live sessions;
 - encourage use of course practice/resources.
 
 For a technology failure:
@@ -41,6 +60,8 @@ For a technology failure:
 
 Programming concepts build on earlier material, so early support matters.
 
+Remind the student that IT 140 is expected to require about **16 hours per week on average** and that programming work is best distributed across the week.
+
 Help the student identify what is causing the delay:
 
 ### Technical Barrier
@@ -49,7 +70,8 @@ Examples:
 
 - cannot access CVD;
 - cannot install/use the supported environment;
-- GitHub/repository workflow is failing.
+- GitHub/repository workflow is failing;
+- zyBooks access/setup fails after the student follows the current Brightspace directions.
 
 **Next step:** IT Service Desk.
 
@@ -59,9 +81,10 @@ Examples:
 
 - does not understand loops;
 - cannot translate pseudocode into code;
-- is struggling to debug.
+- is struggling to debug;
+- zyBooks concepts or practice remain confusing.
 
-**Next step:** faculty and/or LSS.
+**Next step:** faculty and/or Academic Support.
 
 ### Assignment/Communication Barrier
 
@@ -73,16 +96,39 @@ Examples:
 
 **Next step:** faculty.
 
+### Workload/Planning Barrier
+
+Examples:
+
+- waiting until the weekend to begin the week's work;
+- underestimating zyBooks time;
+- combining IT 140 with several other demanding technical courses;
+- not leaving time to seek help before deadlines.
+
+**Next step:** advisor can help with planning while also connecting course-specific learning needs to faculty/Academic Support.
+
 ### Broader Academic Concern
 
 Examples:
 
-- workload;
-- course sequencing;
 - competing responsibilities;
-- concern about staying enrolled or academic progress.
+- concern about staying enrolled or academic progress;
+- broader course sequencing or program questions.
 
 **Next step:** advisor using normal advising practices, while also connecting the course-specific barrier to the right support role.
+
+## "I Wait Until the Weekend to Do My Work"
+
+Programming often requires multiple cycles of learning, trying, testing, debugging, and asking questions.
+
+Encourage the student to begin earlier and use several work sessions across the week. This creates time to recover if:
+
+- a concept is harder than expected;
+- the program has an error;
+- the student needs instructor or tutoring help; or
+- a technical problem occurs.
+
+The goal is not a specific daily schedule; it is to avoid concentrating the entire week's work into the final part of the week.
 
 ## "I Can't Install the Software"
 
@@ -113,7 +159,21 @@ Direct the student to:
 1. the current D2L Brightspace Guidelines and Rubric; and
 2. their instructor for requirement or grading interpretation.
 
-If the difficulty is understanding the underlying programming concept rather than the requirement itself, faculty or LSS can provide learning support.
+If the difficulty is understanding the underlying programming concept rather than the requirement itself, faculty or Academic Support can provide learning support.
+
+## Helping a Student Ask for Programming Help
+
+Advisors do not need to require a screenshot of the student's code.
+
+Encourage the student to give the instructor or learning-support resource enough information to understand the problem, such as:
+
+- what the student was trying to do;
+- what they expected to happen;
+- what happened instead;
+- the exact error or output when available; and
+- the relevant code or other work needed to understand the issue.
+
+A screenshot can be useful when it shows an IDE state, error, or other visual context, but it should supplement rather than replace a clear description when possible.
 
 ## "My Instructor Hasn't Fixed My Computer Problem"
 
@@ -134,8 +194,8 @@ Identify which support has already been used and whether the problem changed.
 
 For example:
 
-- Service Desk fixed Python, but the student still does not understand the code → faculty/LSS.
-- LSS helped with loops, but GitHub authentication still fails → Service Desk.
+- Service Desk fixed Python, but the student still does not understand the code → faculty/Academic Support.
+- Academic Support helped with loops, but GitHub authentication still fails → Service Desk.
 - Technical and learning issues are resolved, but the student remains concerned about academic progress → advisor.
 
 Avoid sending the student back and forth without identifying the unresolved layer.

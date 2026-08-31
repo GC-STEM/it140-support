@@ -30,9 +30,24 @@ IT 140 introduces concepts such as:
 - programming practices such as testing, debugging, readability, and incremental development.
 
 > [!IMPORTANT]
-> IT 140 is an introductory programming course. A problem that a student describes as "Python not working," "VS Code not working," or "my assignment not working" may be a technical environment problem, a repository problem, or a problem in the student's own program.
+> IT 140 is an introductory programming course. **Introductory means previous programming experience is not assumed; it does not mean the course requires little time or effort.**
 >
-> Support personnel should identify which type of problem is occurring before attempting a solution or referral. See [Support Boundaries](support-boundaries.md).
+> A problem that a student describes as "Python not working," "VS Code not working," or "my assignment not working" may be a technical environment problem, a repository problem, or a problem in the student's own program. Support personnel should identify which type of problem is occurring before attempting a solution or referral. See [Support Boundaries](support-boundaries.md).
+
+## Workload Context
+
+IT 140 is a three-credit course delivered in eight weeks. Under SNHU and applicable accreditation expectations, a three-credit course in this format should require **about 16 hours per week on average for an average student**.
+
+Actual time varies by student and week. Students who are new to programming may need more than the average while they develop new problem-solving habits, learn the development environment, and practice debugging.
+
+The zyBooks workload is significant throughout the course. As a practical planning estimate, students may spend approximately:
+
+- **4–5 hours per week in zyBooks during the earlier part of the course**; and
+- **2–3 hours per week in zyBooks during later weeks** as that portion of the workload tapers somewhat.
+
+The remainder of the expected weekly time includes Brightspace course content, programming practice, design work, assignments/projects, testing and debugging, review, and obtaining help when needed. Exact weekly activities remain governed by the current Brightspace course and zyBooks assignments.
+
+Students should plan to work on IT 140 across multiple sessions during the week rather than planning to begin all work on the weekend. Because concepts build on earlier material, delays can compound quickly.
 
 ## How Students Learn and Work
 
@@ -124,6 +139,31 @@ The multi-module project provides a clear example of this progression:
 
 This progression matters when supporting students. A design file, prototype, or partially working program may be intentionally incomplete because it represents a particular stage of the development process.
 
+## Why IT 140 Matters Beyond This Course
+
+IT 140 develops skills that students reuse in later technical coursework and practical problem solving. The course is not only about learning Python syntax.
+
+```mermaid
+flowchart LR
+    A[Python fundamentals] --> B[Break problems into steps]
+    B --> C[Design program logic]
+    C --> D[Write and run programs]
+    D --> E[Test and debug]
+    E --> F[Improve solutions incrementally]
+    F --> G[Apply programming and problem-solving skills in later technical work]
+```
+
+Students practice how to:
+
+- translate a problem into explicit steps;
+- organize a solution before and while coding;
+- read and write program logic;
+- test assumptions and diagnose errors;
+- revise a solution incrementally; and
+- use common development tools and workflows.
+
+These habits support later coursework and technical projects even when a later course uses different languages, tools, or problem domains.
+
 ## The Course Repository Is Not the Student's Repository
 
 Support personnel should distinguish among:
@@ -208,7 +248,7 @@ Use the source that matches the question being answered.
 Continue to the shared page that matches the information you need:
 
 - [Course Repository Architecture](course-repository-architecture.md) - how the IT 140 repositories relate to one another
-- [Terminology](terminology.md) - common course and technical terms
+- [Course Glossary](glossary.md) - abbreviations and technical terms used across the IT 140 repository ecosystem
 - [Supported Environments](supported-environments.md) - CVD and supported local environments
 - [GitHub Workflow](github-workflow.md) - common GitHub and student-repository workflow
 - [Support Boundaries](support-boundaries.md) - responsibilities and referral boundaries

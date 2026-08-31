@@ -4,6 +4,21 @@ This page explains the IT 140 technology environment at the level an advisor nee
 
 You do **not** need to troubleshoot these tools.
 
+For unfamiliar terms, use the **[IT 140 Course Glossary](https://github.com/GC-STEM/it140-support/blob/main/shared/glossary.md)**.
+
+## A Simple Technology Mental Model
+
+| Term | Plain-Language Meaning |
+| --- | --- |
+| **Python** | The programming language students learn and use |
+| **IDE** | Software/tools used to write, run, and debug programs |
+| **course IDE** | The complete standardized IT 140 development setup |
+| **CVD** | Codio Virtual Desktop; a browser-accessed virtual computer that serves as the IT 140 reference environment |
+| **VS Code** | The main editor/interface students use inside the course IDE |
+| **GitHub** | The service that hosts course repositories and students' private development repositories |
+
+IT 140 documentation uses **CVD** when it specifically means the Codio Virtual Desktop. Students or staff may also encounter **VDI** as a more general term for remotely hosted virtual-desktop technology; use the Course Glossary for the course-wide terminology standard as it is built out.
+
 ## The Most Important Technology Fact
 
 > **A student does not need to successfully install the IT 140 course IDE on a personal computer in order to complete the course when the CVD is available and working.**
@@ -15,6 +30,19 @@ It provides a cloud-based desktop that students access through a web browser.
 This means a local-computer setup problem does not automatically mean the student cannot continue coursework.
 
 <!-- screenshot placeholder; show the student-facing CVD desktop in a browser with VS Code visible, emphasizing that the programming environment runs in the browser -->
+
+## Before the Term Starts
+
+Students benefit from learning about the technology requirements early enough to avoid discovering access/device questions during a graded week.
+
+Advisors may encourage students to:
+
+- review the current technology requirements;
+- confirm that they can access required university/course systems;
+- learn the high-level purpose of Python, VS Code, CVD, zyBooks, and GitHub; and
+- identify the IT Service Desk as the technical-support path.
+
+This is **preparation**, not a recommendation to begin required IT 140 course work before the official term start. See [Course Planning and Preparation](course-planning-and-preparation.md).
 
 ## Codio Virtual Desktop (CVD)
 
@@ -83,7 +111,17 @@ Examples:
 - the student has a syntax error;
 - the student does not understand a loop or function.
 
-**Route:** faculty or LSS.
+**Route:** faculty or Academic Support.
+
+## zyBooks Access and Setup
+
+Students should follow the **current Brightspace directions** for accessing and setting up zyBooks.
+
+If the student:
+
+- cannot access/use zyBooks after following those directions → **IT Service Desk** for the technical/access problem;
+- does not know which zyBooks activities are required → **current Brightspace module / instructor**; or
+- can access zyBooks but does not understand the programming content → **faculty or Academic Support**.
 
 ## GitHub
 
@@ -105,7 +143,7 @@ Advisors do not need to know Git commands or repository-recovery procedures.
 
 | Student Concern | Route |
 | --- | --- |
-| "I don't understand why we use GitHub." | Faculty or LSS can explain the learning/course workflow |
+| "I don't understand why we use GitHub." | Faculty or Academic Support can explain the learning/course workflow |
 | "I can't sign into GitHub." | IT Service Desk |
 | "The command to create/clone my repo fails." | IT Service Desk |
 | "I can't find my files after changing computers." | IT Service Desk for repository recovery |

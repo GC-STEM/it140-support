@@ -1,17 +1,21 @@
-# IT 140 LSS | Python Workshops and IT Basic Office Hours
+# IT 140 LSS | IT 140 - Intro to Python Workshop and IT Basics Office Hours
 
 LSS primarily support IT 140 through optional one-to-many learning sessions.
 
-The two common formats serve different purposes:
+The current-term schedule is maintained at:
+
+[Group Sessions Schedule: Workshops, Office Hours, and Peer Groups](https://snhuacademicresourcecenter.screenstepslive.com/a/1834032-group-sessions-schedule-workshops-office-hours-and-peer-groups)
+
+The two common live formats serve different purposes:
 
 | Format | Primary Structure |
 | --- | --- |
-| **IT 140 Python Workshop** | Short planned instruction followed by student Q&A |
-| **IT Basic Office Hours** | Student-driven Q&A without a required lecture sequence |
+| **IT 140 - Intro to Python Workshop** | Short planned instruction followed by student Q&A |
+| **IT Basics Office Hours** | Student-driven Q&A without a required lecture sequence |
 
 Both formats should reinforce student understanding without replacing graded work.
 
-## IT 140 Python Workshop
+## IT 140 - Intro to Python Workshop
 
 A workshop should focus on **transferable programming concepts and problem-solving strategies** that students can apply to their own work.
 
@@ -58,7 +62,7 @@ Use this quick classification:
 | "Why won't Python run at all?" | Identify as likely technical and route appropriately |
 | "Can you fix my entire program?" | Break the problem into smaller diagnostic questions and keep the student engaged in the solution |
 
-## IT Basic Office Hours
+## IT Basics Office Hours
 
 Office hours are Q&A driven, so the first task is to classify each question quickly.
 

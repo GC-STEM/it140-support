@@ -20,7 +20,7 @@ This repository follows one central documentation rule:
 
 > **Shared facts are documented once. Role-specific responsibilities and procedures live under the role's directory.**
 
-Shared documentation provides canonical information about the course, supported environments, terminology, GitHub workflow, support boundaries, and escalation model.
+Shared documentation provides canonical information about the course, supported environments, the course glossary, GitHub workflow, support boundaries, and escalation model.
 
 Role-specific documentation:
 
@@ -35,7 +35,7 @@ Role-specific documentation:
 | --- | --- | --- |
 | Faculty | [Faculty Support Guide](faculty/README.md) | Teaching, student support, course workflow, assignment support, and escalation |
 | Learning Support Specialists (LSS) | [LSS Support Guide](lss/README.md) | Student learning support, appropriate code assistance, course tools, and escalation |
-| Academic Advisors | [Advisor Support Guide](advisors/README.md) | Course expectations, common student concerns, technology context, and referrals |
+| Academic Advisors | [Advisor Support Guide](advisors/README.md) | Course expectations, preparation and planning, common student concerns, technology context, and referrals |
 | IT Service Desk | [Service Desk Triage and Escalation Runbook](service-desk/README.md) | Technical triage, diagnostics, safe remediation, evidence collection, and escalation |
 
 ## Scope
@@ -71,6 +71,7 @@ it140-support/
 │   ├── README.md
 │   ├── course-overview.md
 │   ├── course-repository-architecture.md
+│   ├── glossary.md
 │   ├── terminology.md
 │   ├── supported-environments.md
 │   ├── github-workflow.md
@@ -97,6 +98,7 @@ it140-support/
 ├── advisors/
 │   ├── README.md
 │   ├── course-expectations.md
+│   ├── course-planning-and-preparation.md
 │   ├── technology-context.md
 │   ├── student-concerns.md
 │   ├── referrals-and-routing.md
@@ -120,9 +122,9 @@ The `shared/` directory contains information that applies to more than one suppo
 | Shared Resource | Purpose |
 | --- | --- |
 | [Shared Documentation Index](shared/README.md) | Index of canonical shared information |
-| [Course Overview](shared/course-overview.md) | Course purpose, instructional context, and major technologies |
+| [Course Overview](shared/course-overview.md) | Course purpose, instructional context, workload context, and major technologies |
 | [Course Repository Architecture](shared/course-repository-architecture.md) | Purpose and relationship of the IT 140 GitHub repositories |
-| [Terminology](shared/terminology.md) | Common IT 140 terms and abbreviations |
+| [Course Glossary](shared/glossary.md) | Canonical glossary for abbreviations and technical terms used across the IT 140 repository ecosystem |
 | [Supported Environments](shared/supported-environments.md) | Supported course IDE environments and platform expectations |
 | [GitHub Workflow](shared/github-workflow.md) | Common GitHub and repository workflow used in IT 140 |
 | [Support Boundaries](shared/support-boundaries.md) | Distinguishes technical support, learning support, instructional responsibilities, and advising |

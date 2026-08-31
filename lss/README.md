@@ -4,10 +4,16 @@ This guide is the starting point for **Learning Support Specialists (LSS)** who 
 
 LSS are part-time Academic Support employees who primarily support IT 140 through:
 
-- **IT 140 Python Workshops** — optional one-to-many sessions with instruction followed by student Q&A;
-- **IT Basic Office Hours** — optional one-to-many sessions driven by student questions; and
+- **IT 140 - Intro to Python Workshop** — optional one-to-many sessions with instruction followed by student Q&A;
+- **IT Basics Office Hours** — optional one-to-many sessions driven by student questions; and
 - development of programming and student-support resources for the
   [SNHU Academic Resource Center](https://snhuacademicresourcecenter.screenstepslive.com/m/138398).
+
+The current-term schedule for live group sessions is maintained at:
+
+[Group Sessions Schedule: Workshops, Office Hours, and Peer Groups](https://snhuacademicresourcecenter.screenstepslive.com/a/1834032-group-sessions-schedule-workshops-office-hours-and-peer-groups)
+
+Students may also use **24/7 Drop-In Tutoring**, including Python support, as an additional Academic Support option.
 
 > [!IMPORTANT]
 > Start here. You do **not** need to read the `shared/` directory first. LSS pages link directly to the shared course facts needed for each support task.
@@ -17,7 +23,7 @@ LSS are part-time Academic Support employees who primarily support IT 140 throug
 | Page | Use It For |
 | --- | --- |
 | [Orientation and Course Familiarization](orientation-and-familiarization.md) | Reorient to the current IT 140 course, repositories, tools, and support model |
-| [Python Workshops and IT Basic Office Hours](workshops-and-office-hours.md) | Plan and facilitate one-to-many learning support |
+| [IT 140 - Intro to Python Workshop and IT Basics Office Hours](workshops-and-office-hours.md) | Plan and facilitate one-to-many learning support |
 | [Learning Support and Academic Integrity](learning-support-and-integrity.md) | Help students reason, debug, and learn without replacing graded work |
 | [GitHub and Course Tools](github-and-course-tools.md) | Support GitHub/repository/tool use at the learning-support level and recognize technical failures |
 | [Academic Resource Center Development](resource-development.md) | Create or update reusable LSS learning resources without duplicating course technical documentation |
@@ -70,6 +76,7 @@ Use the source that matches the question.
 | What is the current course/repository status? | [IT 140 Course Status](https://github.com/GC-STEM/it140/wiki/Course-Status) |
 | How should the course IDE be configured? | [Module One Setup Tasks](https://github.com/GC-STEM/it140-m1-setup-tasks) |
 | What reusable programming resources are available? | [SNHU Academic Resource Center](https://snhuacademicresourcecenter.screenstepslive.com/m/138398) |
+| When are current live Academic Support group sessions? | [Current-term group sessions schedule](https://snhuacademicresourcecenter.screenstepslive.com/a/1834032-group-sessions-schedule-workshops-office-hours-and-peer-groups) |
 | Who should handle a particular problem? | [Support Boundaries](../shared/support-boundaries.md) |
 | What technical evidence should be preserved? | [Escalation Model](../shared/escalation-model.md) |
 
@@ -80,7 +87,7 @@ Use the source that matches the question.
 
 - [IT 140 Course Overview](../shared/course-overview.md)
 - [Course Repository Architecture](../shared/course-repository-architecture.md)
-- [IT 140 Terminology](../shared/terminology.md)
+- [IT 140 Course Glossary](../shared/glossary.md)
 - [Supported Environments](../shared/supported-environments.md)
 - [GitHub Workflow](../shared/github-workflow.md)
 - [Support Boundaries](../shared/support-boundaries.md)

@@ -13,9 +13,9 @@ Support personnel are **not expected to read these pages in order before helping
 
 | Resource | Use It To Understand |
 | --- | --- |
-| [Course Overview](course-overview.md) | What IT 140 is, how students work, and which systems provide which kinds of course information |
+| [Course Overview](course-overview.md) | What IT 140 is, how students work, its workload context, and which systems provide which kinds of course information |
 | [Course Repository Architecture](course-repository-architecture.md) | The purpose of each IT 140 repository and the difference between course templates, student GitHub repositories, and local clones |
-| [Terminology](terminology.md) | Common course, environment, GitHub, automation, and support terms |
+| [Course Glossary](glossary.md) | Abbreviations and technical terms used anywhere in the IT 140 public repository and wiki ecosystem |
 | [Supported Environments](supported-environments.md) | The CVD reference environment, supported local environments, course IDE components, and unsupported/best-effort configurations |
 | [GitHub Workflow](github-workflow.md) | How students create, clone, work in, back up, recover, and reuse course repositories |
 | [Support Boundaries](support-boundaries.md) | Which kinds of problems belong primarily to faculty, LSS, advisors, the IT Service Desk, or course technical maintainers |
@@ -46,7 +46,7 @@ Shared pages should contain facts that remain true regardless of who is helping 
 - the purpose of a course repository;
 - the CVD's role as the course reference environment;
 - supported course IDE components;
-- repository and Git terminology;
+- course-wide terminology and abbreviations;
 - course automation stages and result language;
 - standard diagnostic log locations; and
 - the common evidence needed for escalation.
@@ -69,6 +69,8 @@ When course infrastructure changes:
 4. Update screenshots if the user interface or expected output changed.
 5. Record material support-documentation changes in the repository `CHANGELOG.md`.
 
+When a new abbreviation or technical term is introduced anywhere in the IT 140 public repository or wiki ecosystem, add it to the [Course Glossary](glossary.md) during the corresponding documentation review.
+
 Avoid placing rapidly changing artifact versions in general shared pages unless the version itself is needed to explain a support decision. Supporters should use the current course repository and setup instructions when an exact current version matters.
 
 ## Screenshots
@@ -76,7 +78,7 @@ Avoid placing rapidly changing artifact versions in general shared pages unless 
 Screenshots for support documentation belong in:
 
 ```text
-assets/images/
+.github/images/
 ```
 
 During drafting, use hidden placeholders such as:

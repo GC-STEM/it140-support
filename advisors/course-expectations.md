@@ -2,9 +2,9 @@
 
 This page provides enough course context to help an advisor understand what a student is experiencing without requiring programming expertise.
 
-## IT 140 Is an Introductory Programming Course
+## IT 140 Is an Introductory Python Programming Course
 
-IT 140 teaches foundational programming and problem-solving using Python.
+IT 140 teaches foundational programming and problem-solving using **Python**.
 
 Students may enter the course with:
 
@@ -12,13 +12,58 @@ Students may enter the course with:
 - general computer experience but no programming experience; or
 - very limited technical experience.
 
-A student who finds programming unfamiliar is not necessarily experiencing a technical problem. Programming requires students to learn a new way of breaking problems into explicit steps and testing those steps.
+> [!IMPORTANT]
+> **Introductory does not mean easy or low workload.** It means that previous programming experience is not assumed.
+
+A student who finds programming unfamiliar is not necessarily experiencing a technical problem. Programming requires students to learn a new way of breaking problems into explicit steps, expressing those steps precisely, testing them, and correcting errors.
 
 For the canonical course overview, see [IT 140 Course Overview](../shared/course-overview.md).
 
-## The Course Moves Quickly
+For abbreviations and technical terms, use the **[IT 140 Course Glossary](https://github.com/GC-STEM/it140-support/blob/main/shared/glossary.md)**.
 
-IT 140 is an eight-week course.
+## Plan Around a 16-Hour Average Week
+
+IT 140 is a three-credit course completed in eight weeks. Under SNHU and applicable accreditation expectations, a course in this format should require **about 16 hours per week on average for an average student**.
+
+That is an average rather than a ceiling. A student who is new to programming may need more time in some weeks because they are simultaneously learning:
+
+- new programming concepts;
+- a new problem-solving process;
+- how to read and interpret errors;
+- how to test and debug; and
+- unfamiliar development tools.
+
+Advisors should avoid describing IT 140 as easy because it has a 100-level course number.
+
+## zyBooks Is a Significant Part of the Weekly Workload
+
+Students use zyBooks for interactive programming instruction and practice.
+
+The zyBooks workload is generally heavier early in the course and tapers somewhat as the term progresses. A useful planning estimate is approximately:
+
+| Course Period | Approximate zyBooks Time |
+| --- | ---: |
+| Earlier weeks | **4–5 hours per week** |
+| Later weeks | **2–3 hours per week** |
+
+These are planning estimates, not fixed requirements for every student or week. Students must use the current Brightspace course and zyBooks to determine the exact activities due in a particular module.
+
+The rest of the expected weekly course time is used for Brightspace content, programming practice, assignments/projects, design, testing, debugging, review, and obtaining help when needed.
+
+## Students Should Work Throughout the Week
+
+Programming is difficult to compress into one long weekend session because students need time to:
+
+- learn a concept;
+- practice it;
+- attempt a solution;
+- discover errors;
+- debug or revise; and
+- ask for help when needed.
+
+Encourage students to begin early and make progress across several sessions during the week. Waiting until the weekend leaves little time to recover from a technical problem, misunderstanding, or programming error.
+
+## The Course Moves Quickly and Builds on Earlier Work
 
 Students progressively work with concepts such as:
 
@@ -32,12 +77,13 @@ Students progressively work with concepts such as:
 - files; and
 - testing and debugging.
 
-Later course work builds on earlier concepts, so a student who falls behind may benefit from reaching out early to:
+Later course work builds on earlier concepts. A student who falls behind should be encouraged to reach out early to:
 
-- their instructor; and
-- Learning Support Specialists (LSS).
+- their instructor;
+- Academic Support; and
+- their advisor when the difficulty affects the student's broader academic plan or persistence.
 
-Advisors do not need to teach these concepts themselves.
+Advisors do not need to teach programming concepts themselves.
 
 ## Students Use Several Systems
 
@@ -60,7 +106,7 @@ For a question about **what an assignment requires**, Brightspace and the instru
 
 Students use zyBooks for interactive programming instruction and practice.
 
-If a student says they do not understand a programming concept, the issue may be a learning-support need rather than a technical problem.
+Students should follow the current Brightspace directions for accessing and setting up zyBooks. If the student follows the current directions but cannot access or use zyBooks, route the technical problem to the IT Service Desk. If the student is unsure which zyBooks work is required, use the current Brightspace module and instructor.
 
 ### Course Development Environment
 
@@ -102,6 +148,8 @@ At a high level:
 
 The project intentionally develops in stages. A design or prototype is not expected to look like the finished Module Seven game.
 
+See [Why IT 140 Matters Beyond This Course](../shared/course-overview.md#why-it-140-matters-beyond-this-course) for a visual of how these skills build toward later technical work.
+
 ## A Student May Need More Than One Type of Support
 
 A student who says they are "struggling with IT 140" may simultaneously have:
@@ -120,20 +168,25 @@ For example:
 contains at least two distinct support needs:
 
 1. **Technical:** course environment/install problem → IT Service Desk.
-2. **Learning:** loops/course content → faculty or LSS.
+2. **Learning:** loops/course content → faculty or Academic Support.
 
 The advisor can also address the broader academic impact through normal advising.
 
-## Optional Learning Support
+## Academic Support
 
-Learning Support Specialists (LSS) provide optional Academic Support opportunities such as:
+Students have several optional learning-support paths in addition to their instructor:
 
-- IT 140 Python Workshops; and
-- IT Basic Office Hours.
+- **24/7 Drop-In Tutoring**, including Python support;
+- **IT 140 - Intro to Python Workshop**, a live Academic Support session dedicated to IT 140; and
+- **IT Basics Office Hours**, a live Academic Support session for questions and support with IT/programming fundamentals.
 
-These resources can supplement instructor support when a student wants more help understanding programming concepts or debugging their own work.
+The current-term group-session schedule is maintained in the Academic Resource Center:
 
-See the [LSS Support Guide](../lss/README.md) for the support model.
+[Group Sessions Schedule: Workshops, Office Hours, and Peer Groups](https://snhuacademicresourcecenter.screenstepslive.com/a/1834032-group-sessions-schedule-workshops-office-hours-and-peer-groups)
+
+Schedules can change by term, so advisors should use the current schedule rather than memorizing session times.
+
+See [Referrals and Routing](referrals-and-routing.md#academic-support) for advisor guidance.
 
 ## What Advisors Do Not Need to Learn
 

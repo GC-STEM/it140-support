@@ -2,9 +2,11 @@
 
 This page is the advisor's primary routing reference.
 
-The goal is to connect the student to the role that can act on the actual problem.
+The goal is to connect the student to the role or resource that can act on the actual problem.
 
 For the canonical cross-role model, see [Support Boundaries](../shared/support-boundaries.md).
+
+For course terms and abbreviations, use the **[IT 140 Course Glossary](https://github.com/GC-STEM/it140-support/blob/main/shared/glossary.md)**.
 
 ## Faculty
 
@@ -21,9 +23,9 @@ Refer to the student's **IT 140 instructor** for:
 
 An advisor should not make grading or rubric decisions on the instructor's behalf.
 
-## Learning Support Specialists (LSS)
+## Academic Support
 
-LSS provide optional learning support for programming and problem-solving.
+Academic Support provides optional help for programming and problem-solving.
 
 Appropriate reasons to refer include:
 
@@ -35,15 +37,26 @@ Appropriate reasons to refer include:
 - translating concepts into the student's own solution; and
 - needing additional practice or Q&A beyond the classroom.
 
-LSS support includes IT 140 Python Workshops and IT Basic Office Hours.
+Current IT 140-related options include:
 
-See [LSS Support Guide](../lss/README.md).
+- **24/7 Drop-In Tutoring**, including Python support;
+- **IT 140 - Intro to Python Workshop**; and
+- **IT Basics Office Hours**.
+
+The current-term schedule for live group sessions is maintained at:
+
+[Group Sessions Schedule: Workshops, Office Hours, and Peer Groups](https://snhuacademicresourcecenter.screenstepslive.com/a/1834032-group-sessions-schedule-workshops-office-hours-and-peer-groups)
+
+Session schedules can change each term, so use the current page rather than memorizing times.
+
+See [LSS Support Guide](../lss/README.md) for the support model used by the IT 140-focused live sessions.
 
 ## IT Service Desk
 
 Refer technical environment/access problems such as:
 
 - Brightspace/Codio access;
+- zyBooks technical access/setup failures after following the current Brightspace directions;
 - CVD launch problems;
 - supported local course IDE installation/configuration;
 - VS Code will not run;
@@ -72,6 +85,8 @@ Keep the issue in advising when the primary concern is:
 
 The advisor can remain the student's continuity point while course-specific questions move to other roles.
 
+For pre-term scheduling and preparation, see [Course Planning and Preparation](course-planning-and-preparation.md).
+
 ## Course Technical Maintenance
 
 Most advisors will not need to route directly to course technical maintainers.
@@ -91,18 +106,19 @@ Examples include:
 
 ## Routing Matrix
 
-| Student Issue | Faculty | LSS | IT Service Desk | Advisor |
+| Student Issue | Faculty | Academic Support | IT Service Desk | Advisor |
 | --- | --- | --- | --- | --- |
 | Assignment requirement | **Primary** | — | — | Route |
 | Grade / instructor feedback | **Primary** | — | — | Route |
 | Programming concept | Primary/appropriate | **Appropriate** | — | Route |
 | Student-code debugging | Primary/appropriate | **Appropriate** | — | Route |
 | CVD / VS Code / Python environment failure | — | — | **Primary** | Route |
+| zyBooks technical access/setup failure | — | — | **Primary** | Route |
 | GitHub authentication / repository technical failure | — | — | **Primary** | Route |
 | Academic planning / course sequencing | — | — | — | **Primary** |
 | Broader concern with multiple course impacts | As needed | As needed | As needed | **Coordinate** |
 
-`—` means the role is not the normal primary destination for that problem.
+`—` means the role/resource is not the normal primary destination for that problem.
 
 ## When More Than One Referral Is Needed
 
@@ -116,19 +132,23 @@ Appropriate response:
 
 - **IT Service Desk** → restore/diagnose technical access.
 - **Faculty** → course-specific communication and assignment impact.
-- **LSS** → learning support for the programming topic.
+- **Academic Support** → learning support for the programming topic.
 - **Advisor** → broader academic/persistence concern if needed.
 
 Do not make the student finish one support path before contacting another when the needs are independent.
 
-## What Information Should the Advisor Capture?
+## What Information Should the Advisor Encourage the Student to Provide?
 
 For a normal referral, a short description is enough:
 
 - course: IT 140;
 - what the student was trying to do;
-- whether the problem appears technical, learning, assignment/grading, or academic; and
-- the exact error/message if the student already has it.
+- whether the problem appears technical, learning, assignment/grading, or academic;
+- what the student expected to happen;
+- what happened instead; and
+- the exact error/message when available.
+
+For programming help, the student may also need to share the relevant code or work through the approved support channel. A screenshot can be useful when it shows visual IDE/error context, but advisors do not need to require screenshots as the universal format for programming questions.
 
 Advisors are not expected to collect technical logs, run commands, or build the full technical escalation evidence package.
 

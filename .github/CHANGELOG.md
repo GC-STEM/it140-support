@@ -15,6 +15,10 @@ All notable documentation and structural changes to the IT 140 Support repositor
 - Developed the faculty support guide with start-of-term reorientation, faculty setup/familiarization, student support, assignment/grading, repository, escalation, and common-scenario guidance for adjunct faculty.
 - Developed the LSS support guide with role orientation, Python Workshop and IT Basic Office Hours guidance, learning-support and academic-integrity practices, course-tool/repository guidance, Academic Resource Center development, referral/escalation, and common-scenario guidance.
 - Developed the Academic Advisor support guide with course expectations, advisor-level technology context, student-conversation guidance, cross-role referrals, and common scenarios for both STEM and non-STEM advising contexts.
+- Added `shared/glossary.md` as the canonical scaffold for abbreviations and technical terms used across the public IT 140 repository and wiki ecosystem.
+- Added `advisors/course-planning-and-preparation.md` for workload planning, pre-term preparation, preview-period orientation, concurrent-course considerations, and optional preparatory guidance.
+- Added advisor early-warning guidance based on reported advising patterns, including early-course difficulty, zyBooks progress, weekly pacing, and timely use of support resources.
+- Added the course-progression visual explaining how IT 140 programming and problem-solving skills support later technical work.
 
 ### Changed
 
@@ -27,3 +31,10 @@ All notable documentation and structural changes to the IT 140 Support repositor
 - Completed a cache-busted rendered integration review of the shared and role-specific documentation after the August 17, 2026 GitHub service incident.
 - Replaced public internal-routing/workflow placeholders with durable guidance to use the current approved SNHU internal systems for restricted operational details.
 - Clarified that hidden screenshot placeholders are maintenance cues for future sanitized images and do not make the surrounding text incomplete.
+- Expanded advisor course-expectation guidance to state the official planning expectation of about 16 hours per week on average for an eight-week, three-credit course and to distinguish "introductory" from "low workload."
+- Added zyBooks workload planning context: approximately 4–5 hours per week in earlier weeks and 2–3 hours per week in later weeks, while preserving Brightspace/zyBooks as the source for exact weekly activities.
+- Clarified that optional pre-term preparation is appropriate but advisors should not recommend beginning required IT 140 course work before the official term start.
+- Added Academic Support options to advisor guidance: 24/7 Drop-In Tutoring with Python support, `IT 140 - Intro to Python Workshop`, and `IT Basics Office Hours`, with a link to the current-term group-session schedule.
+- Normalized older live-session labels in LSS/advisor documentation to `IT 140 - Intro to Python Workshop` and `IT Basics Office Hours`.
+- Added advisor-level zyBooks access/setup routing and clarified that screenshots may supplement, but are not a universal requirement for, requests for programming help.
+- Replaced direct advisor/LSS references to the former terminology page with the new Course Glossary; retained `shared/terminology.md` as a compatibility pointer.

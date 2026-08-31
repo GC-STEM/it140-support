@@ -2,6 +2,91 @@
 
 Use these examples for quick advisor guidance.
 
+For unfamiliar abbreviations or technical terms, use the **[IT 140 Course Glossary](https://github.com/GC-STEM/it140-support/blob/main/shared/glossary.md)**.
+
+## "I Thought a 100-Level Course Would Be Easy"
+
+IT 140 is introductory because previous programming experience is not required. Introductory does **not** mean low effort.
+
+**Advisor message:** IT 140 is an eight-week programming course. A three-credit course in this format should require about **16 hours per week on average**, and students new to programming may need more time in some weeks.
+
+Encourage the student to work throughout the week and use support early.
+
+## "I'm Spending Much Longer Than I Expected"
+
+First distinguish productive learning time from a barrier that is consuming time without progress.
+
+Ask whether the extra time is mainly due to:
+
+- learning unfamiliar programming concepts → instructor / Academic Support;
+- repeated debugging or problem solving → instructor / Academic Support;
+- technology that will not function → IT Service Desk;
+- unclear assignment requirements → instructor; or
+- broader workload/scheduling concerns → advisor.
+
+The 16-hour weekly figure is an average, not a maximum.
+
+## "I'm Behind in zyBooks"
+
+zyBooks is a significant weekly workload and is usually heavier early in the course.
+
+As a planning estimate, zyBooks may take approximately **4–5 hours per week early in the course** and **2–3 hours per week later**.
+
+Encourage the student to:
+
+- use the current Brightspace module to identify what is due;
+- begin earlier in the week;
+- contact the instructor if requirements are unclear; and
+- use Academic Support if the programming concepts are difficult.
+
+If zyBooks access/setup itself will not work after following current Brightspace directions, route the technical problem to the IT Service Desk.
+
+## "I Do All My Course Work on the Weekend"
+
+That pattern is risky in a fast-paced programming course because it leaves little time for debugging, questions, tutoring, or technical problems.
+
+**Advisor message:** Begin earlier and divide IT 140 into several work sessions across the week rather than planning to complete the entire week at once.
+
+## "What Can I Do Before IT 140 Starts?"
+
+Optional preparation can include:
+
+- reviewing basic Python/programming concepts;
+- reviewing the technology requirements;
+- learning key course terms;
+- locating Academic Support options; and
+- using the two-week preview period to understand the course layout and plan the first week.
+
+Do **not** advise students to begin graded work, zyBooks assignments, Module One course tasks, or other required IT 140 course work before the official term start unless current university/course guidance explicitly says otherwise.
+
+See [Course Planning and Preparation](course-planning-and-preparation.md).
+
+## "I've Never Coded Before. Should I Take Something First?"
+
+No previous programming experience is required for IT 140.
+
+Advisor feedback identifies **CS-205** as a potentially helpful preparatory option when it fits the student's plan and available free-elective space.
+
+Treat it as an optional advising consideration, not an IT 140 prerequisite. Confirm current program requirements before recommending an additional course.
+
+## "Why Do I Need Programming?"
+
+IT 140 develops more than Python syntax. Students practice breaking problems into steps, designing logic, writing programs, testing, debugging, and improving solutions.
+
+See [Why IT 140 Matters Beyond This Course](../shared/course-overview.md#why-it-140-matters-beyond-this-course) for a simple visual of the progression.
+
+## "Where Can I Get Live Help?"
+
+Students can use:
+
+- **24/7 Drop-In Tutoring**, including Python support;
+- **IT 140 - Intro to Python Workshop**; and
+- **IT Basics Office Hours**.
+
+Current-term live-session schedule:
+
+[Group Sessions Schedule: Workshops, Office Hours, and Peer Groups](https://snhuacademicresourcecenter.screenstepslive.com/a/1834032-group-sessions-schedule-workshops-office-hours-and-peer-groups)
+
 ## "I Can't Get Codio to Open"
 
 This is a technical access problem.
@@ -35,13 +120,13 @@ Ask one routing question:
 > "Can Python run, but your program gives the wrong result—or will the course tools not run at all?"
 
 - Course tools/Python will not run → **IT Service Desk**.
-- Python runs, but the student's program is wrong → **faculty or LSS**.
+- Python runs, but the student's program is wrong → **faculty or Academic Support**.
 
 ## "I Don't Understand Loops / Functions / Dictionaries"
 
 This is a programming-learning need.
 
-**Route:** instructor and/or LSS.
+**Route:** instructor and/or Academic Support.
 
 The advisor does not need to explain the programming concept.
 
@@ -49,7 +134,7 @@ The advisor does not need to explain the programming concept.
 
 **Route:** current D2L Brightspace Guidelines and Rubric and the instructor.
 
-LSS may help with the programming concepts after the assignment requirement is clear.
+Academic Support may help with the programming concepts after the assignment requirement is clear.
 
 ## "I Don't Understand My Grade"
 
@@ -95,7 +180,7 @@ This is an advising concern, but identify whether a fixable course-specific barr
 Ask whether the main issue is:
 
 - technical access → Service Desk;
-- programming understanding → faculty/LSS;
+- programming understanding → faculty/Academic Support;
 - assignment/grading → faculty; or
 - broader academic planning/workload → advisor.
 
@@ -115,7 +200,7 @@ Example:
 
 > Service Desk fixed VS Code, but the student still does not understand the program.
 
-The remaining issue is now a **learning problem** → faculty/LSS.
+The remaining issue is now a **learning problem** → faculty/Academic Support.
 
 ## "Several Students Are Reporting the Same Technical Issue"
 
