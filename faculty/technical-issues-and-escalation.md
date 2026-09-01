@@ -11,11 +11,12 @@ Use this distinction:
 | Student cannot access a required system or launch the environment | IT Service Desk |
 | Supported course IDE cannot configure or Verify | IT Service Desk |
 | GitHub authentication/template/clone workflow fails | IT Service Desk |
-| Python runs but the student's code fails | Faculty/LSS |
+| Python runs but the student's code fails | Faculty / Academic Support learning path |
+| Student needs time/task, organization, technical-reading, or learning strategies | Academic Coaching |
 | Current public GC-STEM instructions or course-managed artifact fails reproducibly | Course technical maintenance |
 | Grading/assignment interpretation question | Faculty |
 
-See [Support Boundaries](../shared/support-boundaries.md).
+See [Support Boundaries](../shared/support-boundaries.md) and [Academic Support for IT 140](../academic-support/README.md).
 
 ## Keep the Student Moving
 
@@ -94,6 +95,17 @@ Refer technical problems involving:
 - another individual technical environment issue.
 
 The [Service Desk Triage and Escalation Runbook](../service-desk/README.md) documents the technical support path.
+
+## When the Problem Is Not Technical
+
+If Python and the course environment work:
+
+- programming concepts/student-code debugging → faculty or an appropriate [Academic Support](../academic-support/README.md) learning service;
+- time/task, organization, technical-reading, or learning-strategy need → [Academic Coaching](../academic-support/coaching.md);
+- assignment/rubric/grade question → faculty; or
+- academic planning → advisor.
+
+Do not send these problems through the Service Desk merely because the student is working in VS Code.
 
 ## What Not to Do
 

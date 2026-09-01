@@ -3,7 +3,9 @@
 All notable documentation and structural changes to the IT 140 Support repository should be recorded in this file.
 
 ## Unreleased
+
 ### Added
+
 - Initial `it140-support` repository architecture.
 - Top-level repository purpose, scope, support principles, and role-based navigation.
 - Shared-documentation directory and initial outlines.
@@ -19,6 +21,9 @@ All notable documentation and structural changes to the IT 140 Support repositor
 - Added `advisors/course-planning-and-preparation.md` for workload planning, pre-term preparation, preview-period orientation, concurrent-course considerations, and optional preparatory guidance.
 - Added advisor early-warning guidance based on reported advising patterns, including early-course difficulty, zyBooks progress, weekly pacing, and timely use of support resources.
 - Added the course-progression visual explaining how IT 140 programming and problem-solving skills support later technical work.
+- Added `academic-support/README.md` as the canonical F&S-facing guide for selecting among IT 140-relevant Academic Support services, including LSS live support, 24/7 Drop-In Tutoring, Academic Coaching, Written Feedback, and ELL/ESOL pathways.
+- Added `academic-support/tutoring.md` to give F&S personnel IT 140 context for Tutor.com referrals, including public course sources, course progression, academic-integrity boundaries, and routing limits.
+- Added `academic-support/coaching.md` to give Academic Coaches IT 140-specific course context and coaching strategies for time/task prioritization, technical reading, academic skills, learning differences, critical thinking/problem solving, and organization.
 
 ### Changed
 
@@ -38,3 +43,10 @@ All notable documentation and structural changes to the IT 140 Support repositor
 - Normalized older live-session labels in LSS/advisor documentation to `IT 140 - Intro to Python Workshop` and `IT Basics Office Hours`.
 - Added advisor-level zyBooks access/setup routing and clarified that screenshots may supplement, but are not a universal requirement for, requests for programming help.
 - Replaced direct advisor/LSS references to the former terminology page with the new Course Glossary; retained `shared/terminology.md` as a compatibility pointer.
+- Clarified throughout the repository that the public IT 140 Support repository is **F&S-facing**, while student-facing directions belong in D2L Brightspace, student-facing course repositories/wikis, and official Academic Support resources.
+- Expanded the support model from LSS-only learning-support references to the broader Academic Support ecosystem while preserving the existing `lss/` directory for detailed LSS operational guidance.
+- Refactored tutoring guidance so F&S can provide or locate current IT 140 context for Tutor.com tutors instead of placing student-facing "Help the tutor help you" instructions in this support repository.
+- Expanded Academic Coaching guidance around a practical weekly pattern of starting early and working approximately 2–2.5 hours per day, with a general priority of current zyBooks Participation/Lab Activities, then the current module assignment/milestone, then active Text-Adventure Game project work when planned time remains.
+- Added coaching guidance for reading and following technical documentation, strengthening academic skills, learning-difference strategies, critical thinking/problem solving through the IT 140 SDLC, and organization across Brightspace, zyBooks, GitHub, and the course IDE.
+- Updated faculty, LSS, advisor, shared-boundary, and Service Desk routing language so programming-learning needs, coaching needs, assignment/grading questions, technical failures, and advising concerns are more clearly distinguished.
+- Replaced duplicated Academic Support service lists in key referral pages with links to the canonical `academic-support/README.md` where practical.

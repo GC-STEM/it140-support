@@ -70,12 +70,18 @@ See [Course Repository Architecture](../shared/course-repository-architecture.md
 Remember the basic routing model:
 
 - **Faculty** — assignment interpretation, grading, instructor feedback, and instructional support.
-- **LSS** — student learning support and problem-solving assistance within academic-integrity boundaries.
+- **Academic Support** — programming learning, academic coaching, written feedback, English-language support, and related student-support services.
+- **LSS** — IT 140-focused programming learning and problem-solving assistance through workshops/office hours and related resources.
 - **IT Service Desk** — technical environment, access, account/authentication, and supported tooling problems.
 - **Academic Advisors** — academic planning and broader advising concerns.
 - **Course technical maintainers** — reproducible defects in course-managed technical content.
 
-See [Support Boundaries](../shared/support-boundaries.md) for details.
+Within Academic Support:
+
+- programming-learning questions may go to faculty, LSS, or 24/7 Drop-In Tutoring;
+- time/task prioritization, organization, technical-reading strategies, and related academic-process needs may go to Academic Coaching.
+
+See [Academic Support for IT 140](../academic-support/README.md) and [Support Boundaries](../shared/support-boundaries.md).
 
 ## 7. Remove Old Assumptions, Not Necessarily Old Files
 
@@ -97,6 +103,8 @@ You are ready to support the current term when you can answer:
 - What is the reference development environment? **CVD**
 - Where are current activity procedures? **The live activity README**
 - Where do technical environment failures go? **IT Service Desk**
-- Where do code-learning questions go? **Faculty/LSS**
+- Where do code-learning questions go? **Faculty / Academic Support**
+- Where do time/task, organization, or technical-reading needs go? **Academic Coaching**
+- Where do academic-plan concerns go? **Academic Advisor**
 
 Return to the [Faculty Support Guide](README.md).

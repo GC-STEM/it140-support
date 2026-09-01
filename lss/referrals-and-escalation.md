@@ -2,7 +2,23 @@
 
 LSS should keep the student moving toward the right kind of help without taking ownership of problems outside the learning-support role.
 
-Use [Support Boundaries](../shared/support-boundaries.md) as the canonical routing model.
+Use [Support Boundaries](../shared/support-boundaries.md) as the canonical routing model and [Academic Support for IT 140](../academic-support/README.md) when deciding whether another Academic Support service is a better fit.
+
+## Refer Within Academic Support
+
+Not every student who reaches an LSS needs the same type of learning support.
+
+| Need | Academic Support Option |
+| --- | --- |
+| Quick on-demand general Python help | [24/7 Drop-In Tutoring](../academic-support/tutoring.md) |
+| Time/task prioritization or organization | [Academic Coaching](../academic-support/coaching.md) |
+| Reading and following technical documentation | [Academic Coaching](../academic-support/coaching.md#reading-comprehension-and-technical-documentation) |
+| Academic-skill development or critical-thinking/problem-solving process | [Academic Coaching](../academic-support/coaching.md) |
+| Learning strategies related to a diagnosed learning difference | [Academic Coaching](../academic-support/coaching.md#support-for-learning-differences) |
+| Writing-development feedback on the IDE Features reflection or game-theme writing | Written Feedback; see [Academic Support for IT 140](../academic-support/README.md#written-feedback) |
+| English-language learning support | Use the ELL/ESOL pathways in [Academic Support for IT 140](../academic-support/README.md#english-language-learning-support) |
+
+These services can complement each other. A student may use LSS for programming learning and Academic Coaching for time/organization in parallel.
 
 ## Refer to Faculty
 
@@ -51,7 +67,7 @@ Refer academic-planning questions such as:
 - course sequencing;
 - program planning;
 - broader academic-path questions; and
-- concerns that require advising rather than technical or instructional support.
+- concerns that require advising rather than technical, instructional, or coaching support.
 
 ## Course-Provided Content Appears Defective
 
@@ -101,7 +117,7 @@ See:
 A concise LSS handoff should explain:
 
 - what the student is trying to do;
-- whether the issue is learning, assignment, technical, advising, or course-resource related;
+- whether the issue is programming learning, academic-skills/coaching, assignment, technical, advising, or course-resource related;
 - exact error/behavior when applicable;
 - what LSS support was already attempted;
 - where the student was referred; and

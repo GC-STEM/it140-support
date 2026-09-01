@@ -1,18 +1,21 @@
 # IT 140 Support
 
-This repository is the central support resource for Southern New Hampshire University (SNHU) personnel who support students and faculty in **IT 140 - Introduction to Scripting**.
+This repository is the central **faculty-and-staff support resource** for Southern New Hampshire University (SNHU) personnel who support students and faculty in **IT 140 - Introduction to Scripting**.
 
-The repository provides role-specific guidance for:
+The repository is public so faculty and staff can reach it easily, but its guidance is written for **SNHU faculty and staff (F&S)** rather than for students. Student-facing directions should remain in D2L Brightspace, the student-facing IT 140 repositories and wikis, and official Academic Support resources.
+
+The repository provides guidance for:
 
 - [Faculty](faculty/README.md)
+- [Academic Support](academic-support/README.md)
 - [Learning Support Specialists (LSS)](lss/README.md)
 - [Academic Advisors](advisors/README.md)
 - [IT Service Desk personnel](service-desk/README.md)
 
 > [!IMPORTANT]
-> Start with the guide for **your role**. You are not expected to read the shared documentation first.
+> Start with the guide for **your role or support area**. You are not expected to read the shared documentation first.
 >
-> Role-specific guides link directly to the shared course information needed to complete each support task.
+> Role- and support-area guides link directly to the course information needed to complete each support task.
 
 ## Documentation Model
 
@@ -20,32 +23,37 @@ This repository follows one central documentation rule:
 
 > **Shared facts are documented once. Role-specific responsibilities and procedures live under the role's directory.**
 
-Shared documentation provides canonical information about the course, supported environments, the course glossary, GitHub workflow, support boundaries, and escalation model.
+Shared documentation provides canonical information about the course, supported environments, course glossary, GitHub workflow, support boundaries, and escalation model.
 
-Role-specific documentation:
+The [Academic Support Guide](academic-support/README.md) is the canonical F&S-facing overview of Academic Support options that may help IT 140 students. Detailed LSS operational guidance remains in the existing [`lss/`](lss/) directory.
 
-- explains what a supporter should do;
+Role- and support-area documentation:
+
+- explains what the faculty or staff member should do;
 - links directly to the relevant shared information at the point it is needed;
 - avoids requiring supporters to discover or read the `shared/` directory before beginning;
-- avoids duplicating shared facts that could become inconsistent over time.
+- avoids duplicating shared facts that could become inconsistent over time; and
+- links to the canonical Academic Support overview rather than maintaining separate lists of services wherever practical.
 
-## Choose Your Role
+## Choose Your Starting Point
 
-| Role | Start Here | Primary Focus |
+| Role or Support Area | Start Here | Primary Focus |
 | --- | --- | --- |
 | Faculty | [Faculty Support Guide](faculty/README.md) | Teaching, student support, course workflow, assignment support, and escalation |
-| Learning Support Specialists (LSS) | [LSS Support Guide](lss/README.md) | Student learning support, appropriate code assistance, course tools, and escalation |
+| Academic Support | [Academic Support for IT 140](academic-support/README.md) | Selecting among tutoring, LSS workshops/office hours, coaching, written feedback, and English-language support |
+| Learning Support Specialists (LSS) | [LSS Support Guide](lss/README.md) | IT 140-focused learning support, workshops, office hours, course tools, resource development, and escalation |
 | Academic Advisors | [Advisor Support Guide](advisors/README.md) | Course expectations, preparation and planning, common student concerns, technology context, and referrals |
 | IT Service Desk | [Service Desk Triage and Escalation Runbook](service-desk/README.md) | Technical triage, diagnostics, safe remediation, evidence collection, and escalation |
 
 ## Scope
 
-This repository supports the **IT 140 course environment and support workflows**. It is not the authoritative source for graded activity requirements.
+This repository supports the **IT 140 course environment and F&S support workflows**. It is not the authoritative source for graded activity requirements and is not intended to replace student-facing course or Academic Support instructions.
 
 For graded assignments and projects:
 
-- **D2L Brightspace** remains the authoritative source for activity requirements, submissions, grading, and instructor feedback.
+- **D2L Brightspace** remains the authoritative source for activity requirements, submissions, grading, deadlines, and instructor feedback.
 - Student-facing GitHub repositories provide course tooling, templates, instructions, and supporting resources.
+- Academic Support's official student-facing systems provide current service access and scheduling.
 - Support personnel should not provide or publish complete solutions to graded assignments.
 
 ## IT 140 Course Repositories
@@ -77,6 +85,10 @@ it140-support/
 │   ├── github-workflow.md
 │   ├── support-boundaries.md
 │   └── escalation-model.md
+├── academic-support/
+│   ├── README.md
+│   ├── tutoring.md
+│   └── coaching.md
 ├── faculty/
 │   ├── README.md
 │   ├── start-of-term.md
@@ -113,7 +125,7 @@ it140-support/
     └── escalation.md
 ```
 
-Role-specific sections intentionally differ in size. A Service Desk runbook requires more technical procedures than an advisor guide; the repository does not force artificial symmetry across roles.
+Role- and support-area sections intentionally differ in size. A Service Desk runbook requires more technical procedures than an advisor guide; Academic Coaching needs different course context than an LSS workshop guide. The repository does not force artificial symmetry across roles or services.
 
 ## Shared Documentation
 
@@ -127,7 +139,7 @@ The `shared/` directory contains information that applies to more than one suppo
 | [Course Glossary](shared/glossary.md) | Canonical glossary for abbreviations and technical terms used across the IT 140 repository ecosystem |
 | [Supported Environments](shared/supported-environments.md) | Supported course IDE environments and platform expectations |
 | [GitHub Workflow](shared/github-workflow.md) | Common GitHub and repository workflow used in IT 140 |
-| [Support Boundaries](shared/support-boundaries.md) | Distinguishes technical support, learning support, instructional responsibilities, and advising |
+| [Support Boundaries](shared/support-boundaries.md) | Distinguishes technical support, learning support, academic-skills support, instructional responsibilities, and advising |
 | [Escalation Model](shared/escalation-model.md) | Common escalation principles and evidence expectations |
 
 > [!NOTE]
@@ -137,13 +149,14 @@ The `shared/` directory contains information that applies to more than one suppo
 
 Support guidance in this repository should follow these principles:
 
-1. **Start from the supporter's role.** Do not require supporters to learn the repository structure before they can help someone.
+1. **Start from the supporter's role or service.** Do not require F&S personnel to learn the repository structure before they can help someone.
 2. **Use the supported course workflow.** Avoid generic troubleshooting steps that could move a student farther from the expected IT 140 environment.
-3. **Preserve support boundaries.** Technical troubleshooting, learning support, advising, and grading responsibilities are related but not interchangeable.
+3. **Preserve support boundaries.** Technical troubleshooting, programming learning support, academic coaching, advising, and grading responsibilities are related but not interchangeable.
 4. **Collect evidence before escalation.** Escalations should contain enough information for the next support level to continue without restarting the investigation.
-5. **Prefer links over duplication.** When a fact is shared across roles, link to the canonical shared page.
+5. **Prefer links over duplication.** When a fact or service description is shared across roles, link to the canonical page.
 6. **Keep instructions current.** Update the canonical source when the course environment or workflow changes.
 7. **Protect student privacy and academic integrity.** Do not place sensitive information or complete graded-assignment solutions in public GitHub content.
+8. **Keep student-facing instructions in student-facing channels.** This public support repository may be visible to students, but it should speak to the F&S personnel who support them.
 
 ## Screenshots and Images
 
@@ -170,10 +183,11 @@ Because the IT 140 course environment and support procedures may change rapidly,
 When updating documentation:
 
 - change the canonical shared page when a shared fact changes;
-- review role-specific pages that link to the changed information;
-- avoid copying the revised fact into multiple role guides;
+- change the Academic Support overview when an Academic Support service description or routing recommendation changes;
+- review role-specific pages that link to changed information;
+- avoid copying revised facts or service lists into multiple role guides;
 - update procedures when the supported course workflow changes;
-- use pull requests for review when practical;
+- use pull requests for review when practical; and
 - record material documentation changes in [CHANGELOG.md](./.github/CHANGELOG.md).
 
 ## Security, Privacy, and Academic Integrity
@@ -185,23 +199,25 @@ Do not post any of the following in public GitHub areas:
 - GitHub personal access tokens or other access tokens;
 - private identifying information;
 - confidential SNHU operational information;
-- student submissions containing protected information;
+- student submissions containing protected information; or
 - complete solutions to graded IT 140 assignments or projects.
 
-Internal escalation routing, restricted administrative procedures, or security-sensitive information should remain in the appropriate SNHU internal system rather than this repository.
+Internal escalation routing, restricted administrative procedures, student-specific information, or security-sensitive information should remain in the appropriate SNHU internal system.
 
 ## Development Status
 
-The core support architecture and all four role-specific sections are developed and have completed a cache-busted rendered integration review:
+The core support architecture includes:
 
 - shared canonical support documentation;
 - IT Service Desk triage and escalation runbook;
 - faculty support guide;
-- LSS support guide; and
-- Academic Advisor support guide.
+- LSS support guide;
+- Academic Advisor support guide; and
+- Academic Support service-selection guidance, including IT 140-specific references for 24/7 Drop-In Tutoring and Academic Coaching.
 
 Ongoing maintenance should focus on:
 
+- validating Academic Support descriptions and links against current official Academic Support resources;
 - adding sanitized screenshots only where they materially improve a support procedure;
 - keeping restricted routing, queue, contact, and workflow details in the appropriate SNHU internal systems rather than this public repository; and
 - updating canonical course facts and linked role procedures as the IT 140 environment evolves.
@@ -210,6 +226,6 @@ Ongoing maintenance should focus on:
 
 - **Course**: IT 140 - *Introduction to Scripting*
 - **Repository Name**: IT 140 Support
-- **Primary Audience**: SNHU faculty, Learning Support Specialists (LSS), academic advisors, and IT Service Desk personnel
-- **Repository Purpose**: Provide canonical shared course-support information and role-specific support procedures for IT 140
+- **Primary Audience**: SNHU faculty and staff who support IT 140, including faculty, Academic Support personnel, LSS, academic advisors, and IT Service Desk personnel
+- **Repository Purpose**: Provide canonical shared course-support information and role-/service-specific support procedures for IT 140
 - **Development Status**: Operational Documentation / Ongoing Maintenance

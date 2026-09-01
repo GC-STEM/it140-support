@@ -37,9 +37,11 @@ Can the user access the required system?
    │  └─ Yes
    │
    └─ Does only the student's program fail or produce the wrong result?
-      ├─ Yes → Faculty/LSS learning-support path
+      ├─ Yes → Faculty/Academic Support learning path
       └─ No/unclear → Run Verify where supported and collect evidence
 ```
+
+If the environment is working and the remaining need is **time/task prioritization, organization, reading/following technical directions, or related academic skills**, route to [Academic Coaching](../academic-support/coaching.md) rather than continuing technical diagnostics.
 
 ## 1. Access or Launch Problem
 
@@ -114,7 +116,7 @@ For CVD, Windows, and macOS, use [Verification and Logs](verification-and-logs.m
 
 If Python runs and the problem occurs only when the student's program executes, move to the student-code branch below.
 
-## 6. Student-Code or Course-Content Problem
+## 6. Student-Code, Learning, or Course-Content Problem
 
 Examples:
 
@@ -122,16 +124,21 @@ Examples:
 - the program executes but produces the wrong output;
 - a loop, branch, function, list, or dictionary does not behave as the student intended;
 - the student does not understand the assignment requirements;
-- the student wants help designing pseudocode or a flowchart.
+- the student wants help designing pseudocode or a flowchart;
+- the student is falling behind because they cannot prioritize or organize the work; or
+- the student struggles to read and follow technical documentation even though the tools work.
 
 These are not primarily Service Desk problems.
 
 Route according to [Support Boundaries](../shared/support-boundaries.md):
 
 - **Faculty** — assignment requirements, grading, instructor feedback, and instructional questions appropriate to the instructor.
-- **LSS** — learning support, programming concepts, debugging approaches, and student problem-solving within academic-integrity boundaries.
+- **Academic Support learning services** — programming concepts, debugging approaches, testing, and problem-solving within academic-integrity boundaries.
+- **Academic Coaching** — time/task prioritization, organization, technical-reading strategies, learning strategies, and related academic-process needs.
 
-The Service Desk may still establish that the environment works, but should not turn a technical ticket into completion of the student's graded code.
+Use [Academic Support for IT 140](../academic-support/README.md) to select the appropriate Academic Support service.
+
+The Service Desk may still establish that the environment works, but should not turn a technical ticket into completion of the student's graded code or into academic coaching.
 
 ## 7. Course-Provided Artifact Appears Defective
 
@@ -153,7 +160,7 @@ Before leaving triage, you should know:
 - the environment;
 - the failing layer;
 - whether coursework can continue in the CVD;
-- whether the problem belongs to technical support or another support role; and
+- whether the problem belongs to technical support or another support role/service; and
 - which evidence must be collected next.
 
 Return to the [Service Desk Triage and Escalation Runbook](README.md).

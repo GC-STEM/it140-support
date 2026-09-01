@@ -19,7 +19,7 @@ A student who finds programming unfamiliar is not necessarily experiencing a tec
 
 For the canonical course overview, see [IT 140 Course Overview](../shared/course-overview.md).
 
-For abbreviations and technical terms, use the **[IT 140 Course Glossary](https://github.com/GC-STEM/it140-support/blob/main/shared/glossary.md)**.
+For abbreviations and technical terms, use the [IT 140 Course Glossary](../shared/glossary.md).
 
 ## Plan Around a 16-Hour Average Week
 
@@ -61,7 +61,19 @@ Programming is difficult to compress into one long weekend session because stude
 - debug or revise; and
 - ask for help when needed.
 
-Encourage students to begin early and make progress across several sessions during the week. Waiting until the weekend leaves little time to recover from a technical problem, misunderstanding, or programming error.
+Encourage students to begin early and make progress across several sessions during the week. A useful coaching pattern is approximately **2–2.5 hours per day**, adjusted for the module, due dates, and the student's needs.
+
+When a student needs more help building that routine, refer to [Academic Coaching | Time and Task Prioritization](../academic-support/coaching.md#time-and-task-prioritization).
+
+## A Useful Default Priority Order
+
+When a student is unsure how to prioritize the week's IT 140 work, a useful general order is:
+
+1. current **zyBooks Participation Activities and Lab Activities**;
+2. the current **module assignment or milestone**; and
+3. if planned time remains, continued work on the active **Text-Adventure Game project**.
+
+This is a planning aid, not a replacement for current Brightspace due dates or requirements.
 
 ## The Course Moves Quickly and Builds on Earlier Work
 
@@ -77,13 +89,14 @@ Students progressively work with concepts such as:
 - files; and
 - testing and debugging.
 
-Later course work builds on earlier concepts. A student who falls behind should be encouraged to reach out early to:
+Later course work builds on earlier concepts. A student who falls behind should be encouraged to reach out early to the support option that matches the barrier:
 
-- their instructor;
-- Academic Support; and
-- their advisor when the difficulty affects the student's broader academic plan or persistence.
+- **faculty** for assignment/content questions and instructional help;
+- **Academic Support** for programming learning, tutoring, coaching, written feedback, or English-language support as appropriate;
+- **IT Service Desk** for technical environment failures; and
+- **advisor** when the difficulty affects the student's broader academic plan or persistence.
 
-Advisors do not need to teach programming concepts themselves.
+See [Academic Support for IT 140](../academic-support/README.md).
 
 ## Students Use Several Systems
 
@@ -156,37 +169,38 @@ A student who says they are "struggling with IT 140" may simultaneously have:
 
 - a programming-learning problem;
 - a technical environment problem;
-- an assignment question; and/or
-- a broader time-management or academic concern.
+- an assignment question;
+- a time-management/organization/academic-skills problem; and/or
+- a broader academic concern.
 
 The advisor can help separate those issues and connect the student with the right resources.
 
 For example:
 
-> "I am behind because I spent two days trying to install Python and now I don't understand loops."
+> "I am behind because I spent two days trying to install Python, I only work on weekends, and now I don't understand loops."
 
-contains at least two distinct support needs:
+contains at least three distinct support needs:
 
 1. **Technical:** course environment/install problem → IT Service Desk.
-2. **Learning:** loops/course content → faculty or Academic Support.
+2. **Academic skills:** time/task planning → Academic Coaching.
+3. **Learning:** loops/course content → faculty, LSS, and/or 24/7 Drop-In Tutoring.
 
 The advisor can also address the broader academic impact through normal advising.
 
 ## Academic Support
 
-Students have several optional learning-support paths in addition to their instructor:
+Use [Academic Support for IT 140](../academic-support/README.md) as the canonical F&S-facing overview of available Academic Support pathways.
 
-- **24/7 Drop-In Tutoring**, including Python support;
-- **IT 140 - Intro to Python Workshop**, a live Academic Support session dedicated to IT 140; and
-- **IT Basics Office Hours**, a live Academic Support session for questions and support with IT/programming fundamentals.
+IT 140-relevant options include:
 
-The current-term group-session schedule is maintained in the Academic Resource Center:
+- **24/7 Drop-In Tutoring** for on-demand general Python help;
+- **IT 140 - Intro to Python Workshop**;
+- **IT Basics Office Hours**;
+- **Academic Coaching** for time/task, organization, technical reading, academic skills, learning strategies, and problem-solving process;
+- **Written Feedback** for appropriate written deliverables; and
+- **ELL/ESOL support pathways**.
 
-[Group Sessions Schedule: Workshops, Office Hours, and Peer Groups](https://snhuacademicresourcecenter.screenstepslive.com/a/1834032-group-sessions-schedule-workshops-office-hours-and-peer-groups)
-
-Schedules can change by term, so advisors should use the current schedule rather than memorizing session times.
-
-See [Referrals and Routing](referrals-and-routing.md#academic-support) for advisor guidance.
+Schedules and service access can change, so use the current official Academic Support pages rather than memorizing times.
 
 ## What Advisors Do Not Need to Learn
 

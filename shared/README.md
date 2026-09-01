@@ -1,13 +1,15 @@
 # Shared IT 140 Support Documentation
 
-The `shared/` directory contains **canonical information that applies to more than one IT 140 support role**.
+The `shared/` directory contains **canonical information that applies to more than one IT 140 support role or service**.
 
-Support personnel are **not expected to read these pages in order before helping someone**. Role-specific guides should link directly to the shared page or section needed for a particular support task.
+Faculty and staff are **not expected to read these pages in order before helping someone**. Role- and support-area guides should link directly to the shared page or section needed for a particular support task.
 
 > [!IMPORTANT]
 > **Shared facts are documented once. Role-specific responsibilities and procedures live under the role's directory.**
 >
-> When a shared fact changes, update it here and review the role-specific pages that link to it. Do not copy the same fact into multiple role guides unless the role-specific context requires a brief restatement.
+> When a shared fact changes, update it here and review the role-/service-specific pages that link to it. Do not copy the same fact into multiple guides unless the local context requires a brief restatement.
+
+The [Academic Support Guide](../academic-support/README.md) similarly serves as the canonical F&S-facing overview of Academic Support services relevant to IT 140. Other role guides should link there instead of independently maintaining complete service lists when practical.
 
 ## Shared Resources
 
@@ -18,18 +20,19 @@ Support personnel are **not expected to read these pages in order before helping
 | [Course Glossary](glossary.md) | Abbreviations and technical terms used anywhere in the IT 140 public repository and wiki ecosystem |
 | [Supported Environments](supported-environments.md) | The CVD reference environment, supported local environments, course IDE components, and unsupported/best-effort configurations |
 | [GitHub Workflow](github-workflow.md) | How students create, clone, work in, back up, recover, and reuse course repositories |
-| [Support Boundaries](support-boundaries.md) | Which kinds of problems belong primarily to faculty, LSS, advisors, the IT Service Desk, or course technical maintainers |
+| [Support Boundaries](support-boundaries.md) | Which kinds of problems belong primarily to faculty, Academic Support/LSS, Academic Coaching, advisors, the IT Service Desk, or course technical maintainers |
 | [Escalation Model](escalation-model.md) | What evidence to collect and preserve when a problem must move to another support level |
 
-## How Role Guides Should Use Shared Pages
+## How Role and Service Guides Should Use Shared Pages
 
-A role-specific page should:
+A role- or service-specific page should:
 
-1. Start with the task or decision the supporter needs to make.
-2. Include enough context for the supporter to proceed without browsing `shared/` first.
+1. Start with the task or decision the F&S member needs to make.
+2. Include enough context to proceed without browsing `shared/` first.
 3. Link to the exact shared page or section when a canonical fact is needed.
-4. Keep role-specific actions, responsibilities, and escalation instructions in the role directory.
+4. Keep role-specific actions, responsibilities, and escalation instructions in the appropriate role/service directory.
 5. Avoid reproducing long explanations that already exist in `shared/`.
+6. Use the [Academic Support Guide](../academic-support/README.md) as the canonical service-selection reference when the question is which Academic Support option best fits the student's need.
 
 For example, a Service Desk procedure for a failed local setup should link to:
 
@@ -59,15 +62,24 @@ Role-specific directories should contain information such as:
 - what constitutes a successful resolution for that role; and
 - where that role sends the problem next.
 
+The `academic-support/` directory contains **F&S-facing service-selection and service-context guidance** that applies across Academic Support. Detailed LSS procedures remain in `lss/`.
+
 ## Keeping Shared Documentation Current
 
 When course infrastructure changes:
 
 1. Update the authoritative student-facing course or setup documentation first when appropriate.
 2. Update the affected shared support page.
-3. Search the role guides for links or short restatements that may need revision.
+3. Search the role/service guides for links or short restatements that may need revision.
 4. Update screenshots if the user interface or expected output changed.
 5. Record material support-documentation changes in the repository `CHANGELOG.md`.
+
+When an Academic Support service description, access path, or service-selection recommendation changes:
+
+1. Update the official Academic Support source first where appropriate.
+2. Update [Academic Support for IT 140](../academic-support/README.md).
+3. Review faculty, LSS, advisor, and Service Desk links that depend on it.
+4. Avoid copying a new service list independently into each role guide.
 
 When a new abbreviation or technical term is introduced anywhere in the IT 140 public repository or wiki ecosystem, add it to the [Course Glossary](glossary.md) during the corresponding documentation review.
 
@@ -89,9 +101,10 @@ During drafting, use hidden placeholders such as:
 
 A screenshot should clarify a navigation step, expected state, error location, or decision point. Do not add screenshots only for decoration.
 
-## Related Role Guides
+## Related Role and Support Guides
 
 - [Faculty Support Guide](../faculty/README.md)
+- [Academic Support for IT 140](../academic-support/README.md)
 - [LSS Support Guide](../lss/README.md)
 - [Advisor Support Guide](../advisors/README.md)
 - [Service Desk Triage and Escalation Runbook](../service-desk/README.md)

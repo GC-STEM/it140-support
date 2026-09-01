@@ -66,9 +66,33 @@ Faculty may:
 - help identify the unexpected result;
 - ask the student to trace the logic;
 - connect the issue to current course concepts; and
-- refer the student to LSS for additional learning support.
+- refer the student to an appropriate [Academic Support](../academic-support/README.md) learning option.
+
+For IT 140-focused live support, LSS is appropriate. For on-demand general Python support, 24/7 Drop-In Tutoring may be appropriate.
 
 Do not send a normal student logic error to the Service Desk merely because the program was run in VS Code.
+
+## A Student Is Falling Behind Because They Cannot Organize the Week
+
+This is not automatically an instructional or technical failure.
+
+A useful general pattern is:
+
+- begin early in the week;
+- plan approximately **2–2.5 hours per day**;
+- prioritize current zyBooks Participation/Lab Activities;
+- then complete the current module assignment/milestone; and
+- use remaining planned time for the active Text-Adventure Game project.
+
+Current Brightspace due dates take precedence.
+
+**Route:** [Academic Coaching](../academic-support/coaching.md#time-and-task-prioritization) when the student needs help creating or following the plan.
+
+## A Student Has Trouble Following Technical Directions
+
+If the issue is reading, sequencing, or organizing the directions, [Academic Coaching](../academic-support/coaching.md#reading-comprehension-and-technical-documentation) may be appropriate.
+
+If the student follows the current documented step and the technology fails, route to the IT Service Desk.
 
 ## A Student Wants You to Look at Their Private GitHub Repository
 

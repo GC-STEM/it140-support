@@ -2,10 +2,16 @@
 
 This runbook is for **SNHU IT Service Desk personnel** supporting IT 140 students and faculty.
 
+This repository is written for faculty and staff. Students may be able to view it because it is public, but Service Desk operational guidance here is intended for F&S use.
+
 Use this page as the starting point. You do **not** need to read the shared documentation first. Each procedure links to the shared course facts needed for that step.
 
 > [!IMPORTANT]
-> The Service Desk supports the **technical environment and access path** in which IT 140 work is completed. Faculty and Learning Support Specialists (LSS) support assignment requirements, programming concepts, and student-created code.
+> The Service Desk supports the **technical environment and access path** in which IT 140 work is completed.
+>
+> - **Faculty** handles graded requirements, grading, instructor feedback, and course decisions.
+> - **Academic Support** can provide programming learning support and other services.
+> - **Academic Coaching** can support time/task prioritization, organization, technical-reading strategies, and related academic skills.
 >
 > If the course IDE runs correctly but a student's program produces the wrong result, do not treat that alone as an environment failure. See [Support Boundaries](../shared/support-boundaries.md#it-service-desk-boundary).
 
@@ -16,11 +22,11 @@ Use this sequence for an IT 140 ticket:
 1. **Identify the user and activity.** Record the module/activity and what the user was trying to do.
 2. **Identify the environment.** Codio Virtual Desktop (CVD), Windows, macOS, Linux, or another/unsupported environment.
 3. **Protect course continuity.** If a local environment is blocking coursework, confirm whether the student can continue in the CVD.
-4. **Classify the symptom.** Access, course IDE, lifecycle automation, GitHub/repository, Python execution, or student-created code.
-5. **Use the least invasive diagnostic.** For a configured CVD, Windows, or macOS course IDE, having student run the `verify_it140.sh` (Windows: `verify_it140.ps1`; macOS: `verify_it140.zsh`) is the preferred read-only environment check.
+4. **Classify the symptom.** Access, course IDE, lifecycle automation, GitHub/repository, Python execution, student-created code, or a nontechnical support need.
+5. **Use the least invasive diagnostic.** For a configured CVD, Windows, or macOS course IDE, having the student run the `verify_it140.sh` (Windows: `verify_it140.ps1`; macOS: `verify_it140.zsh`) is the preferred read-only environment check.
 6. **Read the complete summary and remediation.** Do not infer a repair from one error line.
 7. **Apply only documented safe remediation.** Preserve student work and repository history.
-8. **Resolve or route.** Technical issues stay with the technical path; code/content issues go to faculty/LSS; academic-planning issues go to advising.
+8. **Resolve or route.** Technical issues stay with the technical path; code/content learning issues go to faculty/Academic Support; time/task/organization needs may go to Academic Coaching; academic-planning issues go to advising.
 9. **Escalate with evidence.** Include the environment, exact step, result, log/support artifact, and troubleshooting already attempted.
 
 See [Triage](triage.md) for the detailed decision flow.
@@ -39,7 +45,8 @@ See [Triage](triage.md) for the detailed decision flow.
 | GitHub sign-in or `gh auth` problem | [GitHub and Repository Troubleshooting](github-repository-troubleshooting.md#github-authentication) |
 | Wrong/missing/private repository problem | [GitHub and Repository Troubleshooting](github-repository-troubleshooting.md) |
 | Python cannot run at all | [Triage: Python execution](triage.md#5-python-execution-problem) |
-| Python runs, but student code is wrong | [Triage: Student-code problem](triage.md#6-student-code-or-course-content-problem) |
+| Python runs, but student code is wrong | [Triage: Student-code/learning problem](triage.md#6-student-code-learning-or-course-content-problem) |
+| Student needs time/task or organization help | [Academic Coaching](../academic-support/coaching.md) |
 | Course-provided script/repo appears defective | [Escalation](escalation.md#course-technical-maintenance-escalation) |
 
 ## Runbook Pages
@@ -51,13 +58,14 @@ See [Triage](triage.md) for the detailed decision flow.
 - [Safe Remediation](safe-remediation.md) — allowed first-line actions and actions to avoid
 - [Escalation](escalation.md) — evidence package and routing boundaries
 
-## Shared References Used by This Runbook
+## Shared and Cross-Role References
 
-These pages contain canonical facts used by the procedures above:
+These pages contain canonical facts and routing guidance used by the procedures above:
 
+- [Academic Support for IT 140](../academic-support/README.md)
 - [IT 140 Course Overview](../shared/course-overview.md)
 - [Course Repository Architecture](../shared/course-repository-architecture.md)
-- [IT 140 Terminology](../shared/terminology.md)
+- [Course Glossary](../shared/glossary.md)
 - [Supported Environments](../shared/supported-environments.md)
 - [GitHub Workflow](../shared/github-workflow.md)
 - [Support Boundaries](../shared/support-boundaries.md)

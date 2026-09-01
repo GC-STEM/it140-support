@@ -1,6 +1,6 @@
 # IT 140 Faculty | Supporting Students
 
-Faculty support spans assignment interpretation and programming instruction, but IT 140 also has dedicated technical and learning-support paths.
+Faculty support spans assignment interpretation and programming instruction, but IT 140 also has dedicated technical and Academic Support paths.
 
 Use this page to identify **what kind of help the student needs before deciding what to do next**.
 
@@ -16,12 +16,13 @@ Common categories are:
 | Course IDE will not configure or Verify | Technical / IT Service Desk |
 | Cannot create, clone, or find the expected repository | Repository workflow; faculty may orient, Service Desk handles technical failures |
 | Does not understand assignment requirements | Faculty |
-| Does not understand a programming concept | Faculty or LSS |
-| Python runs but student code has a syntax/logic problem | Faculty or LSS |
+| Does not understand a programming concept | Faculty or Academic Support |
+| Python runs but student code has a syntax/logic problem | Faculty or Academic Support |
+| Needs time/task prioritization, organization, or technical-reading strategy | Academic Coaching |
 | Wants grading clarification or feedback interpretation | Faculty |
 | Needs academic planning advice | Academic Advisor |
 
-See [Support Boundaries](../shared/support-boundaries.md) for the canonical role definitions.
+See [Support Boundaries](../shared/support-boundaries.md) for the canonical role definitions and [Academic Support for IT 140](../academic-support/README.md) for service selection.
 
 ## For Assignment Questions
 
@@ -47,11 +48,34 @@ If Python and the course environment work but the student's own program fails:
 - connect the problem to concepts the student has learned;
 - encourage small tests and incremental debugging;
 - use hints, questions, or partial examples before supplying a complete solution; and
-- refer to LSS when additional learning support would help.
+- refer to an appropriate Academic Support learning service when additional help would be useful.
 
 The goal is to help the student develop and debug **their own solution**.
 
 Do not route a normal student syntax or logic error to the Service Desk merely because the error appears in VS Code or Terminal.
+
+For course-specific live learning support, use the [LSS Support Guide](../lss/README.md).
+
+For on-demand general Python support, see [24/7 Drop-In Tutoring | IT 140 Context](../academic-support/tutoring.md).
+
+## For Academic-Skills / Coaching Needs
+
+A student may understand that they need to learn programming but still struggle with **how to approach the course**.
+
+Academic Coaching may be appropriate when the student needs help with:
+
+- starting earlier and spreading work across the week;
+- time/task prioritization;
+- deciding how to sequence zyBooks, the current assignment/milestone, and project work;
+- reading and following detailed technical documentation;
+- organizing work across Brightspace, zyBooks, GitHub, and VS Code;
+- strengthening general academic habits;
+- learning strategies related to a diagnosed learning difference; or
+- developing a repeatable critical-thinking/problem-solving process.
+
+See [Academic Coaching | IT 140 Guide for F&S](../academic-support/coaching.md).
+
+A useful general weekly planning pattern is approximately **2–2.5 hours per day**, with priority on current zyBooks Participation/Lab Activities, then the current module assignment/milestone, then the active Text-Adventure Game project if planned time remains. Current Brightspace due dates always take precedence.
 
 ## For Technical Environment Problems
 
@@ -110,16 +134,17 @@ in public GitHub Issues or Discussions.
 
 A public course question can often be asked without including the student's private work.
 
-## When to Refer to LSS
+## When to Refer to Academic Support
 
-LSS is appropriate when a student would benefit from additional help with:
+Use [Academic Support for IT 140](../academic-support/README.md) when you want to match the student to an Academic Support service.
 
-- programming concepts;
-- pseudocode or flowchart reasoning;
-- debugging strategy;
-- testing;
-- reading error messages; or
-- developing problem-solving habits.
+Common examples:
+
+- **LSS Workshop / Office Hours** — course-specific Python and IT 140 learning support;
+- **24/7 Drop-In Tutoring** — on-demand general Python help;
+- **Academic Coaching** — time/task, organization, technical reading, academic skills, learning strategies, and problem-solving process;
+- **Written Feedback** — writing development for appropriate IT 140 written deliverables; and
+- **ELL/ESOL pathways** — English-language learning support across available services.
 
 Faculty retain authority for assignment interpretation, grading, and instructor feedback.
 

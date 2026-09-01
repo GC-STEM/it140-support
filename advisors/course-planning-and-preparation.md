@@ -17,6 +17,22 @@ The zyBooks portion of the workload is significant throughout the term. As a pla
 
 The remainder of the weekly workload includes other course content, programming practice, assignments/projects, testing, debugging, review, and support.
 
+## Help the Student Plan the Week, Not Just the Total Hours
+
+Programming work benefits from repeated cycles of learning, practice, testing, debugging, and help-seeking.
+
+A useful default pattern is to begin early in the week and work approximately **2–2.5 hours per day**, adjusted for the specific module, due dates, and the student's circumstances.
+
+When the student needs help deciding what to do first, a useful general priority is:
+
+1. current **zyBooks Participation Activities and Lab Activities**;
+2. the current **module assignment or milestone**; and
+3. if planned time remains, continue the active **Text-Adventure Game project**.
+
+Current Brightspace requirements and due dates always take precedence over this general planning pattern.
+
+Students who need help turning this into a workable routine can be referred to [Academic Coaching](../academic-support/coaching.md#time-and-task-prioritization).
+
 ## Help the Student Plan the Rest of the Schedule
 
 Do not use a blanket rule that every student must avoid mathematics or another technical course while taking IT 140.
@@ -36,11 +52,13 @@ Appropriate optional preparation may include:
 - checking that the student has a device and browser that can access required course systems;
 - reviewing the current IT 140 technology requirements;
 - learning what the terms Python, IDE, CVD, VS Code, zyBooks, Git, and GitHub mean at a high level; and
-- locating Academic Support options before they are urgently needed.
+- locating instructor and Academic Support options before they are urgently needed.
 
-For terminology, use the **[IT 140 Course Glossary](https://github.com/GC-STEM/it140-support/blob/main/shared/glossary.md)**.
+For terminology, use the [IT 140 Course Glossary](../shared/glossary.md).
 
 For current environment information, use [Technology Context for Advisors](technology-context.md) and [Supported Environments](../shared/supported-environments.md).
+
+For Academic Support options, use [Academic Support for IT 140](../academic-support/README.md).
 
 ### Do Not Recommend Starting Course Work Early
 
@@ -82,7 +100,7 @@ Encourage review of fundamentals rather than assuming prior experience will make
 
 No previous programming experience is required for IT 140.
 
-Advisor feedback indicates that **CS-205 may be a helpful preparatory option** for some students with no coding experience when the student has appropriate free-elective space.
+Advisor feedback identifies **CS-205 may be a helpful preparatory option** for some students with no coding experience when the student has appropriate free-elective space.
 
 Treat CS-205 as an **optional advising consideration, not an IT 140 prerequisite or universal recommendation**. Confirm the student's current program requirements and available elective space before recommending an additional course.
 
@@ -90,12 +108,16 @@ Students who do not take a preparatory course can still prepare by reviewing bas
 
 ## Academic Support to Identify Before the Term
 
-Students can be told in advance that help is available through:
+Use [Academic Support for IT 140](../academic-support/README.md) for the current F&S-facing service map.
 
-- their IT 140 instructor;
-- **24/7 Drop-In Tutoring**, including Python support;
-- **IT 140 - Intro to Python Workshop**; and
-- **IT Basics Office Hours**.
+Depending on the student's needs, useful options may include:
+
+- **24/7 Drop-In Tutoring** for on-demand general Python help;
+- **IT 140 - Intro to Python Workshop**;
+- **IT Basics Office Hours**;
+- **Academic Coaching** for time/task planning, organization, technical-reading strategies, academic skills, and learning strategies;
+- **Written Feedback** for appropriate writing-development needs; and
+- **ELL/ESOL support pathways**.
 
 The current-term group-session schedule is available at:
 
@@ -107,6 +129,6 @@ Schedules can change each term, so use the current page rather than giving stude
 
 A useful expectation to communicate is:
 
-> IT 140 does not require previous programming experience, but it is a fast-paced eight-week programming course. Plan for about 16 hours per week on average, spread your work across the week, and use your instructor and Academic Support early if you begin to struggle.
+> IT 140 does not require previous programming experience, but it is a fast-paced eight-week programming course. Plan for about 16 hours per week on average, spread your work across the week, and use your instructor and the appropriate Academic Support service early if you begin to struggle.
 
 Return to the [Advisor Support Guide](README.md).

@@ -6,7 +6,7 @@ The goal is to connect the student to the role or resource that can act on the a
 
 For the canonical cross-role model, see [Support Boundaries](../shared/support-boundaries.md).
 
-For course terms and abbreviations, use the **[IT 140 Course Glossary](https://github.com/GC-STEM/it140-support/blob/main/shared/glossary.md)**.
+For course terms and abbreviations, use the [IT 140 Course Glossary](../shared/glossary.md).
 
 ## Faculty
 
@@ -25,23 +25,20 @@ An advisor should not make grading or rubric decisions on the instructor's behal
 
 ## Academic Support
 
-Academic Support provides optional help for programming and problem-solving.
+Use [Academic Support for IT 140](../academic-support/README.md) as the canonical F&S-facing service-selection page.
 
-Appropriate reasons to refer include:
+Academic Support is broader than LSS workshops and office hours.
 
-- difficulty understanding Python concepts;
-- pseudocode/flowchart reasoning;
-- debugging;
-- reading Python error messages;
-- testing;
-- translating concepts into the student's own solution; and
-- needing additional practice or Q&A beyond the classroom.
-
-Current IT 140-related options include:
-
-- **24/7 Drop-In Tutoring**, including Python support;
-- **IT 140 - Intro to Python Workshop**; and
-- **IT Basics Office Hours**.
+| Student Need | Academic Support Option |
+| --- | --- |
+| Course-specific Python instruction or live group Q&A | IT 140 - Intro to Python Workshop / IT Basics Office Hours |
+| Quick on-demand general Python help | [24/7 Drop-In Tutoring](../academic-support/tutoring.md) |
+| Time/task prioritization or organization | [Academic Coaching](../academic-support/coaching.md) |
+| Reading/following technical documentation | [Academic Coaching](../academic-support/coaching.md#reading-comprehension-and-technical-documentation) |
+| Strengthening general academic skills or problem-solving process | [Academic Coaching](../academic-support/coaching.md) |
+| Learning strategies related to a diagnosed learning difference | [Academic Coaching](../academic-support/coaching.md#support-for-learning-differences) |
+| Writing-development feedback | Written Feedback |
+| English-language learning support | ELL/ESOL pathways across Academic Support |
 
 The current-term schedule for live group sessions is maintained at:
 
@@ -112,6 +109,8 @@ Examples include:
 | Grade / instructor feedback | **Primary** | — | — | Route |
 | Programming concept | Primary/appropriate | **Appropriate** | — | Route |
 | Student-code debugging | Primary/appropriate | **Appropriate** | — | Route |
+| Time/task prioritization or organization | — | **Academic Coaching** | — | Coordinate as needed |
+| Technical-reading/academic-study strategy | — | **Academic Coaching** | — | Coordinate as needed |
 | CVD / VS Code / Python environment failure | — | — | **Primary** | Route |
 | zyBooks technical access/setup failure | — | — | **Primary** | Route |
 | GitHub authentication / repository technical failure | — | — | **Primary** | Route |
@@ -126,13 +125,14 @@ A student may need simultaneous support.
 
 Example:
 
-> The student's local course IDE failed, they lost two days of work time, and they now do not understand the current programming topic.
+> The student's local course IDE failed, they lost two days of work time, they now do not understand the current programming topic, and they have no plan for catching up.
 
 Appropriate response:
 
 - **IT Service Desk** → restore/diagnose technical access.
 - **Faculty** → course-specific communication and assignment impact.
-- **Academic Support** → learning support for the programming topic.
+- **Academic Support learning service** → programming topic.
+- **Academic Coaching** → time/task recovery plan and organization.
 - **Advisor** → broader academic/persistence concern if needed.
 
 Do not make the student finish one support path before contacting another when the needs are independent.
@@ -143,12 +143,14 @@ For a normal referral, a short description is enough:
 
 - course: IT 140;
 - what the student was trying to do;
-- whether the problem appears technical, learning, assignment/grading, or academic;
+- whether the problem appears technical, programming-learning, academic-skills/coaching, assignment/grading, or academic;
 - what the student expected to happen;
 - what happened instead; and
 - the exact error/message when available.
 
 For programming help, the student may also need to share the relevant code or work through the approved support channel. A screenshot can be useful when it shows visual IDE/error context, but advisors do not need to require screenshots as the universal format for programming questions.
+
+For 24/7 Drop-In Tutoring, F&S can use [IT 140 Context for Tutoring](../academic-support/tutoring.md) to identify the current activity repository or other public context a Tutor.com tutor may need.
 
 Advisors are not expected to collect technical logs, run commands, or build the full technical escalation evidence package.
 
