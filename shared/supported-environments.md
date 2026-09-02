@@ -28,6 +28,9 @@ Local setup is optional. A working local installation is not required to complet
 | **Ubuntu with GNOME Desktop** | Supported local Linux environment | Use the current Linux/Ubuntu setup guidance; other Linux configurations are not equivalent to the supported automated profile |
 | **Other/manual configurations** | Best-effort alternative | Not a fully supported IT 140 configuration; CVD is the recommended fallback |
 
+> [!IMPORTANT]
+> An instructor or experienced student may choose a different development toolset, but that choice does not make the toolset a course-supported environment. The user should first configure and verify the CVD as the reference and fallback environment. See [Alternative Local Development Tools](https://github.com/GC-STEM/it140/wiki/Alternative-Local-Development-Tools) for compatibility requirements and support expectations.
+
 > [!NOTE]
 > Supported platform status can change as the course automation is tested and released. Check the current Module One Setup Tasks and main course repository before making a platform-support determination.
 
