@@ -9,9 +9,9 @@ Use this page as the starting point. You do **not** need to read the shared docu
 > [!IMPORTANT]
 > The Service Desk supports the **technical environment and access path** in which IT 140 work is completed.
 >
-> - **Faculty** handles graded requirements, grading, instructor feedback, and course decisions.
-> - **Academic Support** can provide programming learning support and other services.
-> - **Academic Coaching** can support time/task prioritization, organization, technical-reading strategies, and related academic skills.
+> * **Faculty** handles graded requirements, grading, instructor feedback, and course decisions.
+> * **Academic Support** can provide programming learning support and other services.
+> * **Academic Coaching** can support time/task prioritization, organization, technical-reading strategies, and related academic skills.
 >
 > If the course IDE runs correctly but a student's program produces the wrong result, do not treat that alone as an environment failure. See [Support Boundaries](../shared/support-boundaries.md#it-service-desk-boundary).
 

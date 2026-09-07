@@ -224,7 +224,7 @@ Ongoing maintenance should focus on:
 
 ## Repository Metadata
 
-- **Course**: IT 140 - *Introduction to Scripting*
+* **Course**: IT 140 - *Introduction to Scripting*
 - **Repository Name**: IT 140 Support
 - **Primary Audience**: SNHU faculty and staff who support IT 140, including faculty, Academic Support personnel, LSS, academic advisors, and IT Service Desk personnel
 - **Repository Purpose**: Provide canonical shared course-support information and role-/service-specific support procedures for IT 140
