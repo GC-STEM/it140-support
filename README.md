@@ -20,8 +20,9 @@ The repository provides guidance for:
 ---
 
 - **Course**: IT 140 - *Introduction to Scripting*
+- **Repository Purpose**: 
 - **Repository Version**: 1.0.4
-- **Repository Version DTG**: 2026-09-07-14-30
+- **Repository Version DTG**: 2026-09-07-14-30a
 
 ---
 
