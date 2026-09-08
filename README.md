@@ -17,6 +17,14 @@ The repository provides guidance for:
 >
 > Role- and support-area guides link directly to the course information needed to complete each support task.
 
+---
+
+- **Course**: IT 140 - *Introduction to Scripting*
+- **Repository Version**: 1.0.4
+- **Repository Version DTG**: 2026-09-07-14-30
+
+---
+
 ## Documentation Model
 
 This repository follows one central documentation rule:
