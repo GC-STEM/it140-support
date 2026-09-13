@@ -12,9 +12,9 @@ The **Codio Virtual Desktop (CVD)** is the course **reference environment**.
 
 Students may also use a supported local:
 
-- Windows computer;
-- Apple-silicon Mac; or
-- Ubuntu computer with GNOME Desktop.
+* Windows computer;
+* Apple-silicon Mac; or
+* Ubuntu computer with GNOME Desktop.
 
 Local setup is optional. A working local installation is not required to complete the course when the student can use the CVD.
 
@@ -40,19 +40,19 @@ The CVD is a cloud-based Linux desktop accessed through a web browser.
 
 The reference CVD uses:
 
-- Ubuntu 24.04 LTS;
-- the Xfce desktop environment; and
-- an x86_64 processor architecture.
+* Ubuntu 24.04 LTS;
+* the Xfce desktop environment; and
+* an x86_64 processor architecture.
 
 The CVD begins from a course-managed system image. That makes its starting configuration more consistent than a personal computer.
 
 The CVD is used as the course baseline for:
 
-- screenshots;
-- instructional demonstrations;
-- troubleshooting reproduction;
-- primary acceptance testing; and
-- a continuity environment when a local installation is unavailable or being repaired.
+* screenshots;
+* instructional demonstrations;
+* troubleshooting reproduction;
+* primary acceptance testing; and
+* a continuity environment when a local installation is unavailable or being repaired.
 
 <!-- screenshot placeholder; show the CVD desktop with VS Code, Terminal, and the Repos workspace/shortcut identifiable without exposing account information -->
 
@@ -74,14 +74,14 @@ This is an important support principle:
 
 The current supported Windows setup path covers:
 
-- **Windows 10 22H2**, or
-- **Windows 11**.
+* **Windows 10 22H2**, or
+* **Windows 11**.
 
 The automated Windows local setup assumes the student:
 
-- can run supported command-line tools;
-- has access to an account that can authorize administrator-level installation when required; and
-- is not prevented by device-management or security policy from installing the course tools.
+* can run supported command-line tools;
+* has access to an account that can authorize administrator-level installation when required; and
+* is not prevented by device-management or security policy from installing the course tools.
 
 Some lifecycle steps must be run as a regular user, while installation requires administrator privileges. Supporters should follow the exact current Windows README rather than running every course command from an Administrator PowerShell window.
 
@@ -93,8 +93,8 @@ Do not instruct a student to bypass those controls.
 
 The current automated macOS setup supports:
 
-- Apple-silicon Macs; and
-- macOS 14 Sonoma, macOS 15 Sequoia, or macOS 26 Tahoe.
+* Apple-silicon Macs; and
+* macOS 14 Sonoma, macOS 15 Sequoia, or macOS 26 Tahoe.
 
 Apple silicon includes Apple M-series processors such as M1, M2, M3, M4, and later supported Apple-silicon processors.
 
@@ -116,12 +116,12 @@ When a student uses another Linux configuration, treat it as a best-effort/manua
 
 Examples that should normally use the CVD include:
 
-- Chromebooks;
-- tablets;
-- Intel-based Macs under the current macOS automation;
-- operating-system versions outside the current supported guides;
-- computers on which required command-line or installation capabilities are blocked; and
-- devices whose management policy does not permit the course software.
+* Chromebooks;
+* tablets;
+* Intel-based Macs under the current macOS automation;
+* operating-system versions outside the current supported guides;
+* computers on which required command-line or installation capabilities are blocked; and
+* devices whose management policy does not permit the course software.
 
 The Module One local setup documentation also provides a manual setup path for advanced or unsupported configurations.
 
@@ -188,9 +188,9 @@ The Verify stage is designed to check the current environment without repairing 
 
 A successful verification reports:
 
-- `Result: COMPLIANT`;
-- `Failed: 0`; and
-- exit code `0`.
+* `Result: COMPLIANT`;
+* `Failed: 0`; and
+* exit code `0`.
 
 A warning does not automatically make the environment noncompliant.
 
@@ -221,11 +221,11 @@ CVD, macOS, Linux:
 
 Logs can identify:
 
-- the script and version;
-- platform;
-- actions performed;
-- warnings or failures; and
-- where the failure occurred.
+* the script and version;
+* platform;
+* actions performed;
+* warnings or failures; and
+* where the failure occurred.
 
 Review logs for private information before sharing them outside an authorized support channel.
 
@@ -240,30 +240,30 @@ That has two support implications:
 
 Use:
 
-- [`GC-STEM/it140`](https://github.com/GC-STEM/it140) for course-wide technical status and repository availability; and
-- [`GC-STEM/it140-m1-setup-tasks`](https://github.com/GC-STEM/it140-m1-setup-tasks) for current environment setup instructions.
+* [`GC-STEM/it140`](https://github.com/GC-STEM/it140) for course-wide technical status and repository availability; and
+* [`GC-STEM/it140-m1-setup-tasks`](https://github.com/GC-STEM/it140-m1-setup-tasks) for current environment setup instructions.
 
 ## Safe Support Principles
 
 When troubleshooting environments:
 
-- identify the platform first;
-- use the instructions for that platform;
-- do not run another platform's scripts because the filenames look similar;
-- do not randomly reinstall Python, VS Code, Git, or course extensions;
-- do not edit course-managed scripts, manifests, or schemas;
-- do not bypass system-management or security restrictions;
-- preserve student repositories and Git history;
-- prefer Verify for read-only environment assessment when appropriate; and
-- use the CVD to maintain course continuity during a local-environment problem.
+* identify the platform first;
+* use the instructions for that platform;
+* do not run another platform's scripts because the filenames look similar;
+* do not randomly reinstall Python, VS Code, Git, or course extensions;
+* do not edit course-managed scripts, manifests, or schemas;
+* do not bypass system-management or security restrictions;
+* preserve student repositories and Git history;
+* prefer Verify for read-only environment assessment when appropriate; and
+* use the CVD to maintain course continuity during a local-environment problem.
 
 ## Related Shared Documentation
 
-- [Course Overview](course-overview.md)
-- [Course Repository Architecture](course-repository-architecture.md)
-- [Terminology](terminology.md)
-- [GitHub Workflow](github-workflow.md)
-- [Support Boundaries](support-boundaries.md)
-- [Escalation Model](escalation-model.md)
+* [Course Overview](course-overview.md)
+* [Course Repository Architecture](course-repository-architecture.md)
+* [Terminology](terminology.md)
+* [GitHub Workflow](github-workflow.md)
+* [Support Boundaries](support-boundaries.md)
+* [Escalation Model](escalation-model.md)
 
 Return to the [Shared Documentation Index](README.md).

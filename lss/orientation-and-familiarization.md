@@ -8,9 +8,9 @@ The goal is to understand the current student workflow well enough to provide le
 
 Start with:
 
-- [IT 140 Course Overview](../shared/course-overview.md)
-- [IT 140 Course Status](https://github.com/GC-STEM/it140/wiki/Course-Status)
-- [Main IT 140 Repository](https://github.com/GC-STEM/it140)
+* [IT 140 Course Overview](../shared/course-overview.md)
+* [IT 140 Course Status](https://github.com/GC-STEM/it140/wiki/Course-Status)
+* [Main IT 140 Repository](https://github.com/GC-STEM/it140)
 
 The Course Status and live repository should take precedence over remembered workflows, screenshots, or old copies.
 
@@ -18,11 +18,11 @@ The Course Status and live repository should take precedence over remembered wor
 
 Students use several systems together:
 
-- **D2L Brightspace** for graded requirements, submissions, grading, deadlines, and instructor feedback;
-- **zyBooks** for interactive programming instruction and practice;
-- the **course IDE** for development work;
-- **GitHub course repositories** for templates, instructions, tests, and supporting resources; and
-- **private student repositories** for the student's own assignment/project work.
+* **D2L Brightspace** for graded requirements, submissions, grading, deadlines, and instructor feedback;
+* **zyBooks** for interactive programming instruction and practice;
+* the **course IDE** for development work;
+* **GitHub course repositories** for templates, instructions, tests, and supporting resources; and
+* **private student repositories** for the student's own assignment/project work.
 
 See [Course Overview](../shared/course-overview.md#how-students-learn-and-work).
 
@@ -32,13 +32,13 @@ The **Codio Virtual Desktop (CVD)** is the IT 140 reference environment.
 
 LSS should be able to recognize:
 
-- the CVD desktop;
-- VS Code;
-- the integrated Terminal;
-- the `~/Repos` workspace;
-- the current activity repository;
-- common Python execution and error output; and
-- the difference between a student-code problem and an environment failure.
+* the CVD desktop;
+* VS Code;
+* the integrated Terminal;
+* the `~/Repos` workspace;
+* the current activity repository;
+* common Python execution and error output; and
+* the difference between a student-code problem and an environment failure.
 
 See [Supported Environments](../shared/supported-environments.md).
 
@@ -78,10 +78,10 @@ contains General Programming and Python resources.
 
 Use those resources to:
 
-- avoid recreating existing explanations;
-- identify reusable examples or conceptual support;
-- reinforce common programming skills; and
-- identify gaps that may justify a new or updated resource.
+* avoid recreating existing explanations;
+* identify reusable examples or conceptual support;
+* reinforce common programming skills; and
+* identify gaps that may justify a new or updated resource.
 
 Verify current IT 140 applicability before recommending tool-specific instructions.
 
@@ -93,10 +93,10 @@ LSS primarily support **learning and problem solving**.
 
 Route:
 
-- assignment interpretation, grading, and instructor feedback → **faculty**;
-- technical environment/access/authentication failures → **IT Service Desk**;
-- academic planning → **Academic Advisor**;
-- reproducible defects in public course-managed technical content → **course technical maintenance path**.
+* assignment interpretation, grading, and instructor feedback → **faculty**;
+* technical environment/access/authentication failures → **IT Service Desk**;
+* academic planning → **Academic Advisor**;
+* reproducible defects in public course-managed technical content → **course technical maintenance path**.
 
 See [Referrals and Escalation](referrals-and-escalation.md).
 
@@ -104,12 +104,12 @@ See [Referrals and Escalation](referrals-and-escalation.md).
 
 You are ready to support students when you can answer:
 
-- Where are the current graded requirements? **D2L Brightspace**
-- Where are the current course/activity instructions? **Live activity README**
-- What is the reference development environment? **CVD**
-- Where can reusable learning resources be found? **Academic Resource Center**
-- What is the LSS goal? **Help the student develop understanding and their own solution**
-- Where do technical failures go? **IT Service Desk**
-- Where do grading/requirement questions go? **Faculty**
+* Where are the current graded requirements? **D2L Brightspace**
+* Where are the current course/activity instructions? **Live activity README**
+* What is the reference development environment? **CVD**
+* Where can reusable learning resources be found? **Academic Resource Center**
+* What is the LSS goal? **Help the student develop understanding and their own solution**
+* Where do technical failures go? **IT Service Desk**
+* Where do grading/requirement questions go? **Faculty**
 
 Return to the [LSS Support Guide](README.md).

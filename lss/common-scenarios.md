@@ -7,10 +7,10 @@ student-support interactions.
 
 Help the student identify:
 
-- what should happen;
-- what happens instead;
-- the smallest failing part; and
-- what the student has already tested.
+* what should happen;
+* what happens instead;
+* the smallest failing part; and
+* what the student has already tested.
 
 Use tracing, questions, error interpretation, or a smaller analogous example.
 
@@ -43,20 +43,20 @@ can keep coursework moving.
 
 Clarify the symptom.
 
-- GitHub works, but the student does not understand the course repository
+* GitHub works, but the student does not understand the course repository
   workflow → LSS may explain the workflow.
-- Authentication fails → IT Service Desk.
-- The activity README repository-setup or clone command fails → IT Service
+* Authentication fails → IT Service Desk.
+* The activity README repository-setup or clone command fails → IT Service
   Desk.
-- Student clicked **Fork** or **Use this template** instead of following the
+* Student clicked **Fork** or **Use this template** instead of following the
   activity README → preserve work and refer the repository state to the IT
   Service Desk when technical correction is needed.
-- Student opened the wrong copy → use the Three-Copy Model.
-- Student cannot find a local copy but work exists on GitHub → use the
+* Student opened the wrong copy → use the Three-Copy Model.
+* Student cannot find a local copy but work exists on GitHub → use the
   documented recovery concept and refer technical recovery when needed.
-- `git pull --ff-only` or `git push` fails → stop additional changes on the
+* `git pull --ff-only` or `git push` fails → stop additional changes on the
   affected copies and refer to the IT Service Desk.
-- Public GC-STEM repository appears broken → course technical escalation.
+* Public GC-STEM repository appears broken → course technical escalation.
 
 See [GitHub and Course Tools](github-and-course-tools.md).
 
@@ -73,10 +73,10 @@ Do not make the faculty grading judgment.
 
 You may help the student:
 
-- identify which concept or behavior they are trying to demonstrate;
-- test their own work;
-- explain their reasoning; and
-- formulate a specific question for the instructor.
+* identify which concept or behavior they are trying to demonstrate;
+* test their own work;
+* explain their reasoning; and
+* formulate a specific question for the instructor.
 
 ## "Can We Work on My Project in Office Hours?"
 
@@ -84,11 +84,11 @@ Yes, within the learning-support boundary.
 
 Focus on:
 
-- the student's reasoning;
-- one problem at a time;
-- concepts already in the course;
-- debugging/testing; and
-- student-authored changes.
+* the student's reasoning;
+* one problem at a time;
+* concepts already in the course;
+* debugging/testing; and
+* student-authored changes.
 
 Avoid turning a group session into a walkthrough of a complete project solution.
 
@@ -96,11 +96,11 @@ Avoid turning a group session into a walkthrough of a complete project solution.
 
 Decide whether the pattern suggests:
 
-- a concept that would benefit from a workshop;
-- an Academic Resource Center resource gap;
-- confusing activity wording that should be raised to faculty/course
+* a concept that would benefit from a workshop;
+* an Academic Resource Center resource gap;
+* confusing activity wording that should be raised to faculty/course
   maintainers; or
-- a repeated technical defect.
+* a repeated technical defect.
 
 Repeated questions are useful evidence for improving support resources.
 
@@ -109,9 +109,9 @@ Repeated questions are useful evidence for improving support resources.
 Determine whether the article is teaching a transferable programming concept or
 giving tool-specific instructions.
 
-- Concept remains valid → explain how the concept applies in the current IT 140
+* Concept remains valid → explain how the concept applies in the current IT 140
   environment.
-- Tool instructions conflict with current IT 140 → use the live IT 140
+* Tool instructions conflict with current IT 140 → use the live IT 140
   course/setup documentation and flag the resource for review.
 
 See [Academic Resource Center Development](resource-development.md).

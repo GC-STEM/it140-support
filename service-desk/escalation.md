@@ -10,12 +10,12 @@ evidence package. This page applies that model to the IT Service Desk role.
 
 Confirm that you have:
 
-- classified the problem;
-- protected the student's work;
-- checked whether the student can continue in the CVD;
-- followed the current course/script remediation where appropriate;
-- collected the relevant summary/log/support artifact; and
-- removed or protected private/security-sensitive information.
+* classified the problem;
+* protected the student's work;
+* checked whether the student can continue in the CVD;
+* followed the current course/script remediation where appropriate;
+* collected the relevant summary/log/support artifact; and
+* removed or protected private/security-sensitive information.
 
 ## Build the Evidence Package
 
@@ -47,12 +47,12 @@ sanitized support artifact fields visible -->
 Route to faculty when the technical environment works and the primary question
 is about:
 
-- assignment requirements;
-- what must be submitted;
-- grading or rubric application;
-- instructor feedback;
-- course deadlines or instructor-controlled processes; or
-- other instructional matters that require faculty authority.
+* assignment requirements;
+* what must be submitted;
+* grading or rubric application;
+* instructor feedback;
+* course deadlines or instructor-controlled processes; or
+* other instructional matters that require faculty authority.
 
 Do not interpret or override the D2L Brightspace Guidelines and Rubric from a
 Service Desk ticket.
@@ -62,11 +62,11 @@ Service Desk ticket.
 Route or refer to Learning Support Specialists (LSS) when the environment works
 and the student needs learning support with:
 
-- programming concepts;
-- understanding syntax/errors in student-created code;
-- debugging strategy;
-- pseudocode/flowchart reasoning; or
-- development of the student's own solution.
+* programming concepts;
+* understanding syntax/errors in student-created code;
+* debugging strategy;
+* pseudocode/flowchart reasoning; or
+* development of the student's own solution.
 
 Do not provide a complete graded solution through the technical support process.
 
@@ -78,15 +78,15 @@ normal environment.
 
 Examples:
 
-- current public README command fails as written;
-- a course lifecycle script fails reproducibly in the supported environment;
-- a controlled manifest/schema or course asset is invalid;
-- a public starter file/test is missing or malformed;
-- a student CI workflow behaves differently from its documented lifecycle;
-- course automation and documentation disagree;
-- the same supported-environment or GitHub Actions failure affects multiple
+* current public README command fails as written;
+* a course lifecycle script fails reproducibly in the supported environment;
+* a controlled manifest/schema or course asset is invalid;
+* a public starter file/test is missing or malformed;
+* a student CI workflow behaves differently from its documented lifecycle;
+* course automation and documentation disagree;
+* the same supported-environment or GitHub Actions failure affects multiple
   users; or
-- the reference CVD reproduces the course-tool failure.
+* the reference CVD reproduces the course-tool failure.
 
 Before escalation:
 
@@ -102,9 +102,9 @@ A public GitHub Issue can be appropriate for a reproducible defect in public
 course content **only when the report contains no protected/private information
 or graded student solution**.
 
-- [Main IT 140 Issues](https://github.com/GC-STEM/it140/issues) — course-wide
+* [Main IT 140 Issues](https://github.com/GC-STEM/it140/issues) — course-wide
   automation or repository issue
-- [Module One Setup Tasks Issues](https://github.com/GC-STEM/it140-m1-setup-tasks/issues)
+* [Module One Setup Tasks Issues](https://github.com/GC-STEM/it140-m1-setup-tasks/issues)
   — setup instructions or platform-specific setup behavior
 
 When a public issue is not appropriate, use the current approved internal
@@ -133,9 +133,9 @@ Separate these two cases:
 
 Examples:
 
-- user cannot access the intended GitHub account;
-- GitHub requires account recovery;
-- authentication is blocked outside the IT 140 scripts.
+* user cannot access the intended GitHub account;
+* GitHub requires account recovery;
+* authentication is blocked outside the IT 140 scripts.
 
 Use the appropriate account/service support path. Do not request credentials or
 recovery secrets.
@@ -144,11 +144,11 @@ recovery secrets.
 
 Examples:
 
-- the current activity README repository-setup command fails;
-- the documented clone/push/pull workflow fails unexpectedly;
-- a GC-STEM repository is missing or malformed;
-- course documentation creates an incorrect remote/repository state; or
-- a fresh untouched personal repository receives an unexpected CI failure that
+* the current activity README repository-setup command fails;
+* the documented clone/push/pull workflow fails unexpectedly;
+* a GC-STEM repository is missing or malformed;
+* course documentation creates an incorrect remote/repository state; or
+* a fresh untouched personal repository receives an unexpected CI failure that
   contradicts the activity's documented student CI lifecycle.
 
 Use the course technical maintenance path when the problem is reproducible and
@@ -169,23 +169,23 @@ rules.
 
 For the Service Desk specifically:
 
-- account-specific, student-specific, managed-device, and university-system
+* account-specific, student-specific, managed-device, and university-system
   cases stay in authorized internal channels;
-- a public GitHub Issue is only for a reproducible defect in public course
+* a public GitHub Issue is only for a reproducible defect in public course
   content that can be reported safely without protected information or graded
   student work; and
-- when in doubt, keep the case internal and escalate through the approved
+* when in doubt, keep the case internal and escalate through the approved
   Service Desk path.
 
 ## Escalation Completion Criteria
 
 A handoff is ready when the receiving role can determine:
 
-- the failing layer;
-- the environment and exact procedure;
-- what has already been tried;
-- the authoritative evidence;
-- whether the student has a course-continuity path; and
-- what action is requested from the receiving role.
+* the failing layer;
+* the environment and exact procedure;
+* what has already been tried;
+* the authoritative evidence;
+* whether the student has a course-continuity path; and
+* what action is requested from the receiving role.
 
 Return to the [Service Desk Triage and Escalation Runbook](README.md).

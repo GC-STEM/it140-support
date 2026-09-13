@@ -16,18 +16,18 @@ Students learn progressively by reading and practicing programming concepts, des
 
 IT 140 introduces concepts such as:
 
-- basic input and output;
-- variables and data types;
-- arithmetic and expressions;
-- strings;
-- decision branching;
-- loops;
-- functions;
-- lists;
-- dictionaries;
-- files;
-- classes and modules; and
-- programming practices such as testing, debugging, readability, and incremental development.
+* basic input and output;
+* variables and data types;
+* arithmetic and expressions;
+* strings;
+* decision branching;
+* loops;
+* functions;
+* lists;
+* dictionaries;
+* files;
+* classes and modules; and
+* programming practices such as testing, debugging, readability, and incremental development.
 
 > [!IMPORTANT]
 > IT 140 is an introductory programming course. **Introductory means previous programming experience is not assumed; it does not mean the course requires little time or effort.**
@@ -42,8 +42,8 @@ Actual time varies by student and week. Students who are new to programming may 
 
 The zyBooks workload is significant throughout the course. As a practical planning estimate, students may spend approximately:
 
-- **4–5 hours per week in zyBooks during the earlier part of the course**; and
-- **2–3 hours per week in zyBooks during later weeks** as that portion of the workload tapers somewhat.
+* **4–5 hours per week in zyBooks during the earlier part of the course**; and
+* **2–3 hours per week in zyBooks during later weeks** as that portion of the workload tapers somewhat.
 
 The remainder of the expected weekly time includes Brightspace course content, programming practice, design work, assignments/projects, testing and debugging, review, and obtaining help when needed. Exact weekly activities remain governed by the current Brightspace course and zyBooks assignments.
 
@@ -111,9 +111,9 @@ The **Codio Virtual Desktop (CVD)** is the IT 140 reference environment. Course 
 
 Students may also configure the course IDE on a supported local:
 
-- Windows computer;
-- macOS computer; or
-- Linux computer.
+* Windows computer;
+* macOS computer; or
+* Linux computer.
 
 The same core toolset is used across supported environments, but local computers can differ because of existing software, operating-system configuration, permissions, security controls, and other user-specific conditions.
 
@@ -133,9 +133,9 @@ Students apply these practices with increasing independence as the course progre
 
 The multi-module project provides a clear example of this progression:
 
-- **Project One - Design:** Students design a text-based adventure game, including its theme, rooms, items, map, and pseudocode.
-- **Module Six Milestone - Prototype:** Students develop a simplified version that lets a player move among a small set of rooms and exit the game.
-- **Project Two - Implementation:** Students develop the complete text-based game using their earlier design work and programming concepts including functions, dictionaries, loops, decision branching, input validation, and debugging.
+* **Project One - Design:** Students design a text-based adventure game, including its theme, rooms, items, map, and pseudocode.
+* **Module Six Milestone - Prototype:** Students develop a simplified version that lets a player move among a small set of rooms and exit the game.
+* **Project Two - Implementation:** Students develop the complete text-based game using their earlier design work and programming concepts including functions, dictionaries, loops, decision branching, input validation, and debugging.
 
 This progression matters when supporting students. A design file, prototype, or partially working program may be intentionally incomplete because it represents a particular stage of the development process.
 
@@ -155,12 +155,12 @@ flowchart LR
 
 Students practice how to:
 
-- translate a problem into explicit steps;
-- organize a solution before and while coding;
-- read and write program logic;
-- test assumptions and diagnose errors;
-- revise a solution incrementally; and
-- use common development tools and workflows.
+* translate a problem into explicit steps;
+* organize a solution before and while coding;
+* read and write program logic;
+* test assumptions and diagnose errors;
+* revise a solution incrementally; and
+* use common development tools and workflows.
 
 These habits support later coursework and technical projects even when a later course uses different languages, tools, or problem domains.
 
@@ -168,9 +168,9 @@ These habits support later coursework and technical projects even when a later c
 
 Support personnel should distinguish among:
 
-- the **public IT 140 course repositories** maintained by GC-STEM;
-- the **student's private GitHub repositories** created from course templates; and
-- the **local cloned repositories** stored in the student's course development environment.
+* the **public IT 140 course repositories** maintained by GC-STEM;
+* the **student's private GitHub repositories** created from course templates; and
+* the **local cloned repositories** stored in the student's course development environment.
 
 These repositories may have similar or identical names but serve different purposes.
 
@@ -186,25 +186,25 @@ Support personnel do **not** need to become Python instructors to support IT 140
 
 The most important first distinction is whether the student is experiencing a problem with:
 
-- access to a course system;
-- the course development environment;
-- Git or GitHub;
-- a course or student repository;
-- running Python;
-- a course-provided file or tool;
-- understanding a programming concept;
-- the logic or syntax of the student's own code;
-- assignment requirements or grading; or
-- another course-related concern.
+* access to a course system;
+* the course development environment;
+* Git or GitHub;
+* a course or student repository;
+* running Python;
+* a course-provided file or tool;
+* understanding a programming concept;
+* the logic or syntax of the student's own code;
+* assignment requirements or grading; or
+* another course-related concern.
 
 Different problems belong to different support roles.
 
 As a general orientation:
 
-- **IT Service Desk personnel** primarily diagnose technical access and environment problems.
-- **Faculty** address course requirements, grading, instructor feedback, and instructional concerns.
-- **Learning Support Specialists (LSS)** help students develop understanding and problem-solving skills within appropriate academic-integrity boundaries.
-- **Academic Advisors** help students with academic planning, course expectations, and referrals to the appropriate support resource.
+* **IT Service Desk personnel** primarily diagnose technical access and environment problems.
+* **Faculty** address course requirements, grading, instructor feedback, and instructional concerns.
+* **Learning Support Specialists (LSS)** help students develop understanding and problem-solving skills within appropriate academic-integrity boundaries.
+* **Academic Advisors** help students with academic planning, course expectations, and referrals to the appropriate support resource.
 
 These are broad boundaries rather than complete procedures. See [Support Boundaries](support-boundaries.md) for the canonical support-responsibility guidance.
 
@@ -212,13 +212,13 @@ These are broad boundaries rather than complete procedures. See [Support Boundar
 
 A technical problem may involve symptoms such as:
 
-- a supported course environment does not launch or configure correctly;
-- a course development tool is unavailable;
-- GitHub authentication fails;
-- a repository cannot be created, cloned, opened, or accessed as expected;
-- Python cannot run in the configured course environment;
-- course verification reports a failure or unexpected result; or
-- a course-provided script, file, or repository does not behave as documented.
+* a supported course environment does not launch or configure correctly;
+* a course development tool is unavailable;
+* GitHub authentication fails;
+* a repository cannot be created, cloned, opened, or accessed as expected;
+* Python cannot run in the configured course environment;
+* course verification reports a failure or unexpected result; or
+* a course-provided script, file, or repository does not behave as documented.
 
 A program that runs but produces incorrect results is not automatically a technical environment problem. The issue may instead be in the student's code.
 
@@ -247,11 +247,11 @@ Use the source that matches the question being answered.
 
 Continue to the shared page that matches the information you need:
 
-- [Course Repository Architecture](course-repository-architecture.md) - how the IT 140 repositories relate to one another
-- [Course Glossary](glossary.md) - abbreviations and technical terms used across the IT 140 repository ecosystem
-- [Supported Environments](supported-environments.md) - CVD and supported local environments
-- [GitHub Workflow](github-workflow.md) - common GitHub and student-repository workflow
-- [Support Boundaries](support-boundaries.md) - responsibilities and referral boundaries
-- [Escalation Model](escalation-model.md) - evidence and escalation principles
+* [Course Repository Architecture](course-repository-architecture.md) - how the IT 140 repositories relate to one another
+* [Course Glossary](glossary.md) - abbreviations and technical terms used across the IT 140 repository ecosystem
+* [Supported Environments](supported-environments.md) - CVD and supported local environments
+* [GitHub Workflow](github-workflow.md) - common GitHub and student-repository workflow
+* [Support Boundaries](support-boundaries.md) - responsibilities and referral boundaries
+* [Escalation Model](escalation-model.md) - evidence and escalation principles
 
 Return to the [Shared Documentation Index](README.md) or the [IT 140 Support home page](../README.md).

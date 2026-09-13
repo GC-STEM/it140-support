@@ -10,11 +10,11 @@ Use the current faculty-specific setup guide:
 
 That guide is the authoritative location for the faculty-specific steps used to:
 
-- prepare a GitHub account for course use;
-- access the CVD through the faculty/instructor path;
-- configure and verify the faculty CVD;
-- review the student setup experience; and
-- review or optionally configure a supported local course IDE.
+* prepare a GitHub account for course use;
+* access the CVD through the faculty/instructor path;
+* configure and verify the faculty CVD;
+* review the student setup experience; and
+* review or optionally configure a supported local course IDE.
 
 Do not duplicate those step-by-step commands in this support repository.
 
@@ -35,19 +35,19 @@ Use the current faculty setup guide for the exact Brightspace/Codio navigation. 
 
 Faculty should be able to recognize:
 
-- the CVD desktop;
-- VS Code;
-- the integrated Terminal;
-- the `~/Repos` workspace;
-- the course Verify summary;
-- the difference between a GC-STEM public course repository and a student's private repository; and
-- where the activity README and Brightspace Guidelines and Rubric fit in the workflow.
+* the CVD desktop;
+* VS Code;
+* the integrated Terminal;
+* the `~/Repos` workspace;
+* the course Verify summary;
+* the difference between a GC-STEM public course repository and a student's private repository; and
+* where the activity README and Brightspace Guidelines and Rubric fit in the workflow.
 
 For shared definitions, see:
 
-- [Supported Environments](../shared/supported-environments.md)
-- [Course Repository Architecture](../shared/course-repository-architecture.md)
-- [GitHub Workflow](../shared/github-workflow.md)
+* [Supported Environments](../shared/supported-environments.md)
+* [Course Repository Architecture](../shared/course-repository-architecture.md)
+* [GitHub Workflow](../shared/github-workflow.md)
 
 ## CVD First
 
@@ -64,10 +64,10 @@ A supported local course IDE is optional for faculty, just as local setup is opt
 
 A local installation can be useful for:
 
-- viewing assignments outside the CVD;
-- testing the student local workflow;
-- understanding platform-specific student questions; and
-- comparing local behavior with the reference CVD.
+* viewing assignments outside the CVD;
+* testing the student local workflow;
+* understanding platform-specific student questions; and
+* comparing local behavior with the reference CVD.
 
 Use the current [Module One Setup Tasks](https://github.com/GC-STEM/it140-m1-setup-tasks) platform guide rather than manually assembling the course toolset.
 

@@ -6,10 +6,10 @@ Use these examples as quick routing guidance. Follow the linked page when the si
 
 **Faculty response:**
 
-- Keep coursework moving in the CVD.
-- Do not improvise operating-system repairs.
-- Preserve the error/Verify result.
-- Refer the technical problem to the IT Service Desk.
+* Keep coursework moving in the CVD.
+* Do not improvise operating-system repairs.
+* Preserve the error/Verify result.
+* Refer the technical problem to the IT Service Desk.
 
 See [Supporting Students](supporting-students.md#for-technical-environment-problems).
 
@@ -33,11 +33,11 @@ See [Assignments and Grading](assignments-and-grading.md).
 
 Identify what that means before routing:
 
-- cannot sign in/authenticate → technical support;
-- cannot create/clone the repository → technical support;
-- opened the wrong repository copy → orient using the Three-Copy Model;
-- does not understand Git/GitHub concepts → faculty/LSS may provide learning support;
-- public course repository is missing/broken → course technical escalation.
+* cannot sign in/authenticate → technical support;
+* cannot create/clone the repository → technical support;
+* opened the wrong repository copy → orient using the Three-Copy Model;
+* does not understand Git/GitHub concepts → faculty/LSS may provide learning support;
+* public course repository is missing/broken → course technical escalation.
 
 See [GitHub and Student Repositories](github-and-repositories.md).
 
@@ -63,10 +63,10 @@ This is usually a student-code/learning problem rather than an environment failu
 
 Faculty may:
 
-- help identify the unexpected result;
-- ask the student to trace the logic;
-- connect the issue to current course concepts; and
-- refer the student to an appropriate [Academic Support](../academic-support/README.md) learning option.
+* help identify the unexpected result;
+* ask the student to trace the logic;
+* connect the issue to current course concepts; and
+* refer the student to an appropriate [Academic Support](../academic-support/README.md) learning option.
 
 For IT 140-focused live support, LSS is appropriate. For on-demand general Python support, 24/7 Drop-In Tutoring may be appropriate.
 
@@ -78,11 +78,11 @@ This is not automatically an instructional or technical failure.
 
 A useful general pattern is:
 
-- begin early in the week;
-- plan approximately **2–2.5 hours per day**;
-- prioritize current zyBooks Participation/Lab Activities;
-- then complete the current module assignment/milestone; and
-- use remaining planned time for the active Text-Adventure Game project.
+* begin early in the week;
+* plan approximately **2–2.5 hours per day**;
+* prioritize current zyBooks Participation/Lab Activities;
+* then complete the current module assignment/milestone; and
+* use remaining planned time for the active Text-Adventure Game project.
 
 Current Brightspace due dates take precedence.
 
@@ -106,9 +106,9 @@ See [Reviewing a Private Student Repository](github-and-repositories.md#reviewin
 
 First determine **what failed**:
 
-- student code fails a valid course test → student learning/assignment issue;
-- test itself appears incorrect or inconsistent with the current rubric → possible course technical defect;
-- Python/test tooling cannot run → technical environment issue.
+* student code fails a valid course test → student learning/assignment issue;
+* test itself appears incorrect or inconsistent with the current rubric → possible course technical defect;
+* Python/test tooling cannot run → technical environment issue.
 
 Do not automatically treat a local test failure as a grading result unless the current Brightspace activity says to do so.
 
@@ -130,11 +130,11 @@ Use the [Start-of-Term Reorientation](start-of-term.md), the live Course Status 
 
 This may indicate a course-provided or platform-wide defect.
 
-- Check Course Status.
-- Preserve one or more clean reproduction examples.
-- Avoid collecting unnecessary student-specific data.
-- Reproduce in the CVD when reasonable.
-- Escalate through the course technical path.
+* Check Course Status.
+* Preserve one or more clean reproduction examples.
+* Avoid collecting unnecessary student-specific data.
+* Reproduce in the CVD when reasonable.
+* Escalate through the course technical path.
 
 See [Technical Issues and Escalation](technical-issues-and-escalation.md#course-provided-content-appears-defective).
 

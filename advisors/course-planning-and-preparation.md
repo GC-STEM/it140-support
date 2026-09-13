@@ -12,8 +12,8 @@ Students with no previous programming experience may need more time in some week
 
 The zyBooks portion of the workload is significant throughout the term. As a planning estimate:
 
-- early weeks may require approximately **4–5 hours per week** in zyBooks; and
-- later weeks may require approximately **2–3 hours per week** in zyBooks.
+* early weeks may require approximately **4–5 hours per week** in zyBooks; and
+* later weeks may require approximately **2–3 hours per week** in zyBooks.
 
 The remainder of the weekly workload includes other course content, programming practice, assignments/projects, testing, debugging, review, and support.
 
@@ -47,12 +47,12 @@ Use normal advising policy and the student's program requirements when recommend
 
 Appropriate optional preparation may include:
 
-- reviewing basic Python concepts with non-graded preparatory resources;
-- reviewing general programming/problem-solving resources;
-- checking that the student has a device and browser that can access required course systems;
-- reviewing the current IT 140 technology requirements;
-- learning what the terms Python, IDE, CVD, VS Code, zyBooks, Git, and GitHub mean at a high level; and
-- locating instructor and Academic Support options before they are urgently needed.
+* reviewing basic Python concepts with non-graded preparatory resources;
+* reviewing general programming/problem-solving resources;
+* checking that the student has a device and browser that can access required course systems;
+* reviewing the current IT 140 technology requirements;
+* learning what the terms Python, IDE, CVD, VS Code, zyBooks, Git, and GitHub mean at a high level; and
+* locating instructor and Academic Support options before they are urgently needed.
 
 For terminology, use the [IT 140 Course Glossary](../shared/glossary.md).
 
@@ -66,11 +66,11 @@ Optional preparation is not the same as completing IT 140 work before the course
 
 Advisors should **not** tell students to begin or complete:
 
-- graded assignments or projects;
-- zyBooks assignments for the upcoming term;
-- Module One course tasks;
-- discussion work; or
-- other required IT 140 course work
+* graded assignments or projects;
+* zyBooks assignments for the upcoming term;
+* Module One course tasks;
+* discussion work; or
+* other required IT 140 course work
 
 before the official term start unless current university/course guidance explicitly directs otherwise.
 
@@ -80,13 +80,13 @@ When the course is available during the two-week preview period, encourage the s
 
 Useful preview-period activities include:
 
-- locate the weekly modules;
-- review the syllabus/course expectations;
-- identify where Brightspace provides zyBooks access directions;
-- note the course technology requirements;
-- locate instructor and support information;
-- identify the current Guidelines and Rubric locations; and
-- plan blocks of time for the first week.
+* locate the weekly modules;
+* review the syllabus/course expectations;
+* identify where Brightspace provides zyBooks access directions;
+* note the course technology requirements;
+* locate instructor and support information;
+* identify the current Guidelines and Rubric locations; and
+* plan blocks of time for the first week.
 
 The preview period can reduce surprises without changing the official start of course work.
 
@@ -112,12 +112,12 @@ Use [Academic Support for IT 140](../academic-support/README.md) for the current
 
 Depending on the student's needs, useful options may include:
 
-- **24/7 Drop-In Tutoring** for on-demand general Python help;
-- **IT 140 - Intro to Python Workshop**;
-- **IT Basics Office Hours**;
-- **Academic Coaching** for time/task planning, organization, technical-reading strategies, academic skills, and learning strategies;
-- **Written Feedback** for appropriate writing-development needs; and
-- **ELL/ESOL support pathways**.
+* **24/7 Drop-In Tutoring** for on-demand general Python help;
+* **IT 140 - Intro to Python Workshop**;
+* **IT Basics Office Hours**;
+* **Academic Coaching** for time/task planning, organization, technical-reading strategies, academic skills, and learning strategies;
+* **Written Feedback** for appropriate writing-development needs; and
+* **ELL/ESOL support pathways**.
 
 The current-term group-session schedule is available at:
 

@@ -23,9 +23,9 @@ Do not reconstruct commands from memory if the live README provides them.
 
 Be able to identify:
 
-- the **GC-STEM public course template**;
-- the **student's private GitHub repository**; and
-- the **student's local clone** in `~/Repos`.
+* the **GC-STEM public course template**;
+* the **student's private GitHub repository**; and
+* the **student's local clone** in `~/Repos`.
 
 See
 [Course Repository Architecture](../shared/course-repository-architecture.md#the-three-copy-model).
@@ -57,18 +57,18 @@ button.
 
 Appropriate learning-level tool support includes:
 
-- why the student works in the local clone;
-- why commits and pushes preserve Git history and the GitHub copy;
-- what `git status` communicates;
-- why a private student repository differs from the GC-STEM template;
-- why the student follows the activity README instead of clicking Fork or Use
+* why the student works in the local clone;
+* why commits and pushes preserve Git history and the GitHub copy;
+* what `git status` communicates;
+* why a private student repository differs from the GC-STEM template;
+* why the student follows the activity README instead of clicking Fork or Use
   this template;
-- why `it140-projects` continues across Modules Five through Seven;
-- why a missing local folder may be restored from an existing private GitHub
+* why `it140-projects` continues across Modules Five through Seven;
+* why a missing local folder may be restored from an existing private GitHub
   repository;
-- why one development environment is simpler than alternating between devices;
+* why one development environment is simpler than alternating between devices;
   and
-- where repository instructions, tests, and supporting files are located.
+* where repository instructions, tests, and supporting files are located.
 
 Use the canonical [GitHub Workflow](../shared/github-workflow.md) rather than
 duplicating procedural details here.
@@ -101,11 +101,11 @@ Do not ask a student to make graded work public to obtain help.
 
 When reviewing a student's private repository:
 
-- focus on the support question;
-- do not redistribute private student work;
-- avoid changing or committing to the repository unless an approved support
+* focus on the support question;
+* do not redistribute private student work;
+* avoid changing or committing to the repository unless an approved support
   process specifically requires it; and
-- keep the student engaged in explaining and changing their own work.
+* keep the student engaged in explaining and changing their own work.
 
 ## Useful Read-Only Information
 
@@ -127,12 +127,12 @@ LSS may use the output to recognize that a problem is technical.
 
 Do not ask students to send:
 
-- passwords;
-- two-factor authentication codes;
-- recovery codes;
-- device codes;
-- access tokens; or
-- passkeys.
+* passwords;
+* two-factor authentication codes;
+* recovery codes;
+* device codes;
+* access tokens; or
+* passkeys.
 
 ## Course IDE and CVD
 
@@ -140,12 +140,12 @@ The CVD is the IT 140 reference environment.
 
 LSS may help students with normal learning-level use such as:
 
-- opening the correct repository in VS Code;
-- locating the Terminal;
-- running Python;
-- interpreting Python output;
-- running course-provided tests when the activity documents them; and
-- locating course files.
+* opening the correct repository in VS Code;
+* locating the Terminal;
+* running Python;
+* interpreting Python output;
+* running course-provided tests when the activity documents them; and
+* locating course files.
 
 The common repository-opening pattern is:
 
@@ -170,11 +170,11 @@ result is not a grade.
 
 Useful high-level points are:
 
-- a fresh untouched personal repository is intended to be neutral;
-- after graded work begins, CI may provide formative structural/completion
+* a fresh untouched personal repository is intended to be neutral;
+* after graded work begins, CI may provide formative structural/completion
   feedback;
-- a green check does not prove rubric compliance or submit the activity; and
-- Ruff feedback in the Projects repository is advisory and does not by itself
+* a green check does not prove rubric compliance or submit the activity; and
+* Ruff feedback in the Projects repository is advisory and does not by itself
   make student CI fail.
 
 Questions about whether the work meets the rubric remain with faculty.
@@ -185,18 +185,18 @@ need technical escalation.
 
 Route to technical support when the issue is primarily:
 
-- CVD access or launch;
-- local course IDE installation/configuration;
-- Python itself cannot run;
-- VS Code will not launch;
-- GitHub authentication fails;
-- `gh` fails to access the intended account;
-- the current activity README repository-setup or clone command fails;
-- the student used Fork/Use this template and the resulting repository state
+* CVD access or launch;
+* local course IDE installation/configuration;
+* Python itself cannot run;
+* VS Code will not launch;
+* GitHub authentication fails;
+* `gh` fails to access the intended account;
+* the current activity README repository-setup or clone command fails;
+* the student used Fork/Use this template and the resulting repository state
   must be assessed;
-- `git pull --ff-only` or `git push` fails;
-- repository recovery risks losing student work; or
-- Verify reports `NOT COMPLIANT` or another environment failure.
+* `git pull --ff-only` or `git push` fails;
+* repository recovery risks losing student work; or
+* Verify reports `NOT COMPLIANT` or another environment failure.
 
 Use [Service Desk Triage](../service-desk/triage.md) as the technical-support
 reference.
@@ -210,8 +210,8 @@ repository recovery path.
 
 See:
 
-- [Recovering a Damaged Local Copy](../shared/github-workflow.md#recovering-a-damaged-local-copy)
-- [Starting Over From the Course Template](../shared/github-workflow.md#starting-over-from-the-course-template)
+* [Recovering a Damaged Local Copy](../shared/github-workflow.md#recovering-a-damaged-local-copy)
+* [Starting Over From the Course Template](../shared/github-workflow.md#starting-over-from-the-course-template)
 
 Technical recovery beyond ordinary documented steps should move to the Service
 Desk.

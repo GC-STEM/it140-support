@@ -49,11 +49,11 @@ code .
 
 Before telling a student to start over, determine whether:
 
-- the private GitHub repository still exists;
-- the work was pushed to GitHub;
-- only the local clone is missing;
-- the student opened the wrong local folder; or
-- the student is signed into the wrong GitHub account.
+* the private GitHub repository still exists;
+* the work was pushed to GitHub;
+* only the local clone is missing;
+* the student opened the wrong local folder; or
+* the student is signed into the wrong GitHub account.
 
 A missing local folder does **not** mean the private GitHub repository must be
 recreated.
@@ -95,12 +95,12 @@ can inspect it.
 
 When reviewing a repository:
 
-- confirm the repository owner is the student;
-- respect the student's privacy;
-- focus on the files relevant to the support/grading question;
-- avoid changing or committing to the student's repository unless an approved
+* confirm the repository owner is the student;
+* respect the student's privacy;
+* focus on the files relevant to the support/grading question;
+* avoid changing or committing to the student's repository unless an approved
   workflow explicitly requires it; and
-- continue to use Brightspace for the official graded submission and feedback.
+* continue to use Brightspace for the official graded submission and feedback.
 
 <!-- screenshot placeholder; show the GitHub owner/repository breadcrumb for a
 GC-STEM course template and a private student repository so faculty can
@@ -154,16 +154,16 @@ See [Repeat Students](../shared/github-workflow.md#repeat-students).
 
 Refer technical failures such as:
 
-- GitHub authentication does not work;
-- `gh` cannot access the intended account;
-- the activity README repository-setup command fails;
-- cloning fails;
-- the student used **Fork** or **Use this template** and the resulting
+* GitHub authentication does not work;
+* `gh` cannot access the intended account;
+* the activity README repository-setup command fails;
+* cloning fails;
+* the student used **Fork** or **Use this template** and the resulting
   repository state must be assessed;
-- a remote is incorrect and the correct recovery is unclear;
-- `git pull --ff-only` or `git push` fails after work across multiple devices;
-- local and GitHub copies have diverged in a way that risks student work; or
-- repository recovery requires technical Git intervention.
+* a remote is incorrect and the correct recovery is unclear;
+* `git pull --ff-only` or `git push` fails after work across multiple devices;
+* local and GitHub copies have diverged in a way that risks student work; or
+* repository recovery requires technical Git intervention.
 
 See
 [Service Desk GitHub and Repository Troubleshooting](../service-desk/github-repository-troubleshooting.md).

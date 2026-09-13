@@ -30,12 +30,12 @@ Do not spend instructional time attempting increasingly invasive local-system re
 
 When practical, ask the student to preserve:
 
-- environment: CVD, Windows, macOS, Linux, or unsupported;
-- exact task/step;
-- exact error message;
-- Verify final summary and exit code when applicable;
-- exact log/support-artifact path when applicable; and
-- whether the student can continue in the CVD.
+* environment: CVD, Windows, macOS, Linux, or unsupported;
+* exact task/step;
+* exact error message;
+* Verify final summary and exit code when applicable;
+* exact log/support-artifact path when applicable; and
+* whether the student can continue in the CVD.
 
 The full common evidence model is in [Escalation Model](../shared/escalation-model.md).
 
@@ -45,12 +45,12 @@ Faculty do not need to collect every field before a normal Service Desk referral
 
 Examples include:
 
-- public README command fails as written;
-- course-provided starter file is missing or malformed;
-- current public link is broken;
-- course-provided test appears invalid;
-- course documentation and automation disagree; or
-- the same supported-environment failure affects multiple users.
+* public README command fails as written;
+* course-provided starter file is missing or malformed;
+* current public link is broken;
+* course-provided test appears invalid;
+* course documentation and automation disagree; or
+* the same supported-environment failure affects multiple users.
 
 Before reporting:
 
@@ -66,9 +66,9 @@ A public GitHub Issue can be appropriate for a defect in public course content w
 
 Common locations include:
 
-- [Main IT 140 Issues](https://github.com/GC-STEM/it140/issues) — course-wide automation or central repository problems
-- [Module One Setup Tasks Issues](https://github.com/GC-STEM/it140-m1-setup-tasks/issues) — setup instructions or setup automation
-- The Issues tab of the affected assignment/project repository — activity-specific public repository defect
+* [Main IT 140 Issues](https://github.com/GC-STEM/it140/issues) — course-wide automation or central repository problems
+* [Module One Setup Tasks Issues](https://github.com/GC-STEM/it140-m1-setup-tasks/issues) — setup instructions or setup automation
+* The Issues tab of the affected assignment/project repository — activity-specific public repository defect
 
 <!-- screenshot placeholder; show an IT 140 repository Issues tab and the new-issue entry point without displaying any private student information -->
 
@@ -84,15 +84,15 @@ Specific channel names, contacts, or restricted routing details should be mainta
 
 Refer technical problems involving:
 
-- university account/system access;
-- Brightspace/Codio access;
-- supported local computer restrictions;
-- CVD launch/configuration;
-- supported course IDE failures;
-- GitHub authentication;
-- GitHub CLI;
-- repository creation/cloning/recovery; or
-- another individual technical environment issue.
+* university account/system access;
+* Brightspace/Codio access;
+* supported local computer restrictions;
+* CVD launch/configuration;
+* supported course IDE failures;
+* GitHub authentication;
+* GitHub CLI;
+* repository creation/cloning/recovery; or
+* another individual technical environment issue.
 
 The [Service Desk Triage and Escalation Runbook](../service-desk/README.md) documents the technical support path.
 
@@ -100,10 +100,10 @@ The [Service Desk Triage and Escalation Runbook](../service-desk/README.md) docu
 
 If Python and the course environment work:
 
-- programming concepts/student-code debugging → faculty or an appropriate [Academic Support](../academic-support/README.md) learning service;
-- time/task, organization, technical-reading, or learning-strategy need → [Academic Coaching](../academic-support/coaching.md);
-- assignment/rubric/grade question → faculty; or
-- academic planning → advisor.
+* programming concepts/student-code debugging → faculty or an appropriate [Academic Support](../academic-support/README.md) learning service;
+* time/task, organization, technical-reading, or learning-strategy need → [Academic Coaching](../academic-support/coaching.md);
+* assignment/rubric/grade question → faculty; or
+* academic planning → advisor.
 
 Do not send these problems through the Service Desk merely because the student is working in VS Code.
 
@@ -111,21 +111,21 @@ Do not send these problems through the Service Desk merely because the student i
 
 Do not:
 
-- disable security controls;
-- bypass device-management restrictions;
-- randomly reinstall course tools after an automation failure;
-- edit course lifecycle scripts/manifests to force success;
-- delete a student's repository as a first troubleshooting step;
-- ask for authentication secrets; or
-- post private student work in a public issue.
+* disable security controls;
+* bypass device-management restrictions;
+* randomly reinstall course tools after an automation failure;
+* edit course lifecycle scripts/manifests to force success;
+* delete a student's repository as a first troubleshooting step;
+* ask for authentication secrets; or
+* post private student work in a public issue.
 
 ## After a Confirmed Course Defect
 
 If a course technical defect affected student work:
 
-- preserve the issue/reference;
-- communicate any approved workaround consistently;
-- apply grading/course remedies through the appropriate faculty process; and
-- use the corrected live course documentation rather than continuing to distribute the workaround after the source is fixed.
+* preserve the issue/reference;
+* communicate any approved workaround consistently;
+* apply grading/course remedies through the appropriate faculty process; and
+* use the corrected live course documentation rather than continuing to distribute the workaround after the source is fixed.
 
 Return to the [Faculty Support Guide](README.md).

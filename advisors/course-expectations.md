@@ -8,9 +8,9 @@ IT 140 teaches foundational programming and problem-solving using **Python**.
 
 Students may enter the course with:
 
-- prior programming experience;
-- general computer experience but no programming experience; or
-- very limited technical experience.
+* prior programming experience;
+* general computer experience but no programming experience; or
+* very limited technical experience.
 
 > [!IMPORTANT]
 > **Introductory does not mean easy or low workload.** It means that previous programming experience is not assumed.
@@ -27,11 +27,11 @@ IT 140 is a three-credit course completed in eight weeks. Under SNHU and applica
 
 That is an average rather than a ceiling. A student who is new to programming may need more time in some weeks because they are simultaneously learning:
 
-- new programming concepts;
-- a new problem-solving process;
-- how to read and interpret errors;
-- how to test and debug; and
-- unfamiliar development tools.
+* new programming concepts;
+* a new problem-solving process;
+* how to read and interpret errors;
+* how to test and debug; and
+* unfamiliar development tools.
 
 Advisors should avoid describing IT 140 as easy because it has a 100-level course number.
 
@@ -54,12 +54,12 @@ The rest of the expected weekly course time is used for Brightspace content, pro
 
 Programming is difficult to compress into one long weekend session because students need time to:
 
-- learn a concept;
-- practice it;
-- attempt a solution;
-- discover errors;
-- debug or revise; and
-- ask for help when needed.
+* learn a concept;
+* practice it;
+* attempt a solution;
+* discover errors;
+* debug or revise; and
+* ask for help when needed.
 
 Encourage students to begin early and make progress across several sessions during the week. A useful coaching pattern is approximately **2–2.5 hours per day**, adjusted for the module, due dates, and the student's needs.
 
@@ -79,22 +79,22 @@ This is a planning aid, not a replacement for current Brightspace due dates or r
 
 Students progressively work with concepts such as:
 
-- input and output;
-- variables and data types;
-- strings;
-- decision branching;
-- loops;
-- functions;
-- lists and dictionaries;
-- files; and
-- testing and debugging.
+* input and output;
+* variables and data types;
+* strings;
+* decision branching;
+* loops;
+* functions;
+* lists and dictionaries;
+* files; and
+* testing and debugging.
 
 Later course work builds on earlier concepts. A student who falls behind should be encouraged to reach out early to the support option that matches the barrier:
 
-- **faculty** for assignment/content questions and instructional help;
-- **Academic Support** for programming learning, tutoring, coaching, written feedback, or English-language support as appropriate;
-- **IT Service Desk** for technical environment failures; and
-- **advisor** when the difficulty affects the student's broader academic plan or persistence.
+* **faculty** for assignment/content questions and instructional help;
+* **Academic Support** for programming learning, tutoring, coaching, written feedback, or English-language support as appropriate;
+* **IT Service Desk** for technical environment failures; and
+* **advisor** when the difficulty affects the student's broader academic plan or persistence.
 
 See [Academic Support for IT 140](../academic-support/README.md).
 
@@ -106,12 +106,12 @@ No single system contains the full course experience.
 
 Students use D2L Brightspace for:
 
-- course/module content;
-- graded activity requirements;
-- assignment submissions;
-- grading;
-- instructor feedback; and
-- course deadlines.
+* course/module content;
+* graded activity requirements;
+* assignment submissions;
+* grading;
+* instructor feedback; and
+* course deadlines.
 
 For a question about **what an assignment requires**, Brightspace and the instructor are the correct sources.
 
@@ -135,10 +135,10 @@ See [Technology Context for Advisors](technology-context.md).
 
 IT 140 uses GitHub repositories for:
 
-- course-provided instructions;
-- starter files;
-- activity templates; and
-- student development work.
+* course-provided instructions;
+* starter files;
+* activity templates; and
+* student development work.
 
 Students create private repositories for assignment/project work and work with those repositories through the course development environment.
 
@@ -167,11 +167,11 @@ See [Why IT 140 Matters Beyond This Course](../shared/course-overview.md#why-it-
 
 A student who says they are "struggling with IT 140" may simultaneously have:
 
-- a programming-learning problem;
-- a technical environment problem;
-- an assignment question;
-- a time-management/organization/academic-skills problem; and/or
-- a broader academic concern.
+* a programming-learning problem;
+* a technical environment problem;
+* an assignment question;
+* a time-management/organization/academic-skills problem; and/or
+* a broader academic concern.
 
 The advisor can help separate those issues and connect the student with the right resources.
 
@@ -193,12 +193,12 @@ Use [Academic Support for IT 140](../academic-support/README.md) as the canonica
 
 IT 140-relevant options include:
 
-- **24/7 Drop-In Tutoring** for on-demand general Python help;
-- **IT 140 - Intro to Python Workshop**;
-- **IT Basics Office Hours**;
-- **Academic Coaching** for time/task, organization, technical reading, academic skills, learning strategies, and problem-solving process;
-- **Written Feedback** for appropriate written deliverables; and
-- **ELL/ESOL support pathways**.
+* **24/7 Drop-In Tutoring** for on-demand general Python help;
+* **IT 140 - Intro to Python Workshop**;
+* **IT Basics Office Hours**;
+* **Academic Coaching** for time/task, organization, technical reading, academic skills, learning strategies, and problem-solving process;
+* **Written Feedback** for appropriate written deliverables; and
+* **ELL/ESOL support pathways**.
 
 Schedules and service access can change, so use the current official Academic Support pages rather than memorizing times.
 
@@ -206,13 +206,13 @@ Schedules and service access can change, so use the current official Academic Su
 
 Advisors do **not** need to learn:
 
-- Python syntax;
-- Git commands;
-- GitHub CLI commands;
-- VS Code configuration;
-- course lifecycle scripts;
-- environment logs; or
-- how to debug a student's program.
+* Python syntax;
+* Git commands;
+* GitHub CLI commands;
+* VS Code configuration;
+* course lifecycle scripts;
+* environment logs; or
+* how to debug a student's program.
 
 When those details become necessary, route the student to the appropriate technical or learning support.
 

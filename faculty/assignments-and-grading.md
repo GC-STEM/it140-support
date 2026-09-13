@@ -7,13 +7,13 @@ support and grading.
 
 For graded activities, **D2L Brightspace is the authoritative source** for:
 
-- assignment/project requirements;
-- required deliverables;
-- submission instructions;
-- grading criteria;
-- deadlines;
-- instructor feedback; and
-- the official student submission.
+* assignment/project requirements;
+* required deliverables;
+* submission instructions;
+* grading criteria;
+* deadlines;
+* instructor feedback; and
+* the official student submission.
 
 GitHub supports the student's development workflow. It does not replace
 Brightspace as the grading system unless a future activity explicitly says
@@ -41,13 +41,13 @@ the corresponding GitHub repository README to illustrate the two-source model --
 Repositories may contain materials that support development but are not
 themselves graded deliverables, such as:
 
-- README files;
-- requirements/design references;
-- starter code;
-- tests;
-- configuration;
-- Wiki resources; and
-- optional practice folders.
+* README files;
+* requirements/design references;
+* starter code;
+* tests;
+* configuration;
+* Wiki resources; and
+* optional practice folders.
 
 Do not assign additional grading requirements merely because a support file
 exists in the repository.
@@ -63,20 +63,20 @@ student CI provides **formative repository feedback**, not grading automation.
 
 Faculty should interpret student CI using these principles:
 
-- A **fresh personal repository is neutral**. An untouched starter should not
+* A **fresh personal repository is neutral**. An untouched starter should not
   fail merely because the student has not begun graded work.
-- After graded work begins, CI may report incomplete, damaged, or unexpectedly
+* After graded work begins, CI may report incomplete, damaged, or unexpectedly
   changed artifacts.
-- A **green check does not mean the work meets every rubric criterion** and does
+* A **green check does not mean the work meets every rubric criterion** and does
   not submit anything to Brightspace.
-- Module Three student CI focuses on the two graded design artifacts; its
+* Module Three student CI focuses on the two graded design artifacts; its
   optional Python program and optional acceptance tests are not student CI
   requirements.
-- Module Four student CI focuses on the graded pseudocode; its optional Python
+* Module Four student CI focuses on the graded pseudocode; its optional Python
   program and optional practice tests are not student CI requirements.
-- The Projects repository uses progressive student CI across Module Five,
+* The Projects repository uses progressive student CI across Module Five,
   Module Six, and Module Seven.
-- In the Projects repository, **Ruff style/quality feedback is advisory** and
+* In the Projects repository, **Ruff style/quality feedback is advisory** and
   does not by itself cause the student CI workflow to fail.
 
 Each assignment/project repository contains a maintainer-facing CI guide under
@@ -110,18 +110,18 @@ design/prototype activity.
 
 For the shared repository structure and stage progression, see:
 
-- [Course Overview](../shared/course-overview.md#course-development-progression)
-- [Projects | Modules Five Through Seven](../shared/course-repository-architecture.md#projects--modules-five-through-seven)
+* [Course Overview](../shared/course-overview.md#course-development-progression)
+* [Projects | Modules Five Through Seven](../shared/course-repository-architecture.md#projects--modules-five-through-seven)
 
 ## Student Repository Is Supporting Evidence, Not the Default Submission
 
 A student's private GitHub repository may help faculty understand:
 
-- the student's working files;
-- repository state;
-- development history;
-- CI feedback; or
-- a technical problem.
+* the student's working files;
+* repository state;
+* development history;
+* CI feedback; or
+* a technical problem.
 
 However, normal grading should follow the deliverables submitted through
 Brightspace.
@@ -162,12 +162,12 @@ IT 140 assignments or projects.
 
 Keep these with faculty rather than routing them to technical support:
 
-- Does this submission meet the rubric?
-- Which deliverable is required?
-- How should an ambiguous requirement be interpreted?
-- How does instructor feedback apply?
-- What is the consequence of a late/missing submission?
-- Is a particular source/use of AI acceptable under the current activity
+* Does this submission meet the rubric?
+* Which deliverable is required?
+* How should an ambiguous requirement be interpreted?
+* How does instructor feedback apply?
+* What is the consequence of a late/missing submission?
+* Is a particular source/use of AI acceptable under the current activity
   policy?
 
 Return to the [Faculty Support Guide](README.md).

@@ -53,20 +53,20 @@ See [Support Boundaries](../shared/support-boundaries.md) for the canonical role
 
 Faculty are the authoritative course contact for:
 
-- interpreting the current assignment requirements;
-- grading and rubric application;
-- instructor feedback;
-- course deadlines and instructor-controlled processes;
-- instructional support appropriate to the course; and
-- deciding whether student work meets activity requirements.
+* interpreting the current assignment requirements;
+* grading and rubric application;
+* instructor feedback;
+* course deadlines and instructor-controlled processes;
+* instructional support appropriate to the course; and
+* deciding whether student work meets activity requirements.
 
 Faculty are **not expected to become desktop support technicians or academic coaches**.
 
 It is useful to understand the student environment well enough to classify a problem, but:
 
-- supported-environment failures should move to the technical support path when they require technical diagnosis;
-- additional programming-learning support may be referred to LSS or tutoring; and
-- time/task, organization, technical-reading, and related academic-process needs may be referred to Academic Coaching.
+* supported-environment failures should move to the technical support path when they require technical diagnosis;
+* additional programming-learning support may be referred to LSS or tutoring; and
+* time/task, organization, technical-reading, and related academic-process needs may be referred to Academic Coaching.
 
 ## Current Sources of Truth
 
@@ -87,13 +87,13 @@ Use the source that matches the question:
 
 ## Shared References Used by Faculty Guides
 
-- [Academic Support for IT 140](../academic-support/README.md)
-- [IT 140 Course Overview](../shared/course-overview.md)
-- [Course Repository Architecture](../shared/course-repository-architecture.md)
-- [Course Glossary](../shared/glossary.md)
-- [Supported Environments](../shared/supported-environments.md)
-- [GitHub Workflow](../shared/github-workflow.md)
-- [Support Boundaries](../shared/support-boundaries.md)
-- [Escalation Model](../shared/escalation-model.md)
+* [Academic Support for IT 140](../academic-support/README.md)
+* [IT 140 Course Overview](../shared/course-overview.md)
+* [Course Repository Architecture](../shared/course-repository-architecture.md)
+* [Course Glossary](../shared/glossary.md)
+* [Supported Environments](../shared/supported-environments.md)
+* [GitHub Workflow](../shared/github-workflow.md)
+* [Support Boundaries](../shared/support-boundaries.md)
+* [Escalation Model](../shared/escalation-model.md)
 
 Return to the [IT 140 Support home page](../README.md).

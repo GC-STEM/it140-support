@@ -21,18 +21,18 @@ Before creating a new resource:
 
 Examples include:
 
-- breaking down a programming problem;
-- reading Python error messages;
-- tracing variables;
-- branches and Boolean expressions;
-- `for` and `while` loops;
-- functions and parameters;
-- strings;
-- lists and dictionaries;
-- incremental development;
-- debugging strategies;
-- designing test cases; and
-- translating pseudocode into code at a conceptual level.
+* breaking down a programming problem;
+* reading Python error messages;
+* tracing variables;
+* branches and Boolean expressions;
+* `for` and `while` loops;
+* functions and parameters;
+* strings;
+* lists and dictionaries;
+* incremental development;
+* debugging strategies;
+* designing test cases; and
+* translating pseudocode into code at a conceptual level.
 
 These concepts can support IT 140 without reproducing a graded assignment solution.
 
@@ -40,12 +40,12 @@ These concepts can support IT 140 without reproducing a graded assignment soluti
 
 Do not use an Academic Resource Center article as the canonical location for:
 
-- current IT 140 setup commands;
-- current supported operating-system versions;
-- current course IDE package/extension versions;
-- lifecycle automation instructions;
-- repository-creation commands for a specific graded activity; or
-- current Course Status.
+* current IT 140 setup commands;
+* current supported operating-system versions;
+* current course IDE package/extension versions;
+* lifecycle automation instructions;
+* repository-creation commands for a specific graded activity; or
+* current Course Status.
 
 Those facts change and belong in the live IT 140 course/setup repositories and shared support documentation.
 
@@ -57,11 +57,11 @@ The Academic Resource Center contains programming materials that may span differ
 
 Before recommending or updating a tool-specific article for IT 140:
 
-- confirm that the editor/IDE matches the current IT 140 environment;
-- confirm that Python examples work with the course's current Python level;
-- distinguish general programming instruction from course-specific workflow;
-- remove or update obsolete course-specific screenshots/paths when appropriate; and
-- link to the current course repository instead of copying volatile setup steps.
+* confirm that the editor/IDE matches the current IT 140 environment;
+* confirm that Python examples work with the course's current Python level;
+* distinguish general programming instruction from course-specific workflow;
+* remove or update obsolete course-specific screenshots/paths when appropriate; and
+* link to the current course repository instead of copying volatile setup steps.
 
 ## Align to Beginner Learning
 
@@ -69,13 +69,13 @@ IT 140 is an introductory course.
 
 Resources should:
 
-- use simple, readable examples;
-- explain terminology in plain language;
-- introduce one idea at a time;
-- use examples that are distinct from graded solutions;
-- show prediction, tracing, testing, and debugging;
-- avoid unnecessary advanced Python syntax; and
-- help students transfer the concept to their own program.
+* use simple, readable examples;
+* explain terminology in plain language;
+* introduce one idea at a time;
+* use examples that are distinct from graded solutions;
+* show prediction, tracing, testing, and debugging;
+* avoid unnecessary advanced Python syntax; and
+* help students transfer the concept to their own program.
 
 ## Academic Integrity
 
@@ -83,11 +83,11 @@ Reusable resources should teach **skills and reasoning**, not publish completed 
 
 Avoid:
 
-- complete current assignment code;
-- completed current pseudocode deliverables;
-- completed project designs/maps;
-- exact answer keys for course-provided tests; and
-- examples so close to a graded deliverable that students can submit them with only superficial changes.
+* complete current assignment code;
+* completed current pseudocode deliverables;
+* completed project designs/maps;
+* exact answer keys for course-provided tests; and
+* examples so close to a graded deliverable that students can submit them with only superficial changes.
 
 See [Academic Integrity Boundary](../shared/support-boundaries.md#academic-integrity-boundary).
 
@@ -95,12 +95,12 @@ See [Academic Integrity Boundary](../shared/support-boundaries.md#academic-integ
 
 For each durable IT 140-related resource, consider recording internally:
 
-- learning objective;
-- intended course/topic;
-- source course concepts;
-- date last checked against the current course;
-- whether screenshots are tool-specific; and
-- which live course pages should be rechecked when the environment changes.
+* learning objective;
+* intended course/topic;
+* source course concepts;
+* date last checked against the current course;
+* whether screenshots are tool-specific; and
+* which live course pages should be rechecked when the environment changes.
 
 The public article should link readers to current canonical course instructions rather than maintain duplicated volatile facts.
 
@@ -116,10 +116,10 @@ This repository should not invent or replace the internal publishing workflow.
 
 If an Academic Resource Center resource appears outdated or confusing:
 
-- confirm the issue against the current course;
-- preserve the URL and specific wording/screenshot;
-- distinguish a conceptual error from a course-tool mismatch; and
-- use the current Academic Support resource-maintenance process.
+* confirm the issue against the current course;
+* preserve the URL and specific wording/screenshot;
+* distinguish a conceptual error from a course-tool mismatch; and
+* use the current Academic Support resource-maintenance process.
 
 If the problem is actually in the IT 140 course repository or course automation, use the course technical escalation path instead.
 

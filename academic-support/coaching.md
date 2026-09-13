@@ -9,24 +9,24 @@ Academic Coaching is goals-based support. In IT 140, coaching can be particularl
 
 ## IT 140 Context for Coaches
 
-- **Course:** IT 140 - Introduction to Scripting.
-- **Length:** Eight weeks.
-- **Programming language:** Python.
-- **Prior experience:** Previous programming experience is not required.
-- **Workload context:** A three-credit course in this format should require about **16 hours per week on average for an average student**.
-- **Pace:** Concepts build from week to week. Falling behind early can make later work harder.
-- **zyBooks:** A significant source of instruction and hands-on practice, especially early in the course.
-- **Development work:** Students complete smaller assignments and then design, prototype, and build a text-based adventure game across Modules Five–Seven.
-- **Development process:** IT 140 emphasizes breaking problems down, designing before coding where appropriate, developing incrementally, testing, and debugging.
-- **Reference environment:** The Codio Virtual Desktop (CVD); supported local setup is optional.
-- **Graded requirements:** Current D2L Brightspace Guidelines and Rubric are authoritative.
+* **Course:** IT 140 - Introduction to Scripting.
+* **Length:** Eight weeks.
+* **Programming language:** Python.
+* **Prior experience:** Previous programming experience is not required.
+* **Workload context:** A three-credit course in this format should require about **16 hours per week on average for an average student**.
+* **Pace:** Concepts build from week to week. Falling behind early can make later work harder.
+* **zyBooks:** A significant source of instruction and hands-on practice, especially early in the course.
+* **Development work:** Students complete smaller assignments and then design, prototype, and build a text-based adventure game across Modules Five–Seven.
+* **Development process:** IT 140 emphasizes breaking problems down, designing before coding where appropriate, developing incrementally, testing, and debugging.
+* **Reference environment:** The Codio Virtual Desktop (CVD); supported local setup is optional.
+* **Graded requirements:** Current D2L Brightspace Guidelines and Rubric are authoritative.
 
 For more detail, see:
 
-- [Advisor: What to Expect in IT 140](../advisors/course-expectations.md)
-- [Advisor: Course Planning and Preparation](../advisors/course-planning-and-preparation.md)
-- [IT 140 Course Overview](../shared/course-overview.md)
-- [Course Glossary](../shared/glossary.md)
+* [Advisor: What to Expect in IT 140](../advisors/course-expectations.md)
+* [Advisor: Course Planning and Preparation](../advisors/course-planning-and-preparation.md)
+* [IT 140 Course Overview](../shared/course-overview.md)
+* [Course Glossary](../shared/glossary.md)
 
 ## Coaching Areas That Map Well to IT 140
 
@@ -51,11 +51,11 @@ That pattern distributes roughly the expected weekly course effort while leaving
 
 The purpose is not to require an identical daily schedule. The purpose is to avoid concentrating an entire programming week into the weekend, when there may be little time left to:
 
-- discover that a concept is harder than expected;
-- debug a program;
-- ask the instructor a question;
-- use tutoring or a live support session; or
-- recover from a technical failure.
+* discover that a concept is harder than expected;
+* debug a program;
+* ask the instructor a question;
+* use tutoring or a live support session; or
+* recover from a technical failure.
 
 ### Default Priority Order
 
@@ -75,12 +75,12 @@ Help the student reduce the situation to a manageable next action.
 
 Useful coaching questions include:
 
-- Which **current required item** is incomplete?
-- Is the student behind primarily in **zyBooks, the module assignment/milestone, or the project**?
-- What can reasonably be completed in the **next 30–60 minutes**?
-- Is the blocker **time/organization, understanding programming, assignment interpretation, or technology**?
-- Which support path can address that blocker **today**?
-- What is the next planned work block after this one?
+* Which **current required item** is incomplete?
+* Is the student behind primarily in **zyBooks, the module assignment/milestone, or the project**?
+* What can reasonably be completed in the **next 30–60 minutes**?
+* Is the blocker **time/organization, understanding programming, assignment interpretation, or technology**?
+* Which support path can address that blocker **today**?
+* What is the next planned work block after this one?
 
 Avoid building an elaborate recovery schedule before identifying the first actionable task and the type of barrier.
 
@@ -90,14 +90,14 @@ IT 140 asks students to read and follow technical documentation much more precis
 
 Examples include:
 
-- exact filenames and folder paths;
-- ordered setup or repository steps;
-- command-line instructions;
-- starter-file directions;
-- expected program behavior;
-- pseudocode/flowchart requirements;
-- test instructions; and
-- submission requirements.
+* exact filenames and folder paths;
+* ordered setup or repository steps;
+* command-line instructions;
+* starter-file directions;
+* expected program behavior;
+* pseudocode/flowchart requirements;
+* test instructions; and
+* submission requirements.
 
 A student may understand the general idea yet still struggle because technical documentation often depends on **small exact details**.
 
@@ -131,13 +131,13 @@ This is an academic reading strategy, not technical troubleshooting.
 
 Useful general academic habits for IT 140 include:
 
-- **consistent practice:** frequent shorter programming sessions usually support learning better than one compressed session;
-- **active notes:** record what a concept does, a small example, and a common error instead of copying long passages;
-- **self-checking:** predict an output before running code, then compare prediction with actual behavior;
-- **incremental progress:** finish and verify one small piece before adding the next;
-- **early help-seeking:** ask for support while there is still time to apply it;
-- **reflection:** after fixing an error, identify what caused it and what clue revealed it; and
-- **productive persistence:** try a small number of purposeful steps, then seek help rather than repeating the same unsuccessful action for hours.
+* **consistent practice:** frequent shorter programming sessions usually support learning better than one compressed session;
+* **active notes:** record what a concept does, a small example, and a common error instead of copying long passages;
+* **self-checking:** predict an output before running code, then compare prediction with actual behavior;
+* **incremental progress:** finish and verify one small piece before adding the next;
+* **early help-seeking:** ask for support while there is still time to apply it;
+* **reflection:** after fixing an error, identify what caused it and what clue revealed it; and
+* **productive persistence:** try a small number of purposeful steps, then seek help rather than repeating the same unsuccessful action for hours.
 
 Coaches do not need to judge the correctness of the programming solution to reinforce these habits.
 
@@ -147,16 +147,16 @@ Students with diagnosed learning differences may benefit from individualized aca
 
 Potential strategies include:
 
-- break a long README or assignment into small checkpoints;
-- convert multi-step directions into a personal checklist;
-- use a predictable daily study routine;
-- reduce unnecessary switching among Brightspace, zyBooks, GitHub, and VS Code;
-- keep the current instruction page visible while doing the corresponding task;
-- annotate technical directions with brief plain-language notes;
-- use timers and planned breaks when sustained technical attention is difficult;
-- externalize program logic with pseudocode, a flowchart, or a small hand-traced example;
-- maintain a brief "next action" note at the end of each work session; and
-- separate **learning the concept** from **operating the tool** so the student knows what kind of help to seek.
+* break a long README or assignment into small checkpoints;
+* convert multi-step directions into a personal checklist;
+* use a predictable daily study routine;
+* reduce unnecessary switching among Brightspace, zyBooks, GitHub, and VS Code;
+* keep the current instruction page visible while doing the corresponding task;
+* annotate technical directions with brief plain-language notes;
+* use timers and planned breaks when sustained technical attention is difficult;
+* externalize program logic with pseudocode, a flowchart, or a small hand-traced example;
+* maintain a brief "next action" note at the end of each work session; and
+* separate **learning the concept** from **operating the tool** so the student knows what kind of help to seek.
 
 These are learning and organization strategies. They do **not** replace formal accommodation processes or authorize changes to course requirements. Questions about accommodations or graded requirements should follow the appropriate university/faculty process.
 
@@ -177,24 +177,24 @@ The course repeatedly asks students to move from a problem to a deliberate solut
 
 This pattern appears across IT 140:
 
-- early activities introduce small programs;
-- Module Three uses flowchart/pseudocode design;
-- Module Four designs a looping higher/lower game;
-- Project One designs the text-based game before full implementation;
-- Module Six develops a simplified prototype; and
-- Project Two integrates the full game incrementally.
+* early activities introduce small programs;
+* Module Three uses flowchart/pseudocode design;
+* Module Four designs a looping higher/lower game;
+* Project One designs the text-based game before full implementation;
+* Module Six develops a simplified prototype; and
+* Project Two integrates the full game incrementally.
 
 ### Coaching Prompts
 
 Useful process questions include:
 
-- What do you already know from the requirements?
-- What is the **next decision** the program must make?
-- Can you describe the logic in plain language before thinking about Python syntax?
-- What is one small example you can work through by hand?
-- What is one small test that would tell you whether this part works?
-- What changed between the expected result and actual result?
-- Is the remaining barrier a **programming-learning question**, an **assignment question**, or a **technical failure**?
+* What do you already know from the requirements?
+* What is the **next decision** the program must make?
+* Can you describe the logic in plain language before thinking about Python syntax?
+* What is one small example you can work through by hand?
+* What is one small test that would tell you whether this part works?
+* What changed between the expected result and actual result?
+* Is the remaining barrier a **programming-learning question**, an **assignment question**, or a **technical failure**?
 
 If the student needs help deciding *how Python should express the logic*, route to faculty, LSS, or tutoring. The coach's value is helping the student establish a repeatable problem-solving process.
 
@@ -241,12 +241,12 @@ A student may need several routes at the same time. Coaching does not need to wa
 
 ## Useful F&S References
 
-- [Academic Support for IT 140](README.md)
-- [24/7 Drop-In Tutoring | IT 140 Context](tutoring.md)
-- [LSS Support Guide](../lss/README.md)
-- [Academic Advisor Support Guide](../advisors/README.md)
-- [IT 140 Course Overview](../shared/course-overview.md)
-- [Course Glossary](../shared/glossary.md)
-- [Support Boundaries](../shared/support-boundaries.md)
+* [Academic Support for IT 140](README.md)
+* [24/7 Drop-In Tutoring | IT 140 Context](tutoring.md)
+* [LSS Support Guide](../lss/README.md)
+* [Academic Advisor Support Guide](../advisors/README.md)
+* [IT 140 Course Overview](../shared/course-overview.md)
+* [Course Glossary](../shared/glossary.md)
+* [Support Boundaries](../shared/support-boundaries.md)
 
 Return to [Academic Support for IT 140](README.md).

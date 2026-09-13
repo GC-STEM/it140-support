@@ -46,10 +46,10 @@ package downloads.
 
 If no new output appears:
 
-- keep the Terminal open;
-- do not press keys or start another update;
-- wait up to **30 minutes after the last new line**;
-- continue waiting if new lines occasionally appear.
+* keep the Terminal open;
+* do not press keys or start another update;
+* wait up to **30 minutes after the last new line**;
+* continue waiting if new lines occasionally appear.
 
 If there has been no new text for 30 consecutive minutes and the last line
 begins with `Get:` or `Ign:`:
@@ -68,11 +68,11 @@ and escalate with the update log.
 
 ### CVD User-Interface Cautions
 
-- Do not change noVNC controls other than the documented Full Screen control
+* Do not change noVNC controls other than the documented Full Screen control
   unless support for Codio/noVNC specifically requires it.
-- Do not use Ubuntu **Shut Down** as the normal way to leave the CVD; closing
+* Do not use Ubuntu **Shut Down** as the normal way to leave the CVD; closing
   the browser tab is sufficient.
-- A normal VM restart is different from **RESET VM**. A reset destroys the
+* A normal VM restart is different from **RESET VM**. A reset destroys the
   configured VM state.
 
 ![CVD Restart, Reset, noVNC Controls](../shared/images/cvd_noVNC_restart_reset.png)
@@ -216,11 +216,11 @@ documentation change.
 If the user's device or operating system is outside the current supported
 automated setup guides:
 
-- use the CVD as the recommended course environment;
-- do not turn a best-effort manual configuration into an unlimited Service Desk
+* use the CVD as the recommended course environment;
+* do not turn a best-effort manual configuration into an unlimited Service Desk
   engineering task;
-- do not bypass device-management or security restrictions; and
-- document the unsupported configuration if escalation is still needed for
+* do not bypass device-management or security restrictions; and
+* document the unsupported configuration if escalation is still needed for
   another reason.
 
 See

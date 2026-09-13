@@ -36,8 +36,8 @@ A role- or service-specific page should:
 
 For example, a Service Desk procedure for a failed local setup should link to:
 
-- [Supported Environments](supported-environments.md) for the supported-platform facts; and
-- [Escalation Model](escalation-model.md) for the evidence package.
+* [Supported Environments](supported-environments.md) for the supported-platform facts; and
+* [Escalation Model](escalation-model.md) for the evidence package.
 
 The Service Desk procedure should then contain the **Service Desk actions** for that scenario.
 
@@ -45,22 +45,22 @@ The Service Desk procedure should then contain the **Service Desk actions** for 
 
 Shared pages should contain facts that remain true regardless of who is helping the student, such as:
 
-- the distinction between D2L Brightspace and GitHub;
-- the purpose of a course repository;
-- the CVD's role as the course reference environment;
-- supported course IDE components;
-- course-wide terminology and abbreviations;
-- course automation stages and result language;
-- standard diagnostic log locations; and
-- the common evidence needed for escalation.
+* the distinction between D2L Brightspace and GitHub;
+* the purpose of a course repository;
+* the CVD's role as the course reference environment;
+* supported course IDE components;
+* course-wide terminology and abbreviations;
+* course automation stages and result language;
+* standard diagnostic log locations; and
+* the common evidence needed for escalation.
 
 Role-specific directories should contain information such as:
 
-- what that role should do first;
-- what that role may or may not change;
-- how far that role should troubleshoot;
-- what constitutes a successful resolution for that role; and
-- where that role sends the problem next.
+* what that role should do first;
+* what that role may or may not change;
+* how far that role should troubleshoot;
+* what constitutes a successful resolution for that role; and
+* where that role sends the problem next.
 
 The `academic-support/` directory contains **F&S-facing service-selection and service-context guidance** that applies across Academic Support. Detailed LSS procedures remain in `lss/`.
 
@@ -103,10 +103,10 @@ A screenshot should clarify a navigation step, expected state, error location, o
 
 ## Related Role and Support Guides
 
-- [Faculty Support Guide](../faculty/README.md)
-- [Academic Support for IT 140](../academic-support/README.md)
-- [LSS Support Guide](../lss/README.md)
-- [Advisor Support Guide](../advisors/README.md)
-- [Service Desk Triage and Escalation Runbook](../service-desk/README.md)
+* [Faculty Support Guide](../faculty/README.md)
+* [Academic Support for IT 140](../academic-support/README.md)
+* [LSS Support Guide](../lss/README.md)
+* [Advisor Support Guide](../advisors/README.md)
+* [Service Desk Triage and Escalation Runbook](../service-desk/README.md)
 
 Return to the [IT 140 Support home page](../README.md).

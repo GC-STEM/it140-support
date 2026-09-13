@@ -51,45 +51,45 @@ See [Triage](triage.md) for the detailed decision flow.
 
 ## Runbook Pages
 
-- [Triage](triage.md) — classify the problem and choose the next action
-- [Environment Troubleshooting](environment-troubleshooting.md) — CVD, Windows, macOS, and Linux branches
-- [GitHub and Repository Troubleshooting](github-repository-troubleshooting.md) — accounts, authentication, templates, clones, and remotes
-- [Verification and Logs](verification-and-logs.md) — Verify commands, result interpretation, logs, and sanitized support artifacts
-- [Safe Remediation](safe-remediation.md) — allowed first-line actions and actions to avoid
-- [Escalation](escalation.md) — evidence package and routing boundaries
+* [Triage](triage.md) — classify the problem and choose the next action
+* [Environment Troubleshooting](environment-troubleshooting.md) — CVD, Windows, macOS, and Linux branches
+* [GitHub and Repository Troubleshooting](github-repository-troubleshooting.md) — accounts, authentication, templates, clones, and remotes
+* [Verification and Logs](verification-and-logs.md) — Verify commands, result interpretation, logs, and sanitized support artifacts
+* [Safe Remediation](safe-remediation.md) — allowed first-line actions and actions to avoid
+* [Escalation](escalation.md) — evidence package and routing boundaries
 
 ## Shared and Cross-Role References
 
 These pages contain canonical facts and routing guidance used by the procedures above:
 
-- [Academic Support for IT 140](../academic-support/README.md)
-- [IT 140 Course Overview](../shared/course-overview.md)
-- [Course Repository Architecture](../shared/course-repository-architecture.md)
-- [Course Glossary](../shared/glossary.md)
-- [Supported Environments](../shared/supported-environments.md)
-- [GitHub Workflow](../shared/github-workflow.md)
-- [Support Boundaries](../shared/support-boundaries.md)
-- [Escalation Model](../shared/escalation-model.md)
+* [Academic Support for IT 140](../academic-support/README.md)
+* [IT 140 Course Overview](../shared/course-overview.md)
+* [Course Repository Architecture](../shared/course-repository-architecture.md)
+* [Course Glossary](../shared/glossary.md)
+* [Supported Environments](../shared/supported-environments.md)
+* [GitHub Workflow](../shared/github-workflow.md)
+* [Support Boundaries](../shared/support-boundaries.md)
+* [Escalation Model](../shared/escalation-model.md)
 
 ## Current Course and Setup Status
 
 Before diagnosing a problem that may affect multiple users, check:
 
-- [IT 140 Course Status](https://github.com/GC-STEM/it140/wiki/Course-Status)
-- [Module One Setup Tasks](https://github.com/GC-STEM/it140-m1-setup-tasks)
-- [Setup Problems and Support](https://github.com/GC-STEM/it140-m1-setup-tasks/wiki/Setup-Problems-and-Support)
+* [IT 140 Course Status](https://github.com/GC-STEM/it140/wiki/Course-Status)
+* [Module One Setup Tasks](https://github.com/GC-STEM/it140-m1-setup-tasks)
+* [Setup Problems and Support](https://github.com/GC-STEM/it140-m1-setup-tasks/wiki/Setup-Problems-and-Support)
 
 The setup automation is under active development. Use the **live course instructions and script output** rather than an old copied command, screenshot, or version number.
 
 ## Service Desk Safety Rules
 
-- Preserve student files, private repositories, and Git history.
-- Do not request passwords, authentication codes, recovery codes, passkeys, or access tokens.
-- Do not post protected student information or complete graded solutions in public GitHub areas.
-- Do not disable security software or bypass device-management controls.
-- Do not manually edit course lifecycle scripts, manifests, or schemas.
-- Do not randomly reinstall course IDE components after an automation failure.
-- Do not assume Administrator/root execution is safer; several course scripts explicitly require a regular user context.
-- Use the CVD as the continuity environment when a local course IDE is unavailable.
+* Preserve student files, private repositories, and Git history.
+* Do not request passwords, authentication codes, recovery codes, passkeys, or access tokens.
+* Do not post protected student information or complete graded solutions in public GitHub areas.
+* Do not disable security software or bypass device-management controls.
+* Do not manually edit course lifecycle scripts, manifests, or schemas.
+* Do not randomly reinstall course IDE components after an automation failure.
+* Do not assume Administrator/root execution is safer; several course scripts explicitly require a regular user context.
+* Use the CVD as the continuity environment when a local course IDE is unavailable.
 
 For the full shared safety and handoff model, see [Escalation Model](../shared/escalation-model.md).

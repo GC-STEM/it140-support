@@ -11,36 +11,36 @@ that repository's current `README.md` for exact commands and files.
 
 GitHub is used to:
 
-- host public course repositories;
-- create private student assignment and project repositories from course
+* host public course repositories;
+* create private student assignment and project repositories from course
   templates;
-- maintain remote backups of student work;
-- practice Git-based development workflows;
-- provide repository Issues, Discussions, and Wikis where appropriate; and
-- support course technical documentation and automation.
+* maintain remote backups of student work;
+* practice Git-based development workflows;
+* provide repository Issues, Discussions, and Wikis where appropriate; and
+* support course technical documentation and automation.
 
 GitHub is **not** the grading or submission system for normal IT 140
 assignments and projects.
 
 D2L Brightspace remains authoritative for:
 
-- activity requirements;
-- what to submit;
-- grading;
-- deadlines; and
-- instructor feedback.
+* activity requirements;
+* what to submit;
+* grading;
+* deadlines; and
+* instructor feedback.
 
 ## Before Module Two
 
 Course instructions beginning in Module Two assume that the student has:
 
-- access to a GitHub account;
-- completed the GitHub account readiness steps in Module One;
-- configured two-factor authentication as required by GitHub;
-- identified the GitHub username used for IT 140;
-- recorded the GitHub-provided `@users.noreply.github.com` email address used
+* access to a GitHub account;
+* completed the GitHub account readiness steps in Module One;
+* configured two-factor authentication as required by GitHub;
+* identified the GitHub username used for IT 140;
+* recorded the GitHub-provided `@users.noreply.github.com` email address used
   for Git configuration; and
-- access to a configured course IDE.
+* access to a configured course IDE.
 
 For exact account-setup instructions, use the current
 [`Module One GitHub Account Setup`](https://github.com/GC-STEM/it140-m1-setup-tasks/blob/main/github/README.md).
@@ -280,10 +280,10 @@ See the current activity README for its exact device-switch instructions.
 If the student's private GitHub repository already exists but the local clone
 does not:
 
-- clone the student's existing private repository;
-- do not create another private repository from the public course repository;
+* clone the student's existing private repository;
+* do not create another private repository from the public course repository;
   and
-- verify the clone before continuing work.
+* verify the clone before continuing work.
 
 A common pattern is:
 
@@ -307,9 +307,9 @@ instead of cloning another copy over it.
 The student creates the private `it140-projects` repository **once in Module
 Five** and continues using the same repository through:
 
-- Module Five / Project One;
-- Module Six / Milestone; and
-- Module Seven / Project Two.
+* Module Five / Project One;
+* Module Six / Milestone; and
+* Module Seven / Project Two.
 
 The student should not create a new `it140-projects` repository for each
 module.
@@ -318,8 +318,8 @@ module.
 
 If:
 
-- the local folder is damaged, confusing, or incomplete; but
-- the student's private GitHub repository contains a good current copy,
+* the local folder is damaged, confusing, or incomplete; but
+* the student's private GitHub repository contains a good current copy,
 
 the normal recovery model is:
 
@@ -341,8 +341,8 @@ copy of the current course starting point.
 
 The normal course recovery pattern preserves the previous work by renaming:
 
-- the existing local repository; and
-- the existing private GitHub repository,
+* the existing local repository; and
+* the existing private GitHub repository,
 
 before running the current activity README's repository-setup commands again.
 
@@ -362,12 +362,12 @@ working repository for the new attempt.
 
 Using the current template ensures that the student receives the current:
 
-- repository layout;
-- instructions;
-- starter files;
-- tests;
-- configuration; and
-- support resources.
+* repository layout;
+* instructions;
+* starter files;
+* tests;
+* configuration; and
+* support resources.
 
 A prior repository may be preserved under a different name for reference or
 backup, subject to applicable course and academic-integrity requirements.
@@ -390,19 +390,19 @@ and how the supporter should handle student work.
 
 Public course repositories may provide:
 
-- **Issues** for technical problems or requested improvements; and
-- **Discussions** for repository-related questions or course-community
+* **Issues** for technical problems or requested improvements; and
+* **Discussions** for repository-related questions or course-community
   discussion when appropriate.
 
 Do not post in public GitHub areas:
 
-- passwords;
-- authentication or verification codes;
-- personal access tokens;
-- recovery codes;
-- private identifying information;
-- confidential student information; or
-- complete solutions to graded assignments.
+* passwords;
+* authentication or verification codes;
+* personal access tokens;
+* recovery codes;
+* private identifying information;
+* confidential student information; or
+* complete solutions to graded assignments.
 
 Questions about assignment requirements, grading, deadlines, accommodations,
 and instructor feedback belong through the course/instructor support path
@@ -413,15 +413,15 @@ rather than a public repository issue.
 These GitHub features and terms serve different purposes in the current course
 workflow:
 
-- **Star** — bookmark a public course repository so it is easier to find;
+* **Star** — bookmark a public course repository so it is easier to find;
   recommended where the activity README says to star it.
-- **Watch** — receive repository notifications; generally optional for
+* **Watch** — receive repository notifications; generally optional for
   students.
-- **Fork** — create a linked fork of another repository; **students should not
+* **Fork** — create a linked fork of another repository; **students should not
   use this for IT 140 assignment/project setup**.
-- **Use this template** — GitHub browser control for creating a repository;
+* **Use this template** — GitHub browser control for creating a repository;
   **students should not click this for IT 140 assignment/project setup**.
-- **`gh repo create --template ...`** — the GitHub CLI mechanism used by the
+* **`gh repo create --template ...`** — the GitHub CLI mechanism used by the
   activity README to create the student's private repository from the current
   course starting point.
 
@@ -452,15 +452,15 @@ git remote -v
 
 These checks often reveal whether the problem is:
 
-- the wrong GitHub account;
-- the wrong repository owner;
-- the wrong local folder;
-- a missing local clone;
-- a local clone connected to an unexpected remote;
-- a repository that already exists;
-- a repository created by clicking **Fork** or **Use this template** instead of
+* the wrong GitHub account;
+* the wrong repository owner;
+* the wrong local folder;
+* a missing local clone;
+* a local clone connected to an unexpected remote;
+* a repository that already exists;
+* a repository created by clicking **Fork** or **Use this template** instead of
   following the activity README; or
-- two local copies whose histories have diverged.
+* two local copies whose histories have diverged.
 
 ## Do Not Use Repository Recreation as the First Fix
 
@@ -477,11 +477,11 @@ Before recreating a repository:
 
 ## Related Shared Documentation
 
-- [Course Overview](course-overview.md)
-- [Course Repository Architecture](course-repository-architecture.md)
-- [Course Glossary](glossary.md)
-- [Supported Environments](supported-environments.md)
-- [Support Boundaries](support-boundaries.md)
-- [Escalation Model](escalation-model.md)
+* [Course Overview](course-overview.md)
+* [Course Repository Architecture](course-repository-architecture.md)
+* [Course Glossary](glossary.md)
+* [Supported Environments](supported-environments.md)
+* [Support Boundaries](support-boundaries.md)
+* [Escalation Model](escalation-model.md)
 
 Return to the [Shared Documentation Index](README.md).

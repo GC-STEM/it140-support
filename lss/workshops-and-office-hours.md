@@ -23,11 +23,11 @@ A workshop should focus on **transferable programming concepts and problem-solvi
 
 Review:
 
-- the current course/module context;
-- the current zyBooks concepts students are likely to be using;
-- the relevant activity README when the workshop overlaps an assignment or project;
-- existing Academic Resource Center materials; and
-- current Course Status for known technical issues.
+* the current course/module context;
+* the current zyBooks concepts students are likely to be using;
+* the relevant activity README when the workshop overlaps an assignment or project;
+* existing Academic Resource Center materials; and
+* current Course Status for known technical issues.
 
 Do not base a workshop on an old assignment copy or remembered requirement when current materials are available.
 
@@ -35,18 +35,18 @@ Do not base a workshop on an old assignment copy or remembered requirement when 
 
 Prefer:
 
-- small examples that are different from graded assignment solutions;
-- incremental code development;
-- explicit reasoning about input, processing, and output;
-- prediction before execution;
-- tracing values through branches and loops;
-- debugging demonstrations; and
-- tests that show why a solution works.
+* small examples that are different from graded assignment solutions;
+* incremental code development;
+* explicit reasoning about input, processing, and output;
+* prediction before execution;
+* tracing values through branches and loops;
+* debugging demonstrations; and
+* tests that show why a solution works.
 
 When demonstrating a concept, distinguish:
 
-- **the concept** students should learn; from
-- **the graded solution** students must develop themselves.
+* **the concept** students should learn; from
+* **the graded solution** students must develop themselves.
 
 ### During Q&A
 
@@ -72,54 +72,54 @@ A useful flow is:
 
 For a learning problem:
 
-- have the student explain the current logic;
-- identify the smallest failing behavior;
-- inspect or test one part at a time;
-- connect the issue to a course concept; and
-- have the student make the next change.
+* have the student explain the current logic;
+* identify the smallest failing behavior;
+* inspect or test one part at a time;
+* connect the issue to a course concept; and
+* have the student make the next change.
 
 For a technical environment problem:
 
-- preserve the exact error when practical;
-- avoid turning the session into deep system repair; and
-- route to the IT Service Desk.
+* preserve the exact error when practical;
+* avoid turning the session into deep system repair; and
+* route to the IT Service Desk.
 
 For an assignment/grading question:
 
-- identify the current D2L Brightspace Guidelines and Rubric;
-- avoid making grading interpretations for faculty; and
-- refer the student to the instructor when needed.
+* identify the current D2L Brightspace Guidelines and Rubric;
+* avoid making grading interpretations for faculty; and
+* refer the student to the instructor when needed.
 
 ## Supporting Multiple Students
 
 In one-to-many sessions:
 
-- use examples that benefit the group without exposing one student's private work;
-- do not screen-share private repository contents without appropriate consent and care;
-- generalize a student's issue when possible;
-- avoid displaying account identifiers, email addresses, tokens, or private GitHub information;
-- keep discussion of grades or instructor feedback out of the group setting; and
-- move student-specific matters to the appropriate private support path.
+* use examples that benefit the group without exposing one student's private work;
+* do not screen-share private repository contents without appropriate consent and care;
+* generalize a student's issue when possible;
+* avoid displaying account identifiers, email addresses, tokens, or private GitHub information;
+* keep discussion of grades or instructor feedback out of the group setting; and
+* move student-specific matters to the appropriate private support path.
 
 ## Using Student Code in a Group Session
 
 If a student's code becomes a teaching example:
 
-- minimize unnecessary personal or assignment-specific details;
-- focus on the concept or debugging method;
-- avoid turning one student's graded solution into a shared answer;
-- do not copy the completed solution to other students; and
-- prefer a reduced or analogous example when practical.
+* minimize unnecessary personal or assignment-specific details;
+* focus on the concept or debugging method;
+* avoid turning one student's graded solution into a shared answer;
+* do not copy the completed solution to other students; and
+* prefer a reduced or analogous example when practical.
 
 ## Workshop Materials
 
 Reusable workshop materials should:
 
-- teach concepts rather than assignment answers;
-- align with the current IT 140 toolchain and terminology;
-- use current Python/course conventions;
-- avoid duplicating technical setup procedures that belong in course repositories; and
-- be considered for the [Academic Resource Center](resource-development.md) when they have durable value beyond a live session.
+* teach concepts rather than assignment answers;
+* align with the current IT 140 toolchain and terminology;
+* use current Python/course conventions;
+* avoid duplicating technical setup procedures that belong in course repositories; and
+* be considered for the [Academic Resource Center](resource-development.md) when they have durable value beyond a live session.
 
 ## After the Session
 
@@ -127,11 +127,11 @@ Recurring patterns are useful signals.
 
 Consider documenting or escalating when:
 
-- many students misunderstand the same concept;
-- an existing Academic Resource Center resource could be improved;
-- multiple students report the same repository or tool failure;
-- course wording appears to create the same confusion repeatedly; or
-- a public course artifact appears defective.
+* many students misunderstand the same concept;
+* an existing Academic Resource Center resource could be improved;
+* multiple students report the same repository or tool failure;
+* course wording appears to create the same confusion repeatedly; or
+* a public course artifact appears defective.
 
 Use [Referrals and Escalation](referrals-and-escalation.md) for the appropriate path.
 

@@ -8,9 +8,9 @@ IT 140 Verify scripts are designed to assess the current course environment **wi
 
 This makes Verify the preferred first diagnostic for an already configured:
 
-- Codio Virtual Desktop (CVD);
-- supported Windows local environment; or
-- supported macOS local environment.
+* Codio Virtual Desktop (CVD);
+* supported Windows local environment; or
+* supported macOS local environment.
 
 Verify checks course capabilities such as required software, Python, Git/GitHub configuration, VS Code settings/extensions, and the course repository workspace.
 
@@ -51,9 +51,9 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
 
 The current Windows verifier reports pass/warning/failure counts, the log path, remediation/follow-up, and an exit code. A successful run has:
 
-- no required `FAIL` checks;
-- `Failed` equal to `0`; and
-- exit code `0`.
+* no required `FAIL` checks;
+* `Failed` equal to `0`; and
+* exit code `0`.
 
 If the verifier was run as Administrator on a regular Windows computer, close that PowerShell window and rerun Verify from a regular PowerShell window.
 
@@ -102,12 +102,12 @@ The final summary is the fastest first diagnostic.
 
 Record:
 
-- script/platform;
-- result or success/failure state;
-- passed/warning/failed counts;
-- exit code;
-- remediation/follow-up text; and
-- exact log path.
+* script/platform;
+* result or success/failure state;
+* passed/warning/failed counts;
+* exit code;
+* remediation/follow-up text; and
+* exact log path.
 
 A single earlier red/error-looking line can be misleading if the script later handles the condition. Use the final summary to determine the lifecycle result.
 
@@ -135,12 +135,12 @@ For the current manual Linux setup guide, the setup command writes:
 
 Use the log to answer:
 
-- Which script/version ran?
-- Which platform/profile was detected?
-- Which checks passed?
-- Which check first failed?
-- What remediation did the script recommend?
-- Did the script finish normally and print a summary?
+* Which script/version ran?
+* Which platform/profile was detected?
+* Which checks passed?
+* Which check first failed?
+* What remediation did the script recommend?
+* Did the script finish normally and print a summary?
 
 Avoid turning log review into manual reverse engineering of course-managed scripts. If the failure points to a controlled manifest/script defect, collect the evidence and escalate.
 
@@ -190,21 +190,21 @@ Use the exact log identified by Verify and review it for private information bef
 
 Before attaching logs, screenshots, or terminal output, check for:
 
-- passwords;
-- authentication/device codes;
-- access tokens;
-- recovery codes;
-- private email/contact information;
-- student identification information;
-- confidential SNHU information; and
-- complete graded-assignment solutions.
+* passwords;
+* authentication/device codes;
+* access tokens;
+* recovery codes;
+* private email/contact information;
+* student identification information;
+* confidential SNHU information; and
+* complete graded-assignment solutions.
 
 Never request authentication secrets as evidence.
 
 ## After Verify
 
-- **Compliant / required checks pass:** the environment is likely not the failing layer; return to [Triage](triage.md) and inspect the repository or student-code layer.
-- **Failure with documented remediation:** follow [Safe Remediation](safe-remediation.md), then rerun Verify.
-- **Repeatable failure after documented remediation:** follow [Escalation](escalation.md).
+* **Compliant / required checks pass:** the environment is likely not the failing layer; return to [Triage](triage.md) and inspect the repository or student-code layer.
+* **Failure with documented remediation:** follow [Safe Remediation](safe-remediation.md), then rerun Verify.
+* **Repeatable failure after documented remediation:** follow [Escalation](escalation.md).
 
 Return to the [Service Desk Triage and Escalation Runbook](README.md).

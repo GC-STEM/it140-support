@@ -30,12 +30,12 @@ Start with the **current D2L Brightspace Guidelines and Rubric**.
 
 Use the activity repository README to understand:
 
-- the development workflow;
-- provided starter files;
-- file/folder locations;
-- optional practice or tests;
-- repository-specific help; and
-- how the student is expected to work with the course tooling.
+* the development workflow;
+* provided starter files;
+* file/folder locations;
+* optional practice or tests;
+* repository-specific help; and
+* how the student is expected to work with the course tooling.
 
 If the repository appears to contradict the current Guidelines and Rubric, do not silently reinterpret the graded requirement. Use Brightspace for grading and report the documentation conflict.
 
@@ -43,12 +43,12 @@ If the repository appears to contradict the current Guidelines and Rubric, do no
 
 If Python and the course environment work but the student's own program fails:
 
-- help the student identify the specific error or unexpected result;
-- ask what the student expected the program to do;
-- connect the problem to concepts the student has learned;
-- encourage small tests and incremental debugging;
-- use hints, questions, or partial examples before supplying a complete solution; and
-- refer to an appropriate Academic Support learning service when additional help would be useful.
+* help the student identify the specific error or unexpected result;
+* ask what the student expected the program to do;
+* connect the problem to concepts the student has learned;
+* encourage small tests and incremental debugging;
+* use hints, questions, or partial examples before supplying a complete solution; and
+* refer to an appropriate Academic Support learning service when additional help would be useful.
 
 The goal is to help the student develop and debug **their own solution**.
 
@@ -64,14 +64,14 @@ A student may understand that they need to learn programming but still struggle 
 
 Academic Coaching may be appropriate when the student needs help with:
 
-- starting earlier and spreading work across the week;
-- time/task prioritization;
-- deciding how to sequence zyBooks, the current assignment/milestone, and project work;
-- reading and following detailed technical documentation;
-- organizing work across Brightspace, zyBooks, GitHub, and VS Code;
-- strengthening general academic habits;
-- learning strategies related to a diagnosed learning difference; or
-- developing a repeatable critical-thinking/problem-solving process.
+* starting earlier and spreading work across the week;
+* time/task prioritization;
+* deciding how to sequence zyBooks, the current assignment/milestone, and project work;
+* reading and following detailed technical documentation;
+* organizing work across Brightspace, zyBooks, GitHub, and VS Code;
+* strengthening general academic habits;
+* learning strategies related to a diagnosed learning difference; or
+* developing a repeatable critical-thinking/problem-solving process.
 
 See [Academic Coaching | IT 140 Guide for F&S](../academic-support/coaching.md).
 
@@ -97,9 +97,9 @@ The [Service Desk Triage](../service-desk/triage.md) shows the technical classif
 
 First distinguish:
 
-- GC-STEM public course template;
-- student's private GitHub repository; and
-- student's local clone.
+* GC-STEM public course template;
+* student's private GitHub repository; and
+* student's local clone.
 
 See the [Three-Copy Model](../shared/course-repository-architecture.md#the-three-copy-model).
 
@@ -113,10 +113,10 @@ Do not use deletion or recreation as the first troubleshooting step.
 
 Before anyone resets or replaces a student repository:
 
-- determine whether the student's current work exists on GitHub;
-- preserve local-only work;
-- avoid deleting Git history; and
-- use the current activity recovery/start-over process.
+* determine whether the student's current work exists on GitHub;
+* preserve local-only work;
+* avoid deleting Git history; and
+* use the current activity recovery/start-over process.
 
 See [GitHub Workflow](../shared/github-workflow.md).
 
@@ -124,11 +124,11 @@ See [GitHub Workflow](../shared/github-workflow.md).
 
 Do not ask students to post:
 
-- passwords or authentication codes;
-- access tokens;
-- private identifying information;
-- private repository contents; or
-- complete graded solutions
+* passwords or authentication codes;
+* access tokens;
+* private identifying information;
+* private repository contents; or
+* complete graded solutions
 
 in public GitHub Issues or Discussions.
 
@@ -140,11 +140,11 @@ Use [Academic Support for IT 140](../academic-support/README.md) when you want t
 
 Common examples:
 
-- **LSS Workshop / Office Hours** — course-specific Python and IT 140 learning support;
-- **24/7 Drop-In Tutoring** — on-demand general Python help;
-- **Academic Coaching** — time/task, organization, technical reading, academic skills, learning strategies, and problem-solving process;
-- **Written Feedback** — writing development for appropriate IT 140 written deliverables; and
-- **ELL/ESOL pathways** — English-language learning support across available services.
+* **LSS Workshop / Office Hours** — course-specific Python and IT 140 learning support;
+* **24/7 Drop-In Tutoring** — on-demand general Python help;
+* **Academic Coaching** — time/task, organization, technical reading, academic skills, learning strategies, and problem-solving process;
+* **Written Feedback** — writing development for appropriate IT 140 written deliverables; and
+* **ELL/ESOL pathways** — English-language learning support across available services.
 
 Faculty retain authority for assignment interpretation, grading, and instructor feedback.
 
@@ -152,14 +152,14 @@ Faculty retain authority for assignment interpretation, grading, and instructor 
 
 Use the technical path when the primary issue is:
 
-- account/system access;
-- CVD launch or configuration;
-- supported local course IDE installation/configuration;
-- GitHub authentication;
-- GitHub CLI failure;
-- repository creation/clone failure;
-- Verify failure; or
-- another supported technical environment problem.
+* account/system access;
+* CVD launch or configuration;
+* supported local course IDE installation/configuration;
+* GitHub authentication;
+* GitHub CLI failure;
+* repository creation/clone failure;
+* Verify failure; or
+* another supported technical environment problem.
 
 For faculty-specific handoff guidance, see [Technical Issues and Escalation](technical-issues-and-escalation.md).
 

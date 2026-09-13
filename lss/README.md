@@ -6,9 +6,9 @@ This repository is written for faculty and staff. Students may be able to view i
 
 LSS are part-time Academic Support employees who primarily support IT 140 through:
 
-- **IT 140 - Intro to Python Workshop** — optional one-to-many sessions with instruction followed by student Q&A;
-- **IT Basics Office Hours** — optional one-to-many sessions driven by student questions; and
-- development of programming and student-support resources for the
+* **IT 140 - Intro to Python Workshop** — optional one-to-many sessions with instruction followed by student Q&A;
+* **IT Basics Office Hours** — optional one-to-many sessions driven by student questions; and
+* development of programming and student-support resources for the
   [SNHU Academic Resource Center](https://snhuacademicresourcecenter.screenstepslive.com/m/138398).
 
 The current-term schedule for live group sessions is maintained at:
@@ -57,12 +57,12 @@ LSS help students **develop understanding and problem-solving skills**.
 
 The shared support model identifies appropriate LSS support such as:
 
-- explaining course-level programming concepts;
-- helping students interpret error messages;
-- helping students reason through their own logic;
-- teaching debugging and testing approaches;
-- helping students use course development tools at a learning-support level; and
-- helping students locate relevant course resources.
+* explaining course-level programming concepts;
+* helping students interpret error messages;
+* helping students reason through their own logic;
+* teaching debugging and testing approaches;
+* helping students use course development tools at a learning-support level; and
+* helping students locate relevant course resources.
 
 The student should remain the author and decision-maker for graded work.
 
@@ -91,13 +91,13 @@ Use the source that matches the question.
 
 ## Shared References Used by LSS Guides
 
-- [Academic Support for IT 140](../academic-support/README.md)
-- [IT 140 Course Overview](../shared/course-overview.md)
-- [Course Repository Architecture](../shared/course-repository-architecture.md)
-- [IT 140 Course Glossary](../shared/glossary.md)
-- [Supported Environments](../shared/supported-environments.md)
-- [GitHub Workflow](../shared/github-workflow.md)
-- [Support Boundaries](../shared/support-boundaries.md)
-- [Escalation Model](../shared/escalation-model.md)
+* [Academic Support for IT 140](../academic-support/README.md)
+* [IT 140 Course Overview](../shared/course-overview.md)
+* [Course Repository Architecture](../shared/course-repository-architecture.md)
+* [IT 140 Course Glossary](../shared/glossary.md)
+* [Supported Environments](../shared/supported-environments.md)
+* [GitHub Workflow](../shared/github-workflow.md)
+* [Support Boundaries](../shared/support-boundaries.md)
+* [Escalation Model](../shared/escalation-model.md)
 
 Return to the [IT 140 Support home page](../README.md).

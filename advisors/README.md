@@ -17,15 +17,15 @@ This guide is written for both STEM and non-STEM advisors. IT 140 serves as an i
 
 ## IT 140 in 60 Seconds
 
-- **Programming language:** Python.
-- **Length:** Eight weeks.
-- **Credit/load expectation:** A three-credit course in this format should require **about 16 hours per week on average for an average student** under SNHU and applicable accreditation expectations.
-- **Prior experience:** Previous programming experience is not required, but students who are new to programming may need more than the average amount of time.
-- **Pace:** Concepts build from week to week. Early delays can make later work more difficult.
-- **Weekly approach:** Students should work across multiple sessions during the week rather than waiting until the weekend.
-- **Learning platform:** zyBooks is a significant part of the weekly workload, especially early in the course.
-- **Development environment:** The Codio Virtual Desktop (CVD) is the reference environment; supported local setup is optional.
-- **Help:** Faculty, Academic Support, Academic Coaching, and technical support each address different barriers.
+* **Programming language:** Python.
+* **Length:** Eight weeks.
+* **Credit/load expectation:** A three-credit course in this format should require **about 16 hours per week on average for an average student** under SNHU and applicable accreditation expectations.
+* **Prior experience:** Previous programming experience is not required, but students who are new to programming may need more than the average amount of time.
+* **Pace:** Concepts build from week to week. Early delays can make later work more difficult.
+* **Weekly approach:** Students should work across multiple sessions during the week rather than waiting until the weekend.
+* **Learning platform:** zyBooks is a significant part of the weekly workload, especially early in the course.
+* **Development environment:** The Codio Virtual Desktop (CVD) is the reference environment; supported local setup is optional.
+* **Help:** Faculty, Academic Support, Academic Coaching, and technical support each address different barriers.
 
 For the shared course background, see [IT 140 Course Overview](../shared/course-overview.md).
 
@@ -83,11 +83,11 @@ the problem may mean very different things.
 
 Examples:
 
-- the CVD will not open;
-- VS Code will not start;
-- Python cannot run;
-- GitHub authentication fails; or
-- the student cannot create or clone the repository.
+* the CVD will not open;
+* VS Code will not start;
+* Python cannot run;
+* GitHub authentication fails; or
+* the student cannot create or clone the repository.
 
 **Route:** IT Service Desk.
 
@@ -95,10 +95,10 @@ Examples:
 
 Examples:
 
-- the student does not understand a programming concept;
-- the student's code runs but gives the wrong result;
-- the student needs help debugging; or
-- the student needs more programming practice.
+* the student does not understand a programming concept;
+* the student's code runs but gives the wrong result;
+* the student needs help debugging; or
+* the student needs more programming practice.
 
 **Route:** Faculty and/or [Academic Support](../academic-support/README.md).
 
@@ -106,11 +106,11 @@ Examples:
 
 Examples:
 
-- the student cannot prioritize competing IT 140 tasks;
-- the student waits until the weekend to begin;
-- the student struggles to follow technical documentation;
-- the student needs organization strategies; or
-- the student needs a more systematic problem-solving/study process.
+* the student cannot prioritize competing IT 140 tasks;
+* the student waits until the weekend to begin;
+* the student struggles to follow technical documentation;
+* the student needs organization strategies; or
+* the student needs a more systematic problem-solving/study process.
 
 **Route:** [Academic Coaching](../academic-support/coaching.md). Keep broader academic planning in advising.
 
@@ -118,11 +118,11 @@ Examples:
 
 Examples:
 
-- what must be submitted;
-- whether work meets the rubric;
-- a grade;
-- instructor feedback; or
-- an assignment deadline.
+* what must be submitted;
+* whether work meets the rubric;
+* a grade;
+* instructor feedback; or
+* an assignment deadline.
 
 **Route:** Faculty.
 
@@ -130,10 +130,10 @@ Examples:
 
 Examples:
 
-- the student is overwhelmed;
-- the student is considering changing their academic plan;
-- the student is concerned about course sequencing; or
-- the student is balancing the course with broader academic or life circumstances.
+* the student is overwhelmed;
+* the student is considering changing their academic plan;
+* the student is concerned about course sequencing; or
+* the student is balancing the course with broader academic or life circumstances.
 
 **Route:** Advisor, using normal advising processes, while connecting course-specific subproblems to the appropriate support role.
 
@@ -154,12 +154,12 @@ Examples:
 
 Advisor pages link to shared documentation when more detail is useful:
 
-- [IT 140 Course Overview](../shared/course-overview.md)
-- [IT 140 Course Glossary](../shared/glossary.md)
-- [Academic Support for IT 140](../academic-support/README.md)
-- [Supported Environments](../shared/supported-environments.md)
-- [Support Boundaries](../shared/support-boundaries.md)
-- [Escalation Model](../shared/escalation-model.md)
+* [IT 140 Course Overview](../shared/course-overview.md)
+* [IT 140 Course Glossary](../shared/glossary.md)
+* [Academic Support for IT 140](../academic-support/README.md)
+* [Supported Environments](../shared/supported-environments.md)
+* [Support Boundaries](../shared/support-boundaries.md)
+* [Escalation Model](../shared/escalation-model.md)
 
 You are not expected to read those pages before using this guide.
 

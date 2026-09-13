@@ -24,14 +24,14 @@ These services can complement each other. A student may use LSS for programming 
 
 Refer the student to faculty for:
 
-- interpretation of assignment requirements;
-- what must be submitted;
-- whether work meets a rubric criterion;
-- grades;
-- instructor feedback;
-- deadlines or late-work questions;
-- accommodations/course decisions within faculty responsibility; and
-- questions about whether a particular approach is acceptable for a graded activity.
+* interpretation of assignment requirements;
+* what must be submitted;
+* whether work meets a rubric criterion;
+* grades;
+* instructor feedback;
+* deadlines or late-work questions;
+* accommodations/course decisions within faculty responsibility; and
+* questions about whether a particular approach is acceptable for a graded activity.
 
 LSS may help the student understand concepts related to the work, but faculty remains authoritative for the graded requirement.
 
@@ -39,24 +39,24 @@ LSS may help the student understand concepts related to the work, but faculty re
 
 Route technical failures such as:
 
-- CVD access or launch problems;
-- supported local course IDE installation/configuration failures;
-- Python itself cannot run;
-- VS Code will not launch;
-- GitHub authentication problems;
-- GitHub CLI (`gh`) failures;
-- repository creation or cloning failures;
-- risky Git/repository recovery;
-- Verify failures; or
-- another supported environment problem.
+* CVD access or launch problems;
+* supported local course IDE installation/configuration failures;
+* Python itself cannot run;
+* VS Code will not launch;
+* GitHub authentication problems;
+* GitHub CLI (`gh`) failures;
+* repository creation or cloning failures;
+* risky Git/repository recovery;
+* Verify failures; or
+* another supported environment problem.
 
 When practical, preserve:
 
-- the environment;
-- exact task/step;
-- exact error message;
-- Verify final summary/exit code when applicable; and
-- whether the student can continue in the CVD.
+* the environment;
+* exact task/step;
+* exact error message;
+* Verify final summary/exit code when applicable; and
+* whether the student can continue in the CVD.
 
 See [Service Desk Triage and Escalation Runbook](../service-desk/README.md).
 
@@ -64,20 +64,20 @@ See [Service Desk Triage and Escalation Runbook](../service-desk/README.md).
 
 Refer academic-planning questions such as:
 
-- course sequencing;
-- program planning;
-- broader academic-path questions; and
-- concerns that require advising rather than technical, instructional, or coaching support.
+* course sequencing;
+* program planning;
+* broader academic-path questions; and
+* concerns that require advising rather than technical, instructional, or coaching support.
 
 ## Course-Provided Content Appears Defective
 
 Examples include:
 
-- a public course README command is incorrect;
-- a public course link is broken;
-- a starter file or test appears defective;
-- documentation and automation disagree; or
-- multiple students encounter the same supported-environment failure.
+* a public course README command is incorrect;
+* a public course link is broken;
+* a starter file or test appears defective;
+* documentation and automation disagree; or
+* multiple students encounter the same supported-environment failure.
 
 Before escalating:
 
@@ -93,11 +93,11 @@ The common evidence model is in [Escalation Model](../shared/escalation-model.md
 
 If the problem is in an LSS/Academic Support learning resource:
 
-- preserve the Academic Resource Center URL;
-- identify the specific incorrect/outdated section;
-- compare it with current IT 140 materials;
-- distinguish a general programming error from an IT 140-specific mismatch; and
-- use the current Academic Support resource-maintenance process.
+* preserve the Academic Resource Center URL;
+* identify the specific incorrect/outdated section;
+* compare it with current IT 140 materials;
+* distinguish a general programming error from an IT 140-specific mismatch; and
+* use the current Academic Support resource-maintenance process.
 
 Do not report an Academic Resource Center content correction as an IT 140 course-repository defect unless the underlying course source is also incorrect.
 
@@ -109,19 +109,19 @@ Public GitHub reporting is appropriate only for a reproducible defect in public 
 
 See:
 
-- [Public Versus Internal Support Channels](../shared/support-boundaries.md#public-versus-internal-support-channels)
-- [Privacy and Security Review](../shared/escalation-model.md#privacy-and-security-review)
+* [Public Versus Internal Support Channels](../shared/support-boundaries.md#public-versus-internal-support-channels)
+* [Privacy and Security Review](../shared/escalation-model.md#privacy-and-security-review)
 
 ## Escalation Handoff
 
 A concise LSS handoff should explain:
 
-- what the student is trying to do;
-- whether the issue is programming learning, academic-skills/coaching, assignment, technical, advising, or course-resource related;
-- exact error/behavior when applicable;
-- what LSS support was already attempted;
-- where the student was referred; and
-- any evidence that will prevent the next supporter from starting over.
+* what the student is trying to do;
+* whether the issue is programming learning, academic-skills/coaching, assignment, technical, advising, or course-resource related;
+* exact error/behavior when applicable;
+* what LSS support was already attempted;
+* where the student was referred; and
+* any evidence that will prevent the next supporter from starting over.
 
 Avoid diagnosing beyond the evidence.
 

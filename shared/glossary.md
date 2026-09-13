@@ -54,11 +54,11 @@ The glossary will be built out in a separate documentation pass. This initial sc
 
 ## Related Shared Documentation
 
-- [Course Overview](course-overview.md)
-- [Course Repository Architecture](course-repository-architecture.md)
-- [Supported Environments](supported-environments.md)
-- [GitHub Workflow](github-workflow.md)
-- [Support Boundaries](support-boundaries.md)
-- [Escalation Model](escalation-model.md)
+* [Course Overview](course-overview.md)
+* [Course Repository Architecture](course-repository-architecture.md)
+* [Supported Environments](supported-environments.md)
+* [GitHub Workflow](github-workflow.md)
+* [Support Boundaries](support-boundaries.md)
+* [Escalation Model](escalation-model.md)
 
 Return to the [Shared Documentation Index](README.md).

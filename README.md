@@ -6,11 +6,11 @@ The repository is public so faculty and staff can reach it easily, but its guida
 
 The repository provides guidance for:
 
-- [Faculty](faculty/README.md)
-- [Academic Support](academic-support/README.md)
-- [Learning Support Specialists (LSS)](lss/README.md)
-- [Academic Advisors](advisors/README.md)
-- [IT Service Desk personnel](service-desk/README.md)
+* [Faculty](faculty/README.md)
+* [Academic Support](academic-support/README.md)
+* [Learning Support Specialists (LSS)](lss/README.md)
+* [Academic Advisors](advisors/README.md)
+* [IT Service Desk personnel](service-desk/README.md)
 
 > [!IMPORTANT]
 > Start with the guide for **your role or support area**. You are not expected to read the shared documentation first.
@@ -19,10 +19,10 @@ The repository provides guidance for:
 
 ---
 
-- **Course**: IT 140 - *Introduction to Scripting*
-- **Repository Purpose**: 
-- **Repository Version**: 1.0.4
-- **Repository Version DTG**: 2026-09-07-14-30a
+* **Course**: IT 140 - *Introduction to Scripting*
+* **Repository Purpose**: 
+* **Repository Version**: 1.0.4
+* **Repository Version DTG**: 2026-09-07-14-30a
 
 ---
 
@@ -38,11 +38,11 @@ The [Academic Support Guide](academic-support/README.md) is the canonical F&S-fa
 
 Role- and support-area documentation:
 
-- explains what the faculty or staff member should do;
-- links directly to the relevant shared information at the point it is needed;
-- avoids requiring supporters to discover or read the `shared/` directory before beginning;
-- avoids duplicating shared facts that could become inconsistent over time; and
-- links to the canonical Academic Support overview rather than maintaining separate lists of services wherever practical.
+* explains what the faculty or staff member should do;
+* links directly to the relevant shared information at the point it is needed;
+* avoids requiring supporters to discover or read the `shared/` directory before beginning;
+* avoids duplicating shared facts that could become inconsistent over time; and
+* links to the canonical Academic Support overview rather than maintaining separate lists of services wherever practical.
 
 ## Choose Your Starting Point
 
@@ -60,10 +60,10 @@ This repository supports the **IT 140 course environment and F&S support workflo
 
 For graded assignments and projects:
 
-- **D2L Brightspace** remains the authoritative source for activity requirements, submissions, grading, deadlines, and instructor feedback.
-- Student-facing GitHub repositories provide course tooling, templates, instructions, and supporting resources.
-- Academic Support's official student-facing systems provide current service access and scheduling.
-- Support personnel should not provide or publish complete solutions to graded assignments.
+* **D2L Brightspace** remains the authoritative source for activity requirements, submissions, grading, deadlines, and instructor feedback.
+* Student-facing GitHub repositories provide course tooling, templates, instructions, and supporting resources.
+* Academic Support's official student-facing systems provide current service access and scheduling.
+* Support personnel should not provide or publish complete solutions to graded assignments.
 
 ## IT 140 Course Repositories
 
@@ -191,25 +191,25 @@ Because the IT 140 course environment and support procedures may change rapidly,
 
 When updating documentation:
 
-- change the canonical shared page when a shared fact changes;
-- change the Academic Support overview when an Academic Support service description or routing recommendation changes;
-- review role-specific pages that link to changed information;
-- avoid copying revised facts or service lists into multiple role guides;
-- update procedures when the supported course workflow changes;
-- use pull requests for review when practical; and
-- record material documentation changes in [CHANGELOG.md](./.github/CHANGELOG.md).
+* change the canonical shared page when a shared fact changes;
+* change the Academic Support overview when an Academic Support service description or routing recommendation changes;
+* review role-specific pages that link to changed information;
+* avoid copying revised facts or service lists into multiple role guides;
+* update procedures when the supported course workflow changes;
+* use pull requests for review when practical; and
+* record material documentation changes in [CHANGELOG.md](./.github/CHANGELOG.md).
 
 ## Security, Privacy, and Academic Integrity
 
 Do not post any of the following in public GitHub areas:
 
-- passwords;
-- authentication or multi-factor authentication codes;
-- GitHub personal access tokens or other access tokens;
-- private identifying information;
-- confidential SNHU operational information;
-- student submissions containing protected information; or
-- complete solutions to graded IT 140 assignments or projects.
+* passwords;
+* authentication or multi-factor authentication codes;
+* GitHub personal access tokens or other access tokens;
+* private identifying information;
+* confidential SNHU operational information;
+* student submissions containing protected information; or
+* complete solutions to graded IT 140 assignments or projects.
 
 Internal escalation routing, restricted administrative procedures, student-specific information, or security-sensitive information should remain in the appropriate SNHU internal system.
 
@@ -217,24 +217,24 @@ Internal escalation routing, restricted administrative procedures, student-speci
 
 The core support architecture includes:
 
-- shared canonical support documentation;
-- IT Service Desk triage and escalation runbook;
-- faculty support guide;
-- LSS support guide;
-- Academic Advisor support guide; and
-- Academic Support service-selection guidance, including IT 140-specific references for 24/7 Drop-In Tutoring and Academic Coaching.
+* shared canonical support documentation;
+* IT Service Desk triage and escalation runbook;
+* faculty support guide;
+* LSS support guide;
+* Academic Advisor support guide; and
+* Academic Support service-selection guidance, including IT 140-specific references for 24/7 Drop-In Tutoring and Academic Coaching.
 
 Ongoing maintenance should focus on:
 
-- validating Academic Support descriptions and links against current official Academic Support resources;
-- adding sanitized screenshots only where they materially improve a support procedure;
-- keeping restricted routing, queue, contact, and workflow details in the appropriate SNHU internal systems rather than this public repository; and
-- updating canonical course facts and linked role procedures as the IT 140 environment evolves.
+* validating Academic Support descriptions and links against current official Academic Support resources;
+* adding sanitized screenshots only where they materially improve a support procedure;
+* keeping restricted routing, queue, contact, and workflow details in the appropriate SNHU internal systems rather than this public repository; and
+* updating canonical course facts and linked role procedures as the IT 140 environment evolves.
 
 ## Repository Metadata
 
 * **Course**: IT 140 - *Introduction to Scripting*
-- **Repository Name**: IT 140 Support
-- **Primary Audience**: SNHU faculty and staff who support IT 140, including faculty, Academic Support personnel, LSS, academic advisors, and IT Service Desk personnel
-- **Repository Purpose**: Provide canonical shared course-support information and role-/service-specific support procedures for IT 140
-- **Development Status**: Operational Documentation / Ongoing Maintenance
+* **Repository Name**: IT 140 Support
+* **Primary Audience**: SNHU faculty and staff who support IT 140, including faculty, Academic Support personnel, LSS, academic advisors, and IT Service Desk personnel
+* **Repository Purpose**: Provide canonical shared course-support information and role-/service-specific support procedures for IT 140
+* **Development Status**: Operational Documentation / Ongoing Maintenance

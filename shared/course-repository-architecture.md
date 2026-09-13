@@ -35,10 +35,10 @@ A public course repository is maintained by **GC-STEM**.
 
 Examples:
 
-- `GC-STEM/it140-m2-assignment`
-- `GC-STEM/it140-m3-assignment`
-- `GC-STEM/it140-m4-assignment`
-- `GC-STEM/it140-projects`
+* `GC-STEM/it140-m2-assignment`
+* `GC-STEM/it140-m3-assignment`
+* `GC-STEM/it140-m4-assignment`
+* `GC-STEM/it140-projects`
 
 These repositories provide the current course starting point, instructions,
 starter files, configuration, and other supporting resources.
@@ -107,12 +107,12 @@ in repository ownership is visually clear -->
 
 The main repository is the central technical hub for IT 140. It contains:
 
-- course development-environment automation;
-- course-wide configuration;
-- technical status information;
-- links to activity repositories;
-- technical documentation and Wiki pages; and
-- course-wide Issues and Discussions.
+* course development-environment automation;
+* course-wide configuration;
+* technical status information;
+* links to activity repositories;
+* technical documentation and Wiki pages; and
+* course-wide Issues and Discussions.
 
 Students do **not** normally clone the main repository for course work. Course
 automation obtains the files it needs.
@@ -124,10 +124,10 @@ automation obtains the files it needs.
 
 This repository provides the Module One setup workflow for:
 
-- GitHub account preparation;
-- Codio Virtual Desktop (CVD) configuration;
-- supported local course IDE setup; and
-- setup-specific troubleshooting.
+* GitHub account preparation;
+* Codio Virtual Desktop (CVD) configuration;
+* supported local course IDE setup; and
+* setup-specific troubleshooting.
 
 Students normally follow the repository instructions in the browser rather
 than cloning this repository.
@@ -188,9 +188,9 @@ Seven.
 
 The repository carries the student's work through:
 
-- **Module Five / Project One:** game design;
-- **Module Six / Milestone:** simplified movement prototype; and
-- **Module Seven / Project Two:** final text-based game.
+* **Module Five / Project One:** game design;
+* **Module Six / Milestone:** simplified movement prototype; and
+* **Module Seven / Project Two:** final text-based game.
 
 Important project folders include:
 
@@ -211,10 +211,10 @@ Module Six Milestone or Project Two.
 
 This repository contains support documentation for:
 
-- faculty;
-- Learning Support Specialists (LSS);
-- academic advisors; and
-- IT Service Desk personnel.
+* faculty;
+* Learning Support Specialists (LSS);
+* academic advisors; and
+* IT Service Desk personnel.
 
 It is a **support repository**, not a student assignment repository.
 
@@ -240,12 +240,12 @@ README files contain the instructions needed to complete or use the repository.
 
 A top-level `README.md` typically explains:
 
-- what the repository is for;
-- what the student or supporter should do;
-- which files or folders matter;
-- what order to follow;
-- where to find help; and
-- where to go next.
+* what the repository is for;
+* what the student or supporter should do;
+* which files or folders matter;
+* what order to follow;
+* where to find help; and
+* where to go next.
 
 Nested README files may provide instructions for a particular SDLC phase or
 activity folder.
@@ -254,12 +254,12 @@ activity folder.
 
 Repository Wikis provide supplemental material such as:
 
-- background explanations;
-- terminology;
-- technical details;
-- FAQs;
-- optional learning resources; and
-- troubleshooting context.
+* background explanations;
+* terminology;
+* technical details;
+* FAQs;
+* optional learning resources; and
+* troubleshooting context.
 
 For a course activity, start with the repository's top-level `README.md` rather
 than assuming the Wiki is a prerequisite.
@@ -270,9 +270,9 @@ The repository architecture does not replace the course LMS.
 
 For graded activities:
 
-- **D2L Brightspace** is authoritative for requirements, grading criteria,
+* **D2L Brightspace** is authoritative for requirements, grading criteria,
   submission instructions, deadlines, and instructor feedback.
-- **GitHub repositories** provide development resources, working files,
+* **GitHub repositories** provide development resources, working files,
   technical instructions, and backup/version-control workflows.
 
 A student's GitHub repository is not the assignment submission unless the
@@ -306,13 +306,13 @@ or synchronization workflows.
 
 For the canonical procedures for:
 
-- returning to existing work;
-- safely switching between existing local clones on more than one device;
-- moving to another environment or a reset CVD;
-- restoring a local clone from GitHub;
-- starting over from the current course template;
-- identifying the exact repository during troubleshooting; and
-- handling repositories for repeat-course attempts,
+* returning to existing work;
+* safely switching between existing local clones on more than one device;
+* moving to another environment or a reset CVD;
+* restoring a local clone from GitHub;
+* starting over from the current course template;
+* identifying the exact repository during troubleshooting; and
+* handling repositories for repeat-course attempts,
 
 see [GitHub Workflow](github-workflow.md).
 
@@ -324,31 +324,31 @@ see [GitHub Workflow](github-workflow.md).
 
 Examples include:
 
-- clicking **Fork** or **Use this template** instead of running the current
+* clicking **Fork** or **Use this template** instead of running the current
   activity README repository-setup commands;
-- cloning the public GC-STEM template instead of creating the student's private
+* cloning the public GC-STEM template instead of creating the student's private
   repository through the documented workflow;
-- opening the wrong copy of a similarly named repository;
-- creating a second personal repository when one already exists;
-- editing on two local copies without pushing before the switch and pulling
+* opening the wrong copy of a similarly named repository;
+* creating a second personal repository when one already exists;
+* editing on two local copies without pushing before the switch and pulling
   with `git pull --ff-only` before new work;
-- creating separate `it140-projects` repositories for Modules Five, Six, and
+* creating separate `it140-projects` repositories for Modules Five, Six, and
   Seven;
-- treating a GitHub backup as a Brightspace submission;
-- deleting a local repository before confirming the student's work exists
+* treating a GitHub backup as a Brightspace submission;
+* deleting a local repository before confirming the student's work exists
   elsewhere;
-- reusing a previous course attempt's repository instead of creating one from
+* reusing a previous course attempt's repository instead of creating one from
   the current template; and
-- editing course-managed files that the activity README says to leave
+* editing course-managed files that the activity README says to leave
   unchanged.
 
 ## Related Shared Documentation
 
-- [Course Overview](course-overview.md)
-- [Course Glossary](glossary.md)
-- [Supported Environments](supported-environments.md)
-- [GitHub Workflow](github-workflow.md)
-- [Support Boundaries](support-boundaries.md)
-- [Escalation Model](escalation-model.md)
+* [Course Overview](course-overview.md)
+* [Course Glossary](glossary.md)
+* [Supported Environments](supported-environments.md)
+* [GitHub Workflow](github-workflow.md)
+* [Support Boundaries](support-boundaries.md)
+* [Escalation Model](escalation-model.md)
 
 Return to the [Shared Documentation Index](README.md).

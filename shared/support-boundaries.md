@@ -4,11 +4,11 @@ This page provides a common routing model for IT 140 support.
 
 It helps F&S personnel distinguish among:
 
-- technical environment problems;
-- programming and learning-support needs;
-- academic-skills and coaching needs;
-- assignment, grading, and instructor questions; and
-- academic-advising concerns.
+* technical environment problems;
+* programming and learning-support needs;
+* academic-skills and coaching needs;
+* assignment, grading, and instructor questions; and
+* academic-advising concerns.
 
 > [!IMPORTANT]
 > This page defines the support model used by the IT 140 support repository.
@@ -30,16 +30,16 @@ Then refine the classification.
 
 Examples:
 
-- CVD will not launch;
-- VS Code will not start;
-- Python cannot run in the supported course IDE;
-- GitHub authentication fails;
-- GitHub CLI cannot access the student's account;
-- the repository setup, clone, push, or pull command documented in the current
+* CVD will not launch;
+* VS Code will not start;
+* Python cannot run in the supported course IDE;
+* GitHub authentication fails;
+* GitHub CLI cannot access the student's account;
+* the repository setup, clone, push, or pull command documented in the current
   activity README fails;
-- Verify reports `NOT COMPLIANT`;
-- a course lifecycle script fails; or
-- a course-provided repository file or tool behaves differently from the
+* Verify reports `NOT COMPLIANT`;
+* a course lifecycle script fails; or
+* a course-provided repository file or tool behaves differently from the
   documentation.
 
 These problems primarily belong to a **technical support** path.
@@ -48,12 +48,12 @@ These problems primarily belong to a **technical support** path.
 
 Examples:
 
-- the Python program runs but gives the wrong result;
-- the student does not understand a loop, branch, function, list, or
+* the Python program runs but gives the wrong result;
+* the student does not understand a loop, branch, function, list, or
   dictionary;
-- pseudocode does not match the student's intended logic;
-- the student needs help reasoning through an error in their own code; or
-- the student needs help learning how to test or debug.
+* pseudocode does not match the student's intended logic;
+* the student needs help reasoning through an error in their own code; or
+* the student needs help learning how to test or debug.
 
 These problems primarily belong to a **faculty and/or Academic Support
 learning** path.
@@ -62,16 +62,16 @@ learning** path.
 
 Examples:
 
-- the student waits until the weekend to begin most weekly work;
-- the student does not know how to prioritize zyBooks, the current assignment,
+* the student waits until the weekend to begin most weekly work;
+* the student does not know how to prioritize zyBooks, the current assignment,
   and the project;
-- the student struggles to read and follow technical documentation;
-- the student needs help organizing work across Brightspace, zyBooks, GitHub,
+* the student struggles to read and follow technical documentation;
+* the student needs help organizing work across Brightspace, zyBooks, GitHub,
   and the course IDE;
-- the student would benefit from academic strategies related to a diagnosed
+* the student would benefit from academic strategies related to a diagnosed
   learning difference;
-- the student needs to strengthen general academic habits; or
-- the student needs a repeatable problem-solving process but not Python
+* the student needs to strengthen general academic habits; or
+* the student needs a repeatable problem-solving process but not Python
   instruction.
 
 These problems are appropriate for **Academic Coaching**. If the concern
@@ -82,13 +82,13 @@ decisions, an **Academic Advisor** may also be appropriate.
 
 Examples:
 
-- what must be submitted;
-- whether a file meets a rubric criterion;
-- a grading decision;
-- instructor feedback;
-- a deadline;
-- an accommodation/course decision within faculty responsibility; or
-- a submission problem involving course requirements rather than the technical
+* what must be submitted;
+* whether a file meets a rubric criterion;
+* a grading decision;
+* instructor feedback;
+* a deadline;
+* an accommodation/course decision within faculty responsibility; or
+* a submission problem involving course requirements rather than the technical
   environment.
 
 These questions primarily belong to **faculty/instructor** processes.
@@ -97,11 +97,11 @@ These questions primarily belong to **faculty/instructor** processes.
 
 Examples:
 
-- whether the course fits a student's academic plan;
-- course sequencing;
-- broader program questions;
-- help identifying the right support resource; or
-- concerns that require advising rather than technical, instructional, or
+* whether the course fits a student's academic plan;
+* course sequencing;
+* broader program questions;
+* help identifying the right support resource; or
+* concerns that require advising rather than technical, instructional, or
   coaching support.
 
 These primarily belong to **academic advising** processes.
@@ -138,17 +138,17 @@ environment and access path** are functioning as documented.
 
 Examples of appropriate Service Desk questions:
 
-- Can the student access the system?
-- Which environment is being used?
-- Does the course IDE launch?
-- Does Python run?
-- Is GitHub CLI authenticated?
-- Is the student working in the correct repository?
-- Did the student follow the current activity README repository setup commands?
-- What do `git status` and `git remote -v` show?
-- What does Verify report?
-- What does the lifecycle summary/log show?
-- Can the issue be reproduced in the CVD reference environment?
+* Can the student access the system?
+* Which environment is being used?
+* Does the course IDE launch?
+* Does Python run?
+* Is GitHub CLI authenticated?
+* Is the student working in the correct repository?
+* Did the student follow the current activity README repository setup commands?
+* What do `git status` and `git remote -v` show?
+* What does Verify report?
+* What does the lifecycle summary/log show?
+* Can the issue be reproduced in the CVD reference environment?
 
 The Service Desk does **not** need to determine whether a student's algorithm
 is correct, whether a student's study plan is effective, or whether the
@@ -161,13 +161,13 @@ environment failure.
 
 Faculty are the authoritative course contact for matters such as:
 
-- interpreting the current assignment requirements;
-- grading;
-- rubric application;
-- instructor feedback;
-- assignment submission expectations;
-- course-content questions appropriate for the instructor; and
-- determining what assistance is appropriate for a graded activity.
+* interpreting the current assignment requirements;
+* grading;
+* rubric application;
+* instructor feedback;
+* assignment submission expectations;
+* course-content questions appropriate for the instructor; and
+* determining what assistance is appropriate for a graded activity.
 
 Faculty may also help with programming learning and triage technical problems,
 but technical infrastructure diagnosis can be routed to the Service Desk and
@@ -188,13 +188,13 @@ IT 140-focused live support and related learning resources.
 
 Appropriate LSS support may include:
 
-- explaining course-level programming concepts;
-- helping students interpret error messages;
-- helping students reason through their own logic;
-- teaching debugging and testing approaches;
-- helping students use course development tools at a learning-support level;
+* explaining course-level programming concepts;
+* helping students interpret error messages;
+* helping students reason through their own logic;
+* teaching debugging and testing approaches;
+* helping students use course development tools at a learning-support level;
   and
-- helping students locate relevant course resources.
+* helping students locate relevant course resources.
 
 LSS support should help the student **discover and develop the solution**, not
 replace the student's graded work with a completed solution.
@@ -219,13 +219,13 @@ See [24/7 Drop-In Tutoring | IT 140 Context for F&S](../academic-support/tutorin
 
 Academic Coaching is appropriate for academic-process needs such as:
 
-- time and task prioritization;
-- organization;
-- reading and following technical documentation;
-- strengthening academic skills;
-- learning strategies;
-- critical thinking and problem-solving process; and
-- support strategies for diagnosed learning differences.
+* time and task prioritization;
+* organization;
+* reading and following technical documentation;
+* strengthening academic skills;
+* learning strategies;
+* critical thinking and problem-solving process; and
+* support strategies for diagnosed learning differences.
 
 Coaches should not be expected to teach Python, troubleshoot Git/GitHub, or
 interpret a graded rubric. They can help students establish a workable learning
@@ -249,11 +249,11 @@ See [Academic Support for IT 140](../academic-support/README.md).
 
 Academic advisors need enough technical and course context to:
 
-- set reasonable course expectations;
-- recognize when a student's concern is technical, instructional,
+* set reasonable course expectations;
+* recognize when a student's concern is technical, instructional,
   coaching-related, or academic;
-- help a student identify the correct support resource; and
-- address academic-planning questions within the advisor role.
+* help a student identify the correct support resource; and
+* address academic-planning questions within the advisor role.
 
 Advisors are not expected to troubleshoot Git, Python, VS Code, or course
 automation.
@@ -265,16 +265,16 @@ support.
 
 Examples include:
 
-- a GC-STEM repository contains a broken link or incorrect starter file;
-- a current course automation script fails reproducibly in the supported
+* a GC-STEM repository contains a broken link or incorrect starter file;
+* a current course automation script fails reproducibly in the supported
   reference environment;
-- the manifest/configuration defines an incorrect course component;
-- course-provided tests fail against the intended starter state;
-- a student CI workflow behaves differently from its documented lifecycle,
+* the manifest/configuration defines an incorrect course component;
+* course-provided tests fail against the intended starter state;
+* a student CI workflow behaves differently from its documented lifecycle,
   especially for a fresh untouched personal repository;
-- the same supported-environment or GitHub Actions failure affects multiple
+* the same supported-environment or GitHub Actions failure affects multiple
   users; or
-- documentation and automation disagree.
+* documentation and automation disagree.
 
 These should be escalated to the **course technical maintenance** path with a
 reproducible evidence package.
@@ -288,24 +288,24 @@ student's graded work.
 
 Supporters should not:
 
-- post complete solutions to graded IT 140 assignments or projects in public
+* post complete solutions to graded IT 140 assignments or projects in public
   support channels;
-- provide a finished graded deliverable when the student's task is to create
+* provide a finished graded deliverable when the student's task is to create
   that deliverable;
-- modify a student's program into a completed assignment while presenting the
+* modify a student's program into a completed assignment while presenting the
   work as the student's own; or
-- use a support channel to bypass course academic-integrity expectations.
+* use a support channel to bypass course academic-integrity expectations.
 
 Supporters may:
 
-- explain concepts;
-- ask diagnostic or coaching questions;
-- point to relevant course resources;
-- demonstrate a concept with a different or partial example;
-- help a student interpret an error;
-- help a student test their own work;
-- help a student plan, organize, and read technical instructions; and
-- help isolate whether a problem is environmental, learning-related,
+* explain concepts;
+* ask diagnostic or coaching questions;
+* point to relevant course resources;
+* demonstrate a concept with a different or partial example;
+* help a student interpret an error;
+* help a student test their own work;
+* help a student plan, organize, and read technical instructions; and
+* help isolate whether a problem is environmental, learning-related,
   academic-skills-related, or in student-created code.
 
 Role- and service-specific guides provide more detailed examples.
@@ -336,49 +336,49 @@ Some issues cross role boundaries.
 
 Possible routes:
 
-- Python itself cannot run → technical support.
-- VS Code is using the wrong interpreter → technical support / course IDE
+* Python itself cannot run → technical support.
+* VS Code is using the wrong interpreter → technical support / course IDE
   support.
-- Python runs but the student's code has a syntax error → faculty or Academic
+* Python runs but the student's code has a syntax error → faculty or Academic
   Support learning support.
-- The student does not know which file must be submitted → faculty /
+* The student does not know which file must be submitted → faculty /
   Brightspace.
-- The student cannot organize enough time to make progress → Academic Coaching.
-- The starter file itself is malformed for everyone → course technical
+* The student cannot organize enough time to make progress → Academic Coaching.
+* The starter file itself is malformed for everyone → course technical
   maintainer.
 
 ### Example: "GitHub doesn't work"
 
 Possible routes:
 
-- cannot sign in to GitHub → account/technical support;
-- `gh auth status` shows the wrong account → technical/repository workflow
+* cannot sign in to GitHub → account/technical support;
+* `gh auth status` shows the wrong account → technical/repository workflow
   support;
-- student's private repo already exists → repository workflow issue;
-- student clicked **Fork** or **Use this template** instead of following the
+* student's private repo already exists → repository workflow issue;
+* student clicked **Fork** or **Use this template** instead of following the
   activity README → repository workflow issue;
-- student is trying to clone the GC-STEM template directly → repository
+* student is trying to clone the GC-STEM template directly → repository
   workflow issue;
-- `git pull --ff-only` or `git push` fails after work on more than one device →
+* `git pull --ff-only` or `git push` fails after work on more than one device →
   stop changes and route to repository technical support;
-- GitHub Actions gives normal formative feedback about student work → use the
+* GitHub Actions gives normal formative feedback about student work → use the
   activity's CI guide and faculty/learning support as appropriate;
-- several students see the same unexpected CI/infrastructure failure → course
+* several students see the same unexpected CI/infrastructure failure → course
   technical maintainer;
-- GitHub works, but the student does not understand Git concepts → faculty/LSS
+* GitHub works, but the student does not understand Git concepts → faculty/LSS
   learning support as appropriate; or
-- the public course repository is missing or broken → course technical
+* the public course repository is missing or broken → course technical
   maintainer.
 
 ### Example: "I'm behind and I don't understand loops"
 
 This likely contains more than one need:
 
-- **time/task planning or organization** → Academic Coaching;
-- **loop/programming understanding** → faculty, LSS, and/or 24/7 Drop-In
+* **time/task planning or organization** → Academic Coaching;
+* **loop/programming understanding** → faculty, LSS, and/or 24/7 Drop-In
   Tutoring;
-- **unclear assignment requirement** → faculty; and
-- **broader academic-plan/persistence concern** → Academic Advisor when
+* **unclear assignment requirement** → faculty; and
+* **broader academic-plan/persistence concern** → Academic Advisor when
   applicable.
 
 Do not require the student to finish one independent support path before using
@@ -388,10 +388,10 @@ another.
 
 A public GitHub repository may be appropriate for:
 
-- a reproducible defect in a public course repository;
-- a broken public documentation link;
-- a course-tool issue that does not require private information; or
-- a general improvement request.
+* a reproducible defect in a public course repository;
+* a broken public documentation link;
+* a course-tool issue that does not require private information; or
+* a general improvement request.
 
 Do not place private student information, credentials, complete graded
 solutions, or confidential SNHU operational information in public GitHub
@@ -408,15 +408,15 @@ system.
 
 Refer or escalate when:
 
-- the issue is outside the current role/service's responsibility;
-- documented safe troubleshooting does not resolve a technical problem;
-- the supported environment behaves differently from the current course
+* the issue is outside the current role/service's responsibility;
+* documented safe troubleshooting does not resolve a technical problem;
+* the supported environment behaves differently from the current course
   documentation;
-- a course-provided artifact appears defective;
-- multiple users show the same failure;
-- resolving the problem would require privileged or course-maintainer changes;
+* a course-provided artifact appears defective;
+* multiple users show the same failure;
+* resolving the problem would require privileged or course-maintainer changes;
   or
-- continuing would risk student work, privacy, credentials, or system
+* continuing would risk student work, privacy, credentials, or system
   stability.
 
 Before a technical escalation, collect the evidence described in
@@ -424,12 +424,12 @@ Before a technical escalation, collect the evidence described in
 
 ## Related Documentation
 
-- [Academic Support for IT 140](../academic-support/README.md)
-- [Course Overview](course-overview.md)
-- [Course Repository Architecture](course-repository-architecture.md)
-- [Course Glossary](glossary.md)
-- [Supported Environments](supported-environments.md)
-- [GitHub Workflow](github-workflow.md)
-- [Escalation Model](escalation-model.md)
+* [Academic Support for IT 140](../academic-support/README.md)
+* [Course Overview](course-overview.md)
+* [Course Repository Architecture](course-repository-architecture.md)
+* [Course Glossary](glossary.md)
+* [Supported Environments](supported-environments.md)
+* [GitHub Workflow](github-workflow.md)
+* [Escalation Model](escalation-model.md)
 
 Return to the [Shared Documentation Index](README.md).

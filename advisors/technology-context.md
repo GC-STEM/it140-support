@@ -37,10 +37,10 @@ Students benefit from learning about the technology requirements early enough to
 
 Advisors may encourage students to:
 
-- review the current technology requirements;
-- confirm that they can access required university/course systems;
-- learn the high-level purpose of Python, VS Code, CVD, zyBooks, and GitHub; and
-- identify the IT Service Desk as the technical-support path.
+* review the current technology requirements;
+* confirm that they can access required university/course systems;
+* learn the high-level purpose of Python, VS Code, CVD, zyBooks, and GitHub; and
+* identify the IT Service Desk as the technical-support path.
 
 This is **preparation**, not a recommendation to begin required IT 140 course work before the official term start. See [Course Planning and Preparation](course-planning-and-preparation.md).
 
@@ -48,11 +48,11 @@ This is **preparation**, not a recommendation to begin required IT 140 course wo
 
 At a high level:
 
-- the CVD is accessed through the course/Codio path;
-- it provides the course development tools in a managed virtual environment;
-- students use it to write and run Python code;
-- it is the reference environment for course screenshots and troubleshooting; and
-- it can provide continuity when a supported local installation is unavailable.
+* the CVD is accessed through the course/Codio path;
+* it provides the course development tools in a managed virtual environment;
+* students use it to write and run Python code;
+* it is the reference environment for course screenshots and troubleshooting; and
+* it can provide continuity when a supported local installation is unavailable.
 
 If the student cannot access or launch the CVD, that is a **technical-support problem**.
 
@@ -73,9 +73,9 @@ A device that cannot run the supported local course IDE may still be usable to *
 
 Therefore:
 
-- do not conclude that a student must purchase a new computer solely because local setup is unsupported;
-- do not promise that every device/browser configuration will work; and
-- route access/device-specific problems to the IT Service Desk.
+* do not conclude that a student must purchase a new computer solely because local setup is unsupported;
+* do not promise that every device/browser configuration will work; and
+* route access/device-specific problems to the IT Service Desk.
 
 The Service Desk can determine whether the student's device and access path are functioning appropriately.
 
@@ -85,10 +85,10 @@ The Service Desk can determine whether the student's device and access path are 
 
 Students may say:
 
-- "VS Code is broken";
-- "my code won't run";
-- "Python isn't working"; or
-- "the terminal doesn't work."
+* "VS Code is broken";
+* "my code won't run";
+* "Python isn't working"; or
+* "the terminal doesn't work."
 
 Those statements need classification.
 
@@ -96,10 +96,10 @@ Those statements need classification.
 
 Examples:
 
-- VS Code will not launch;
-- Python cannot run at all;
-- required course tools are missing;
-- the configured environment fails Verify.
+* VS Code will not launch;
+* Python cannot run at all;
+* required course tools are missing;
+* the configured environment fails Verify.
 
 **Route:** IT Service Desk.
 
@@ -107,9 +107,9 @@ Examples:
 
 Examples:
 
-- Python runs but gives unexpected output;
-- the student has a syntax error;
-- the student does not understand a loop or function.
+* Python runs but gives unexpected output;
+* the student has a syntax error;
+* the student does not understand a loop or function.
 
 **Route:** faculty or Academic Support.
 
@@ -119,9 +119,9 @@ Students should follow the **current Brightspace directions** for accessing and 
 
 If the student:
 
-- cannot access/use zyBooks after following those directions → **IT Service Desk** for the technical/access problem;
-- does not know which zyBooks activities are required → **current Brightspace module / instructor**; or
-- can access zyBooks but does not understand the programming content → **faculty or Academic Support**.
+* cannot access/use zyBooks after following those directions → **IT Service Desk** for the technical/access problem;
+* does not know which zyBooks activities are required → **current Brightspace module / instructor**; or
+* can access zyBooks but does not understand the programming content → **faculty or Academic Support**.
 
 ## GitHub
 
@@ -133,9 +133,9 @@ A simpler advisor mental model is:
 
 Students may use GitHub to:
 
-- create a private assignment/project repository from a course template;
-- maintain a remote copy of their work; and
-- restore their work when moving to another supported environment.
+* create a private assignment/project repository from a course template;
+* maintain a remote copy of their work; and
+* restore their work when moving to another supported environment.
 
 Advisors do not need to know Git commands or repository-recovery procedures.
 
@@ -165,13 +165,13 @@ The answer often identifies the correct next resource without technical troubles
 
 Advisors should not direct students to:
 
-- uninstall/reinstall Python;
-- delete repositories;
-- reset the CVD;
-- change Git configuration;
-- disable security software;
-- run administrator/root commands; or
-- install random versions of course software.
+* uninstall/reinstall Python;
+* delete repositories;
+* reset the CVD;
+* change Git configuration;
+* disable security software;
+* run administrator/root commands; or
+* install random versions of course software.
 
 Technical repair belongs to the IT Service Desk and current course procedures.
 

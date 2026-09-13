@@ -26,14 +26,14 @@ Early difficulty does not prove that a student will be unsuccessful, but it is a
 
 Watch for patterns such as:
 
-- the student is already struggling substantially in Week 1;
-- missing zyBooks work;
-- consistently low zyBooks performance;
-- the student reports beginning nearly all weekly work on the weekend;
-- the student is spending far less than the expected course time and is falling behind;
-- the student is spending much more than the expected time but making little progress;
-- repeated confusion about how to access or use required course systems; or
-- continued difficulty without contacting the instructor or Academic Support.
+* the student is already struggling substantially in Week 1;
+* missing zyBooks work;
+* consistently low zyBooks performance;
+* the student reports beginning nearly all weekly work on the weekend;
+* the student is spending far less than the expected course time and is falling behind;
+* the student is spending much more than the expected time but making little progress;
+* repeated confusion about how to access or use required course systems; or
+* continued difficulty without contacting the instructor or Academic Support.
 
 When these signs appear, help identify whether the underlying barrier is technical, learning-related, assignment-related, academic-skills/coaching-related, or broader.
 
@@ -43,23 +43,23 @@ Students can enter IT 140 with very different levels of technical experience.
 
 A useful response is to distinguish:
 
-- **learning programming**, which is the purpose of the course;
-- **learning how to approach technical work**, which Academic Coaching can support; from
-- **making the course technology function**, which should not require the student to solve unsupported technical problems alone.
+* **learning programming**, which is the purpose of the course;
+* **learning how to approach technical work**, which Academic Coaching can support; from
+* **making the course technology function**, which should not require the student to solve unsupported technical problems alone.
 
 For programming learning:
 
-- encourage the student to contact their instructor;
-- use [Academic Support for IT 140](../academic-support/README.md) to choose LSS/live support or 24/7 Drop-In Tutoring as appropriate;
-- encourage use of current course practice/resources.
+* encourage the student to contact their instructor;
+* use [Academic Support for IT 140](../academic-support/README.md) to choose LSS/live support or 24/7 Drop-In Tutoring as appropriate;
+* encourage use of current course practice/resources.
 
 For planning, organization, or reading technical instructions:
 
-- consider [Academic Coaching](../academic-support/coaching.md).
+* consider [Academic Coaching](../academic-support/coaching.md).
 
 For a technology failure:
 
-- route to the IT Service Desk.
+* route to the IT Service Desk.
 
 ## "I'm Falling Behind"
 
@@ -75,10 +75,10 @@ Help the student identify what is causing the delay.
 
 Examples:
 
-- cannot access CVD;
-- cannot install/use the supported environment;
-- GitHub/repository workflow is failing;
-- zyBooks access/setup fails after the student follows the current Brightspace directions.
+* cannot access CVD;
+* cannot install/use the supported environment;
+* GitHub/repository workflow is failing;
+* zyBooks access/setup fails after the student follows the current Brightspace directions.
 
 **Next step:** IT Service Desk.
 
@@ -86,10 +86,10 @@ Examples:
 
 Examples:
 
-- does not understand loops;
-- cannot translate pseudocode into code;
-- is struggling to debug;
-- zyBooks concepts or practice remain confusing.
+* does not understand loops;
+* cannot translate pseudocode into code;
+* is struggling to debug;
+* zyBooks concepts or practice remain confusing.
 
 **Next step:** faculty and/or the appropriate [Academic Support](../academic-support/README.md) learning service.
 
@@ -97,9 +97,9 @@ Examples:
 
 Examples:
 
-- unclear about a requirement;
-- unsure what to submit;
-- confused by instructor feedback.
+* unclear about a requirement;
+* unsure what to submit;
+* confused by instructor feedback.
 
 **Next step:** faculty.
 
@@ -107,11 +107,11 @@ Examples:
 
 Examples:
 
-- waiting until the weekend to begin the week's work;
-- underestimating zyBooks time;
-- not knowing whether to work on zyBooks, an assignment, or the project first;
-- losing track of work across Brightspace, zyBooks, GitHub, and VS Code;
-- not leaving time to seek help before deadlines.
+* waiting until the weekend to begin the week's work;
+* underestimating zyBooks time;
+* not knowing whether to work on zyBooks, an assignment, or the project first;
+* losing track of work across Brightspace, zyBooks, GitHub, and VS Code;
+* not leaving time to seek help before deadlines.
 
 **Next step:** advisor can address broader planning, and [Academic Coaching](../academic-support/coaching.md) can help with the student's weekly process and organization.
 
@@ -127,9 +127,9 @@ Current Brightspace requirements/due dates take precedence.
 
 Examples:
 
-- competing responsibilities;
-- concern about staying enrolled or academic progress;
-- broader course sequencing or program questions.
+* competing responsibilities;
+* concern about staying enrolled or academic progress;
+* broader course sequencing or program questions.
 
 **Next step:** advisor using normal advising practices, while also connecting the course-specific barrier to the right support role.
 
@@ -141,10 +141,10 @@ Encourage the student to begin earlier and use several work sessions across the 
 
 This creates time to recover if:
 
-- a concept is harder than expected;
-- the program has an error;
-- the student needs instructor or tutoring help; or
-- a technical problem occurs.
+* a concept is harder than expected;
+* the program has an error;
+* the student needs instructor or tutoring help; or
+* a technical problem occurs.
 
 For students who have difficulty building or following the plan, refer to [Academic Coaching | Time and Task Prioritization](../academic-support/coaching.md#time-and-task-prioritization).
 
@@ -156,11 +156,11 @@ This may be an **academic reading/process** barrier rather than a programming or
 
 Academic Coaching can help the student practice:
 
-- reading the full current step before acting;
-- identifying exact filenames, paths, and commands;
-- separating requirements from examples, tips, and optional practice;
-- completing one step at a time; and
-- comparing expected and actual results before continuing.
+* reading the full current step before acting;
+* identifying exact filenames, paths, and commands;
+* separating requirements from examples, tips, and optional practice;
+* completing one step at a time; and
+* comparing expected and actual results before continuing.
 
 See [Reading Comprehension and Technical Documentation](../academic-support/coaching.md#reading-comprehension-and-technical-documentation).
 
@@ -172,9 +172,9 @@ A local installation is optional when the CVD is available.
 
 The advisor can tell the student:
 
-- IT 140 provides a browser-accessed CVD reference environment;
-- the student can use the CVD rather than continue struggling with a local installation; and
-- the IT Service Desk can help with technical access/environment problems.
+* IT 140 provides a browser-accessed CVD reference environment;
+* the student can use the CVD rather than continue struggling with a local installation; and
+* the IT Service Desk can help with technical access/environment problems.
 
 Do not walk the student through manual software installation.
 
@@ -203,11 +203,11 @@ Advisors do not need to require a screenshot of the student's code.
 
 Encourage the student to give the instructor or learning-support resource enough information to understand the problem, such as:
 
-- what the student was trying to do;
-- what they expected to happen;
-- what happened instead;
-- the exact error or output when available; and
-- the relevant code or other work needed to understand the issue.
+* what the student was trying to do;
+* what they expected to happen;
+* what happened instead;
+* the exact error or output when available; and
+* the relevant code or other work needed to understand the issue.
 
 A screenshot can be useful when it shows an IDE state, error, or other visual context, but it should supplement rather than replace a clear description when possible.
 
@@ -223,8 +223,8 @@ Technical environment/access failures belong to the IT Service Desk.
 
 The student may need both:
 
-- technical support to restore the environment; and
-- faculty communication about the academic impact.
+* technical support to restore the environment; and
+* faculty communication about the academic impact.
 
 ## "I Tried Help, but I'm Still Stuck"
 
@@ -232,10 +232,10 @@ Identify which support has already been used and whether the problem changed.
 
 For example:
 
-- Service Desk fixed Python, but the student still does not understand the code → faculty/Academic Support learning support.
-- LSS helped with loops, but the student still cannot organize enough time → Academic Coaching.
-- Academic Coaching helped build a schedule, but GitHub authentication still fails → Service Desk.
-- Technical, learning, and coaching issues are resolved, but the student remains concerned about academic progress → advisor.
+* Service Desk fixed Python, but the student still does not understand the code → faculty/Academic Support learning support.
+* LSS helped with loops, but the student still cannot organize enough time → Academic Coaching.
+* Academic Coaching helped build a schedule, but GitHub authentication still fails → Service Desk.
+* Technical, learning, and coaching issues are resolved, but the student remains concerned about academic progress → advisor.
 
 Avoid sending the student back and forth without identifying the unresolved layer.
 
@@ -243,11 +243,11 @@ Avoid sending the student back and forth without identifying the unresolved laye
 
 Advisors should not promise:
 
-- a particular grade outcome;
-- an instructor decision;
-- that a technical problem will be fixed in a specific way;
-- that a particular unsupported device will work; or
-- that a student may ignore current course requirements because of a technical issue.
+* a particular grade outcome;
+* an instructor decision;
+* that a technical problem will be fixed in a specific way;
+* that a particular unsupported device will work; or
+* that a student may ignore current course requirements because of a technical issue.
 
 Instead, connect the student to the role authorized to make that determination.
 

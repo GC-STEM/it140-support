@@ -111,11 +111,11 @@ assuming the student must immediately delete everything.
 
 Determine:
 
-- who owns the created repository;
-- whether it is public or private;
-- whether the expected repository name was used;
-- whether student work already exists there; and
-- whether a local clone is connected to it.
+* who owns the created repository;
+* whether it is public or private;
+* whether the expected repository name was used;
+* whether student work already exists there; and
+* whether a local clone is connected to it.
 
 Preserve work first. Then use the current activity README and the canonical
 [GitHub Workflow](../shared/github-workflow.md) to establish the intended
@@ -128,10 +128,10 @@ a reason to delete the repository immediately.
 
 Determine whether:
 
-- the student's private GitHub repository already exists;
-- the local folder already exists;
-- both exist and are connected correctly; or
-- one copy is missing.
+* the student's private GitHub repository already exists;
+* the local folder already exists;
+* both exist and are connected correctly; or
+* one copy is missing.
 
 Use the canonical recovery paths in
 [GitHub Workflow](../shared/github-workflow.md#returning-to-an-existing-assignment).
@@ -265,10 +265,10 @@ Before treating a student CI result as a technical defect:
 
 Current version 1.0.4 behavior includes:
 
-- untouched fresh personal repositories are intended to be neutral;
-- Module Three/Module Four optional Python practice is not a student CI
+* untouched fresh personal repositories are intended to be neutral;
+* Module Three/Module Four optional Python practice is not a student CI
   requirement; and
-- Projects Ruff feedback is advisory and does not by itself make student CI
+* Projects Ruff feedback is advisory and does not by itself make student CI
   fail.
 
 A repository/CI defect is more likely when an untouched fresh personal
@@ -292,10 +292,10 @@ student's existing GitHub repository.
 
 Before starting over:
 
-- preserve local work;
-- preserve/rename the existing private GitHub repository;
-- use the activity's current reset/start-over instructions; and
-- do not delete the only copy of student work.
+* preserve local work;
+* preserve/rename the existing private GitHub repository;
+* use the activity's current reset/start-over instructions; and
+* do not delete the only copy of student work.
 
 See
 [Starting Over From the Course Template](../shared/github-workflow.md#starting-over-from-the-course-template).

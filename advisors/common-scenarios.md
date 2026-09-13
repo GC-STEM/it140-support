@@ -18,12 +18,12 @@ First distinguish productive learning time from a barrier that is consuming time
 
 Ask whether the extra time is mainly due to:
 
-- learning unfamiliar programming concepts → instructor / Academic Support learning service;
-- repeated debugging or problem solving → instructor / Academic Support learning service;
-- technology that will not function → IT Service Desk;
-- unclear assignment requirements → instructor;
-- time/task organization or technical-reading difficulty → Academic Coaching; or
-- broader workload/scheduling concerns → advisor.
+* learning unfamiliar programming concepts → instructor / Academic Support learning service;
+* repeated debugging or problem solving → instructor / Academic Support learning service;
+* technology that will not function → IT Service Desk;
+* unclear assignment requirements → instructor;
+* time/task organization or technical-reading difficulty → Academic Coaching; or
+* broader workload/scheduling concerns → advisor.
 
 The 16-hour weekly figure is an average, not a maximum.
 
@@ -35,10 +35,10 @@ As a planning estimate, zyBooks may take approximately **4–5 hours per week ea
 
 Encourage the student to:
 
-- use the current Brightspace module to identify what is due;
-- begin earlier in the week;
-- contact the instructor if requirements are unclear; and
-- use the appropriate Academic Support service if the programming concepts or study process are difficult.
+* use the current Brightspace module to identify what is due;
+* begin earlier in the week;
+* contact the instructor if requirements are unclear; and
+* use the appropriate Academic Support service if the programming concepts or study process are difficult.
 
 If zyBooks access/setup itself will not work after following current Brightspace directions, route the technical problem to the IT Service Desk.
 
@@ -66,11 +66,11 @@ If the student consistently struggles to choose and sequence tasks, [Academic Co
 
 Optional preparation can include:
 
-- reviewing basic Python/programming concepts;
-- reviewing the technology requirements;
-- learning key course terms;
-- locating Academic Support options; and
-- using the two-week preview period to understand the course layout and plan the first week.
+* reviewing basic Python/programming concepts;
+* reviewing the technology requirements;
+* learning key course terms;
+* locating Academic Support options; and
+* using the two-week preview period to understand the course layout and plan the first week.
 
 Do **not** advise students to begin graded work, zyBooks assignments, Module One course tasks, or other required IT 140 course work before the official term start unless current university/course guidance explicitly says otherwise.
 
@@ -96,12 +96,12 @@ Use [Academic Support for IT 140](../academic-support/README.md) rather than mai
 
 Depending on the need, options include:
 
-- 24/7 Drop-In Tutoring;
-- IT 140 - Intro to Python Workshop;
-- IT Basics Office Hours;
-- Academic Coaching;
-- Written Feedback; and
-- ELL/ESOL support pathways.
+* 24/7 Drop-In Tutoring;
+* IT 140 - Intro to Python Workshop;
+* IT Basics Office Hours;
+* Academic Coaching;
+* Written Feedback; and
+* ELL/ESOL support pathways.
 
 Current-term live-session schedule:
 
@@ -139,8 +139,8 @@ Ask one routing question:
 
 > "Can Python run, but your program gives the wrong result—or will the course tools not run at all?"
 
-- Course tools/Python will not run → **IT Service Desk**.
-- Python runs, but the student's program is wrong → **faculty or Academic Support learning service**.
+* Course tools/Python will not run → **IT Service Desk**.
+* Python runs, but the student's program is wrong → **faculty or Academic Support learning service**.
 
 ## "I Don't Understand Loops / Functions / Dictionaries"
 
@@ -184,10 +184,10 @@ Do not assume the work is actually deleted.
 
 The student may be:
 
-- signed into the wrong GitHub account;
-- looking at the public GC-STEM template;
-- looking at a different local folder; or
-- missing only the local clone.
+* signed into the wrong GitHub account;
+* looking at the public GC-STEM template;
+* looking at a different local folder; or
+* missing only the local clone.
 
 **Route:** IT Service Desk for repository/account recovery.
 
@@ -215,11 +215,11 @@ This is an advising concern, but identify whether a fixable course-specific barr
 
 Ask whether the main issue is:
 
-- technical access → Service Desk;
-- programming understanding → faculty/Academic Support;
-- time/task/organization → Academic Coaching;
-- assignment/grading → faculty; or
-- broader academic planning/workload → advisor.
+* technical access → Service Desk;
+* programming understanding → faculty/Academic Support;
+* time/task/organization → Academic Coaching;
+* assignment/grading → faculty; or
+* broader academic planning/workload → advisor.
 
 The student may need more than one path at the same time.
 

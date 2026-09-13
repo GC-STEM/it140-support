@@ -8,12 +8,12 @@ This is an F&S-facing guide. Student-facing instructions for how to request help
 
 24/7 Drop-In Tutors work for **Tutor.com and are not SNHU employees**. They can provide general tutoring support, including Python, but they should not be expected to have particular knowledge of:
 
-- IT 140;
-- SNHU assignment wording or rubrics;
-- current IT 140 GitHub repositories;
-- the course IDE/CVD setup;
-- IT 140 starter files or tests; or
-- the current module's instructional sequence.
+* IT 140;
+* SNHU assignment wording or rubrics;
+* current IT 140 GitHub repositories;
+* the course IDE/CVD setup;
+* IT 140 starter files or tests; or
+* the current module's instructional sequence.
 
 This makes **current course context** particularly important when the student's question depends on an IT 140 activity.
 
@@ -25,21 +25,21 @@ Official student access:
 
 Tutoring can be a strong option for help with general introductory Python and problem-solving topics such as:
 
-- input and output;
-- variables and data types;
-- type conversion;
-- strings;
-- arithmetic expressions;
-- decision branching;
-- loops;
-- functions;
-- lists;
-- dictionaries;
-- interpreting Python syntax/runtime errors in student-created code;
-- testing small examples;
-- tracing program logic;
-- debugging strategy; and
-- breaking a programming problem into smaller steps.
+* input and output;
+* variables and data types;
+* type conversion;
+* strings;
+* arithmetic expressions;
+* decision branching;
+* loops;
+* functions;
+* lists;
+* dictionaries;
+* interpreting Python syntax/runtime errors in student-created code;
+* testing small examples;
+* tracing program logic;
+* debugging strategy; and
+* breaking a programming problem into smaller steps.
 
 The tutor should generally help the student understand and develop **their own solution**, not produce a complete graded deliverable.
 
@@ -97,21 +97,21 @@ For a full topic sequence, see the current course/zyBooks materials.
 
 Appropriate tutoring can include:
 
-- explaining a programming concept;
-- asking the student to predict what code will do;
-- tracing a small section of the student's logic;
-- interpreting an error;
-- helping the student design a test;
-- asking questions that lead the student to the next step;
-- demonstrating a concept with a different or partial example; and
-- helping the student compare expected and actual behavior.
+* explaining a programming concept;
+* asking the student to predict what code will do;
+* tracing a small section of the student's logic;
+* interpreting an error;
+* helping the student design a test;
+* asking questions that lead the student to the next step;
+* demonstrating a concept with a different or partial example; and
+* helping the student compare expected and actual behavior.
 
 Tutoring should not become:
 
-- a complete solution to a graded IT 140 assignment or project;
-- a finished flowchart or pseudocode deliverable for the student;
-- a rewrite of the student's program into a submission-ready solution; or
-- an interpretation of whether the work earns a particular rubric score.
+* a complete solution to a graded IT 140 assignment or project;
+* a finished flowchart or pseudocode deliverable for the student;
+* a rewrite of the student's program into a submission-ready solution; or
+* an interpretation of whether the work earns a particular rubric score.
 
 See [Support Boundaries](../shared/support-boundaries.md#academic-integrity-boundary).
 

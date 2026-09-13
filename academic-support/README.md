@@ -23,12 +23,12 @@ A student may appropriately use more than one service. For example, a student wh
 
 Use the current official pages when giving students access or schedule information:
 
-- [Academic Resource Center (ARC)](https://snhuacademicresourcecenter.screenstepslive.com/)
-- [ARC Computer Science & Data Analytics](https://snhuacademicresourcecenter.screenstepslive.com/m/138398)
-- [Group Sessions Schedule: Workshops, Office Hours, and Peer Groups](https://snhuacademicresourcecenter.screenstepslive.com/a/1834032-group-sessions-schedule-workshops-office-hours-and-peer-groups)
-- [24/7 Drop-In Tutoring](https://lhh.tutor.com/SNHU/PreSession)
-- [Written Feedback](http://bit.ly/ASC-WrittenFeedback)
-- [ARC English Language Learner Resources](https://snhuacademicresourcecenter.screenstepslive.com/m/126487)
+* [Academic Resource Center (ARC)](https://snhuacademicresourcecenter.screenstepslive.com/)
+* [ARC Computer Science & Data Analytics](https://snhuacademicresourcecenter.screenstepslive.com/m/138398)
+* [Group Sessions Schedule: Workshops, Office Hours, and Peer Groups](https://snhuacademicresourcecenter.screenstepslive.com/a/1834032-group-sessions-schedule-workshops-office-hours-and-peer-groups)
+* [24/7 Drop-In Tutoring](https://lhh.tutor.com/SNHU/PreSession)
+* [Written Feedback](http://bit.ly/ASC-WrittenFeedback)
+* [ARC English Language Learner Resources](https://snhuacademicresourcecenter.screenstepslive.com/m/126487)
 
 Schedules, service labels, and access paths can change. Prefer the current official page over memorized times or older copied instructions.
 
@@ -36,22 +36,22 @@ Schedules, service labels, and access paths can change. Prefer the current offic
 
 Academic Support personnel do not need to become IT 140 instructors to support students effectively, but these facts help explain the course context:
 
-- **Course:** IT 140 - Introduction to Scripting.
-- **Length:** Eight weeks.
-- **Programming language:** Python.
-- **Prior experience:** Previous programming experience is not required.
-- **Workload context:** A three-credit course in this format should require about **16 hours per week on average for an average student**.
-- **Pace:** Programming concepts build from week to week; early delays can compound.
-- **zyBooks:** A significant part of weekly learning and practice, especially early in the course.
-- **Development environment:** The Codio Virtual Desktop (CVD) is the reference environment; supported local setup is optional.
-- **GitHub:** Public course repositories provide instructions/templates; students create private repositories for development work.
-- **Graded requirements:** D2L Brightspace Guidelines and Rubric remain authoritative.
+* **Course:** IT 140 - Introduction to Scripting.
+* **Length:** Eight weeks.
+* **Programming language:** Python.
+* **Prior experience:** Previous programming experience is not required.
+* **Workload context:** A three-credit course in this format should require about **16 hours per week on average for an average student**.
+* **Pace:** Programming concepts build from week to week; early delays can compound.
+* **zyBooks:** A significant part of weekly learning and practice, especially early in the course.
+* **Development environment:** The Codio Virtual Desktop (CVD) is the reference environment; supported local setup is optional.
+* **GitHub:** Public course repositories provide instructions/templates; students create private repositories for development work.
+* **Graded requirements:** D2L Brightspace Guidelines and Rubric remain authoritative.
 
 For more context, use:
 
-- [IT 140 Course Overview](../shared/course-overview.md)
-- [Course Glossary](../shared/glossary.md)
-- [Advisor: What to Expect in IT 140](../advisors/course-expectations.md)
+* [IT 140 Course Overview](../shared/course-overview.md)
+* [Course Glossary](../shared/glossary.md)
+* [Advisor: What to Expect in IT 140](../advisors/course-expectations.md)
 
 ## Workshops and Office Hours
 
@@ -59,17 +59,17 @@ Learning Support Specialists (LSS) provide IT 140-related live group support.
 
 Current IT 140-related sessions include:
 
-- **IT 140 - Intro to Python Workshop** — a workshop format with instruction and student questions; and
-- **IT Basics Office Hours** — question-driven live support without a fixed agenda.
+* **IT 140 - Intro to Python Workshop** — a workshop format with instruction and student questions; and
+* **IT Basics Office Hours** — question-driven live support without a fixed agenda.
 
 Use the [LSS Support Guide](../lss/README.md) when you need F&S guidance about:
 
-- what LSS should know about the current course;
-- appropriate programming help;
-- workshops and office hours;
-- course tools and repositories;
-- academic-integrity boundaries; or
-- LSS referrals and escalation.
+* what LSS should know about the current course;
+* appropriate programming help;
+* workshops and office hours;
+* course tools and repositories;
+* academic-integrity boundaries; or
+* LSS referrals and escalation.
 
 Use the current [group-session schedule](https://snhuacademicresourcecenter.screenstepslive.com/a/1834032-group-sessions-schedule-workshops-office-hours-and-peer-groups) for current times.
 
@@ -79,12 +79,12 @@ Use the current [group-session schedule](https://snhuacademicresourcecenter.scre
 
 The important distinction for F&S is that 24/7 Drop-In Tutors work for **Tutor.com and are not SNHU employees**. They therefore should not be expected to know:
 
-- the IT 140 module structure;
-- the current Brightspace assignment wording;
-- the course GitHub workflow;
-- the IT 140 CVD setup;
-- which starter files are current; or
-- how an IT 140 rubric should be interpreted.
+* the IT 140 module structure;
+* the current Brightspace assignment wording;
+* the course GitHub workflow;
+* the IT 140 CVD setup;
+* which starter files are current; or
+* how an IT 140 rubric should be interpreted.
 
 F&S can make tutoring more effective by helping the tutor reach the **current public course context** rather than expecting the tutor to know the course.
 
@@ -96,12 +96,12 @@ Academic Coaching has strong potential to support IT 140 because many programmin
 
 Useful coaching areas include:
 
-- time and task prioritization;
-- reading and following technical documentation;
-- strengthening academic skills;
-- support strategies for learning differences;
-- critical thinking and problem solving; and
-- organization across an eight-week technical course.
+* time and task prioritization;
+* reading and following technical documentation;
+* strengthening academic skills;
+* support strategies for learning differences;
+* critical thinking and problem solving; and
+* organization across an eight-week technical course.
 
 Coaches do not need to teach Python or troubleshoot Git/GitHub to be useful. They need enough course context to help the student build a workable process and recognize when a problem should move to another support role.
 
@@ -113,24 +113,24 @@ Written Feedback may be appropriate for the relatively small amount of formal wr
 
 Examples include:
 
-- the **Module Two IDE Features Reflection**; and
-- the **Project One text-adventure game theme/storyline description**.
+* the **Module Two IDE Features Reflection**; and
+* the **Project One text-adventure game theme/storyline description**.
 
 Written Feedback can help with areas such as:
 
-- organization;
-- clarity;
-- paragraph development;
-- sentence-level writing; and
-- communicating technical ideas to a reader.
+* organization;
+* clarity;
+* paragraph development;
+* sentence-level writing; and
+* communicating technical ideas to a reader.
 
 Written Feedback should **not** be used as a substitute for:
 
-- checking whether Python code works;
-- validating pseudocode or a flowchart;
-- determining whether a deliverable meets an IT 140 rubric criterion;
-- interpreting an assignment requirement; or
-- grading.
+* checking whether Python code works;
+* validating pseudocode or a flowchart;
+* determining whether a deliverable meets an IT 140 rubric criterion;
+* interpreting an assignment requirement; or
+* grading.
 
 For rubric or requirement interpretation, refer to the student's **IT 140 instructor and current D2L Brightspace Guidelines and Rubric**.
 
@@ -138,10 +138,10 @@ For rubric or requirement interpretation, refer to the student's **IT 140 instru
 
 English-language learners may be able to receive support through multiple Academic Support pathways, including:
 
-- 24/7 Drop-In Tutoring;
-- LSS Workshops and Office Hours;
-- Academic Coaching; and
-- [ARC English Language Learner resources](https://snhuacademicresourcecenter.screenstepslive.com/m/126487).
+* 24/7 Drop-In Tutoring;
+* LSS Workshops and Office Hours;
+* Academic Coaching; and
+* [ARC English Language Learner resources](https://snhuacademicresourcecenter.screenstepslive.com/m/126487).
 
 Treat ELL/ESOL support as a **cross-service pathway**, not as a separate IT 140 technical-support function.
 
@@ -165,14 +165,14 @@ Because this repository is public, do not place student-specific information, pr
 
 When Academic Support personnel work with a student:
 
-- use approved channels for student work;
-- preserve the student's authorship and decision-making;
-- support learning rather than completing graded work for the student; and
-- route assignment-interpretation questions to faculty.
+* use approved channels for student work;
+* preserve the student's authorship and decision-making;
+* support learning rather than completing graded work for the student; and
+* route assignment-interpretation questions to faculty.
 
 For more detail, see:
 
-- [Support Boundaries](../shared/support-boundaries.md)
-- [LSS Learning Support and Academic Integrity](../lss/learning-support-and-integrity.md)
+* [Support Boundaries](../shared/support-boundaries.md)
+* [LSS Learning Support and Academic Integrity](../lss/learning-support-and-integrity.md)
 
 Return to the [IT 140 Support home page](../README.md).
