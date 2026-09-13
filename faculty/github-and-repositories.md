@@ -23,11 +23,7 @@ location** before giving repository-specific advice.
 The canonical workflow is documented in
 [GitHub Workflow](../shared/github-workflow.md).
 
-At a high level, students:
-
-> read the current activity README → run its repository-setup command block →
-> work in the private repository's local clone under `~/Repos` → commit/push →
-> submit the required deliverable in D2L Brightspace
+At a high level, students read the current activity README → run its repository-setup command block → work in the private repository's local clone under `~/Repos` → commit/push → submit the required deliverable in D2L Brightspace
 
 > [!IMPORTANT]
 > Students should **not click Fork or Use this template** on the public GC-STEM
